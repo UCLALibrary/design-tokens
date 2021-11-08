@@ -1,0 +1,851 @@
+{
+  "black": {
+    "value": "#0f0f0f",
+    "type": "color",
+    "description": "Usage:\n\nKeywords:"
+  },
+  "white": {
+    "value": "#ffffff",
+    "type": "color",
+    "description": "Usage:\n\nKeywords:"
+  },
+  "primary": {
+    "yellow-01": {
+      "value": "#ffe800",
+      "type": "color",
+      "description": "Keywords: primary yellow"
+    },
+    "blue-05": {
+      "value": "#032d5b",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary darkest blue"
+    },
+    "blue-04": {
+      "value": "#0055a6",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary darker blue"
+    },
+    "blue-03": {
+      "value": "#0b6ab7",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary blue"
+    },
+    "blue-02": {
+      "value": "#9ecffa",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary light blue"
+    },
+    "blue-01": {
+      "value": "#eaf2fb",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary lightest blue"
+    }
+  },
+  "secondary": {
+    "yellow-03": {
+      "value": "#ffd600",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary yellow 03"
+    },
+    "yellow-02": {
+      "value": "#ffdb20",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary yellow 02"
+    },
+    "yellow-01": {
+      "value": "#ffe92e",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary yellow 01"
+    },
+    "blue-03": {
+      "value": "#1f75c5",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary blue 03"
+    },
+    "blue-02": {
+      "value": "#1678d0",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary blue 02"
+    },
+    "blue-01": {
+      "value": "#288fe8",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary blue 01"
+    },
+    "grey-05": {
+      "value": "#434343",
+      "type": "color",
+      "description": "Usage: text\n\nKeywords: secondary black"
+    },
+    "grey-04": {
+      "value": "#717171",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 04"
+    },
+    "grey-03": {
+      "value": "#999999",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 03"
+    },
+    "grey-02": {
+      "value": "#dcdcdb",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 02"
+    },
+    "grey-01": {
+      "value": "#f2f2f2",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 01"
+    }
+  },
+  "default": {
+    "cyan-03": {
+      "value": "#0aa5ff",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: default - cyan base"
+    },
+    "cyan-02": {
+      "value": "#5cd9ff",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: default - cyan lighter"
+    },
+    "cyan-01": {
+      "value": "#c7f8ff",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: default - cyan lightest"
+    }
+  },
+  "help": {
+    "green-03": {
+      "value": "#00e0e0",
+      "type": "color",
+      "description": "Usage: way finder, help\n\nKeywords: help - green base"
+    },
+    "green-02": {
+      "value": "#87fbe8",
+      "type": "color",
+      "description": "Usage: way finder, help\n\nKeywords: help - green lighter"
+    },
+    "green-01": {
+      "value": "#b9f8ee",
+      "type": "color",
+      "description": "Usage: way finder, help\n\nKeywords: help - green lightest"
+    }
+  },
+  "visit": {
+    "fushia-03": {
+      "value": "#ff94db",
+      "type": "color",
+      "description": "Usage: way finder, visit\n\nKeywords: visit - fushia base"
+    },
+    "fushia-02": {
+      "value": "#ffbdf4",
+      "type": "color",
+      "description": "Usage: way finder, visit\n\nKeywords: visit - fushia lighter"
+    },
+    "fushia-01": {
+      "value": "#fff0fb",
+      "type": "color",
+      "description": "Usage: way finder, visit\n\nKeywords: visit - fushia lightest"
+    }
+  },
+  "about": {
+    "purple-03": {
+      "value": "#c099ff",
+      "type": "color",
+      "description": "Usage: way finder, about\n\nKeywords: about - purple base"
+    },
+    "purple-02": {
+      "value": "#e7dbff",
+      "type": "color",
+      "description": "Usage: way finder, about\n\nKeywords: about - purple lighter"
+    },
+    "purple-01": {
+      "value": "#efe5ff",
+      "type": "color",
+      "description": "Usage: way finder, about\n\nKeywords: about - purple lightest"
+    }
+  },
+  "gradients": {
+    "gradient-03": {
+      "value": "linear-gradient(20deg, #fd9be0 0%, #e29aee 15.42%, #c099ff 28.1%, #8ba0ef 40.31%, #0aa5ff 58.56%, #06bef2 79.6%, #00e0e0 100%)",
+      "type": "color",
+      "description": "Usage: error page status code\n\nKeywords:"
+    },
+    "gradient-01": {
+      "value": "linear-gradient(52deg, #0b6ab7 0%, #1f75c5 41.67%, #0aa5ff 93.36%)",
+      "type": "color",
+      "description": "Usage: blue dark to light gradient Keywords:"
+    },
+    "gradient-02": {
+      "value": "linear-gradient(260deg, #0b6ab7 7.91%, #1f75c5 35.23%, #0aa5ff 81.77%)",
+      "description": "Usage: blue light to dark gradient Keywords",
+      "type": "color"
+    }
+  },
+  "rounded-slightly": {
+    "value": 4,
+    "type": "borderRadius"
+  },
+  "md": {
+    "value": 32,
+    "type": "sizing"
+  },
+  "sm": {
+    "value": 16,
+    "type": "sizing"
+  },
+  "shadow-01": {
+    "value": {
+      "y": 1,
+      "blur": 2,
+      "color": "#0000000a",
+      "x": 0,
+      "spread": 0
+    },
+    "description": "Usage: card hover  Keywords:",
+    "type": "boxShadow"
+  },
+  "shadow-02": {
+    "value": {
+      "x": 0,
+      "y": 6,
+      "blur": 32,
+      "spread": 0,
+      "color": "#00000014"
+    },
+    "type": "boxShadow"
+  },
+  "lightbox-01": {
+    "value": {
+      "x": 0,
+      "y": 8,
+      "blur": 32,
+      "spread": 0,
+      "color": "#0000002e"
+    },
+    "description": "Usage: lightbox Keywords:",
+    "type": "boxShadow"
+  },
+  "navigation-01": {
+    "value": {
+      "x": 0,
+      "y": 2,
+      "blur": 8,
+      "spread": 0,
+      "color": "$secondary.grey04, .08"
+    },
+    "description": "Usage: navigation Keywords: ",
+    "type": "boxShadow"
+  },
+  "overlays": {
+    "overlay-02": {
+      "value": "linear-gradient(90deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0f0f0f 100%)",
+      "type": "color",
+      "description": "Usage: feature blocks without eyebrows / overline labels\n\nKeywords: bottom only"
+    }
+  },
+  "U": {
+    "Body": {
+      "Caption": {
+        "fontFamily": {
+          "value": "Proxima Nova"
+        },
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 16
+        },
+        "letterSpacing": {
+          "value": "1%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        }
+      },
+      "Overline": {
+        "fontFamily": {
+          "value": "Karbon"
+        },
+        "fontWeight": {
+          "value": "Medium"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 16
+        },
+        "letterSpacing": {
+          "value": "10%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        }
+      },
+      "Paragraph": {
+        "fontFamily": {
+          "value": "Karbon"
+        },
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "160%"
+        },
+        "fontSize": {
+          "value": 20
+        },
+        "letterSpacing": {
+          "value": "1%"
+        },
+        "paragraphSpacing": {
+          "value": 30
+        }
+      },
+      "Link": {
+        "fontFamily": {
+          "value": "Proxima Nova"
+        },
+        "fontWeight": {
+          "value": "Regular"
+        },
+        "lineHeight": {
+          "value": "$lineHeights.6"
+        },
+        "fontSize": {
+          "value": "$fontSize.1"
+        },
+        "letterSpacing": {
+          "value": "0%"
+        },
+        "paragraphSpacing": {
+          "value": 0
+        }
+      }
+    },
+    "Min": {
+      "Heading": {
+        "Step1": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 22
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step2": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 25
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step3": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 28
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step4": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 32.036
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step5": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "100%"
+          },
+          "fontSize": {
+            "value": 36.041
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        }
+      }
+    },
+    "Med": {
+      "Heading": {
+        "Step1": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 24.04
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step2": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 28.88
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step3": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 34.71
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step4": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 41.72
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step5": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "100%"
+          },
+          "fontSize": {
+            "value": 50.13
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        }
+      }
+    },
+    "Max": {
+      "Heading": {
+        "Step1": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 26
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step2": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Medium"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 35.538
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step3": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 47.372
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step4": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "120%"
+          },
+          "fontSize": {
+            "value": 63.147
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        },
+        "Step5": {
+          "fontFamily": {
+            "value": "Karbon"
+          },
+          "fontWeight": {
+            "value": "Regular"
+          },
+          "lineHeight": {
+            "value": "100%"
+          },
+          "fontSize": {
+            "value": 84.175
+          },
+          "letterSpacing": {
+            "value": "0%"
+          },
+          "paragraphSpacing": {
+            "value": 0
+          }
+        }
+      }
+    }
+  },
+  "fontFamilies": {
+    "secondary": {
+      "value": "Proxima Nova",
+      "type": "fontFamilies"
+    },
+    "primary": {
+      "value": "Karbon",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "description": "500"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": "160%",
+      "type": "lineHeights"
+    },
+    "-2": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "-1": {
+      "value": "120%",
+      "type": "lineHeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": 20,
+      "type": "fontSizes"
+    },
+    "-1": {
+      "value": 16,
+      "type": "fontSizes"
+    },
+    "min": {
+      "1": {
+        "value": 22,
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": 25,
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": 28,
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": 32.036,
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": 36.041,
+        "type": "fontSizes"
+      }
+    },
+    "med": {
+      "1": {
+        "value": 24.04,
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": 28.88,
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": 34.71,
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": 41.72,
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": 50.13,
+        "type": "fontSizes"
+      }
+    },
+    "max": {
+      "1": {
+        "value": 26,
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": 35.538,
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": 47.372,
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": 63.147,
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": 84.175,
+        "type": "fontSizes"
+      }
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "1": {
+      "value": "1%",
+      "type": "letterSpacing"
+    },
+    "2": {
+      "value": "10%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "1": {
+      "value": 30,
+      "type": "paragraphSpacing"
+    }
+  },
+  "component-01": {
+    "value": 2,
+    "type": "spacing"
+  },
+  "component-02": {
+    "value": 4,
+    "type": "spacing"
+  },
+  "component-03": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "component-04": {
+    "value": 12,
+    "type": "spacing"
+  },
+  "component-05": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "component-06": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "component-07": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "component-08": {
+    "value": 40,
+    "type": "spacing"
+  },
+  "component-09": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "layout-01": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "layout-02": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "layout-03": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "layout-04": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "layout-05": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "layout-06": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "layout-07": {
+    "value": 96,
+    "type": "spacing"
+  },
+  "layout-08": {
+    "value": 112,
+    "type": "spacing"
+  },
+  "layout-09": {
+    "value": 128,
+    "type": "spacing"
+  }
+}

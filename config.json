@@ -1,0 +1,17 @@
+{
+  "source": ["data/transformed-tokens.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "scss",
+      "files": [
+        {
+          "destination": "scss/variables.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    }
+  }
+}
