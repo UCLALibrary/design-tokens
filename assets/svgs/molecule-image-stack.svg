@@ -1,6 +1,6 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M64 0L109.255 18.7451L128 64L109.255 109.255L64 128L18.7452 109.255L0 64L18.7452 18.7451L64 0Z" fill="#0B6AB7"/>
-<path d="M40.9707 51.9013V48.9714H87.0278V79.6762H84.1783" stroke="white" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M43.9434 48.9917V46H90.0005V76.7048H87.2129" stroke="white" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M84.0571 82.6476C68.7048 82.6476 53.3524 82.6476 38 82.6476V51.9429H84.0571V82.6476Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="m64 0 45.255 18.745L128 64l-18.745 45.255L64 128l-45.255-18.745L0 64l18.745-45.255L64 0Z" fill="#0B6AB7"/>
+  <path d="M40.97 51.901v-2.93h46.058v30.705h-2.85" stroke="#fff" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43.943 48.992V46h46.058v30.705h-2.788" stroke="#fff" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84.057 82.648H38V51.943h46.057v30.705Z" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
