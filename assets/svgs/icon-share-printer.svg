@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="16" fill="#F2F2F2" class="svg__fill--secondary-grey-01"/>
+    <path d="M7 21.1984h-.75c0 .4142.33579.75.75.75v-.75Zm0-8.1205v-.75c-.41421 0-.75.3358-.75.75H7Zm18 0h.75c0-.4142-.3358-.75-.75-.75v.75Zm0 8.1205v.75c.4142 0 .75-.3358.75-.75H25Zm-16.29837.75h.75v-1.5h-.75v1.5Zm14.57147-1.5h-.75v1.5h.75v-1.5Zm-15.5231.75v-8.1205h-1.5v8.1205h1.5ZM7 13.8279h18v-1.5H7v1.5Zm17.25-.75v8.1205h1.5v-8.1205h-1.5ZM8.70163 20.4484H7v1.5h1.70163v-1.5Zm16.29837 0h-1.7269v1.5H25v-1.5Z" fill="#0F0F0F" class="svg__fill--black"/>
+    <path d="M11.4482 18.7737v6.5454h9.0013v-6.5454h-9.0013Z" stroke="#0F0F0F" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--black"/>
+    <path d="M13.5213 21.0669h4.8821" stroke="#0F0F0F" class="svg__stroke--black"/>
+    <path d="M13.5213 22.812h2.99" stroke="#0F0F0F" class="svg__stroke--black"/>
+    <path d="M10.6306 16.4412h1.6243" stroke="#0F0F0F" stroke-width="1.25" class="svg__stroke--black"/>
+    <path d="M9.86359 8.68115v4.41055H22.5071V8.68115H9.86359Z" stroke="#0F0F0F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--black"/>
+  </svg>
