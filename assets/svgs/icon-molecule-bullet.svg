@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="m15.8977 10 4.1703 1.7574L21.7954 16l-1.7274 4.2426L15.8977 22l-4.1703-1.7574L10 16l1.7274-4.2426L15.8977 10Z"
+    fill="#0B6AB7" class="svg__fill--primary-blue-03 bullet-fill" />
+  <mask id="a" fill="#fff">
+    <path
+      d="m15.8977 10 4.1703 1.7574L21.7954 16l-1.7274 4.2426L15.8977 22l-4.1703-1.7574L10 16l1.7274-4.2426L15.8977 10Z" />
+  </mask>
+  <path
+    d="m15.8977 10 4.1703 1.7574L21.7954 16l-1.7274 4.2426L15.8977 22l-4.1703-1.7574L10 16l1.7274-4.2426L15.8977 10Z"
+    stroke="#0B6AB7" stroke-width="2" mask="url(#a)" class="svg__stroke--primary-blue-03 bullet-stroke" />
+</svg>

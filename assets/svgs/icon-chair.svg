@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M24.2699 15.6823c0 .5738-.4651 1.039-1.039 1.039H8.69869c-.57385 0-1.03903-.4652-1.03903-1.039V5.21605c0-.57385.4652-1.03905 1.03904-1.03905h14.5322c.5738 0 1.039.4652 1.039 1.03904V15.6823Z"
+    fill="#fff" stroke="#0B6AB7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03 svg__fill--white"/>
+  <path
+    d="M27.7591 23.2575V12.7912c0-.5738-.4651-1.039-1.039-1.039H23.279c-.5738 0-1.039.4652-1.039 1.039v2.8224c0 .5739-.4652 1.0391-1.0391 1.0391H11.1877c-.5739 0-1.039-.4652-1.039-1.0391v-2.8224c0-.5738-.46524-1.039-1.03909-1.039H5.21556c-.57385 0-1.03905.4652-1.03905 1.039v10.4663c0 .5738.46382 1.039 1.03767 1.039H26.7215c.5738 0 1.0376-.4652 1.0376-1.039Z"
+    fill="#fff" stroke="#0B6AB7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03 svg__fill--white" />
+  <path
+    d="m20.3317 28.9017-.8566-4.6051h2.7652l-.8566 4.6051c-.0229.1231-.1302.2123-.2554.2123h-.5412c-.1252 0-.2325-.0892-.2554-.2123Z"
+    stroke="#0B6AB7" stroke-width="1.25" class="svg__stroke--primary-blue-03" />
+  <path
+    d="m9.65619 28.9017-.85654-4.6051h2.76515l-.8566 4.6051c-.0229.1231-.1302.2123-.2554.2123h-.54122c-.12515 0-.2325-.0892-.25539-.2123Z"
+    stroke="#0B6AB7" stroke-width="1.25" class="svg__stroke--primary-blue-03" />
+  <path
+    d="M24.9281 20.7939c0 .5738-.4652 1.039-1.0391 1.039H8.04665c-.57385 0-1.03904-.4652-1.03904-1.039v-3.2981c0-.5738.46519-1.039 1.03904-1.039H23.889c.5739 0 1.0391.4652 1.0391 1.039v3.2981Z"
+    fill="#fff" stroke="#0B6AB7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03 svg__fill--white" />
+  <path d="M5.58511 4.51611V3.5391c0-.57384.4652-1.03904 1.03905-1.03904h.52899" stroke="#0AA5FF" stroke-width="1.25"
+    stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--default-cyan-03" />
+  <path d="M29.4716 23.7927v1.1638c0 .5738-.4651 1.039-1.039 1.039h-.529" stroke="#0AA5FF" stroke-width="1.25"
+    stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--default-cyan-03" />
+</svg>
