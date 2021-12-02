@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M14.1178 16.9027c0 .4142.3358.75.75.75s.75-.3358.75-.75h-1.5Zm1.5-5.381c0-.4142-.3358-.75-.75-.75s-.75.3358-.75.75h1.5Zm0 5.381v-5.381h-1.5v5.381h1.5Z"
+    fill="#0B6AB7" class="svg__fill--primary-blue-03"/>
+  <path
+    d="M14.8679 16.1526c-.4142 0-.75.3358-.75.75s.3358.75.75.75v-1.5Zm5.3809 1.5c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75v1.5Zm-5.3809 0h5.3809v-1.5h-5.3809v1.5Z"
+    fill="#0B6AB7" class="svg__fill--primary-blue-03" />
+  <path
+    d="M27.398 15.8585c0 6.3652-5.1601 11.5252-11.5253 11.5252v0c-6.36518 0-11.5252-5.16-11.5252-11.5252v0c0-6.36523 5.16002-11.52525 11.5252-11.52525v0c6.3652 0 11.5253 5.16002 11.5253 11.52525v0Z"
+    stroke="#0B6AB7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03"/>
+  <path d="M15.8584 29.7169C8.20464 29.7169 2 23.5123 2 15.8584 2 8.20464 8.20464 2 15.8584 2" stroke="#0AA5FF"
+    stroke-width="1.25" stroke-linecap="round" class="svg__stroke--default-cyan-03" />
+</svg>
