@@ -1,6 +1,6 @@
 {
   "name": "ucla-library-design-tokens",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Design tokens for UCLA Library",
   "files": [
     "scss/*.scss",
