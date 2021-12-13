@@ -12,18 +12,35 @@ Helpful Explainers:
 - [Smashing Podcast, Episode 3: What are Design Tokens? with Jina Anne](https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/)
 - [Tokens in Design Systems by Nathan Curtis](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
+## Requirements
+This package requires [Dart Sass](https://sass-lang.com/dart-sass) because [LibSass is deprecated](https://sass-lang.com/blog/libsass-is-deprecated). If you are using the [node-sass](https://www.npmjs.com/package/node-sass) package in your project (which provides the Node.js binding to the deprecated LibSass), please replace it with the [sass](https://www.npmjs.com/package/sass) package:
+```
+npm uninstall node-sass && npm install sass --save-dev
+```
+
 ## Usage
-
-TBD
-
+Install the package:
+```
+npm install ucla-library-design-tokens --save-dev
+```
+Then in your Sass, load the module:
+```
+@import "~ucla-library-design-tokens/scss/typography.scss";
+```
+Then in your component, include the mixins:
+```
+.category {
+  @include overline;
+}
+```
 ## Files
 
 - `data/tokens.json` - Syncs with Figma Tokens plugin
 - `data/transformed-tokens.json` - Tokens transformed to be usable by Style Dictionary
-- `scss/variables.scss` - Tokens usable by developers
+- `scss/*` - Tokens usable by developers
+- `assets/*` - Assets usable by developers
 
 ## Best Practices
 
 Helpful reminders to future selves:
-- Branch name should use snake case (e.g., update_readme)
 - Always leave a comment when creating, reviewing, and merging a pull request
