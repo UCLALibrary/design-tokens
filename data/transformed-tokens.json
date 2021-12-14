@@ -187,51 +187,6 @@
     "value": 4,
     "type": "borderRadius"
   },
-  "shadow-01": {
-    "value": [
-      {
-        "y": 1,
-        "blur": 2,
-        "color": "#0000000a",
-        "x": 0,
-        "spread": 0,
-        "type": "dropShadow"
-      },
-      {
-        "x": 0,
-        "y": 6,
-        "blur": 32,
-        "spread": 0,
-        "color": "#00000014",
-        "type": "dropShadow"
-      }
-    ],
-    "description": "Usage: card hover  Keywords:",
-    "type": "boxShadow"
-  },
-  "lightbox-01": {
-    "value": {
-      "x": 0,
-      "y": 8,
-      "blur": 32,
-      "spread": 0,
-      "color": "#0000002e",
-      "type": "dropShadow"
-    },
-    "description": "Usage: lightbox Keywords:",
-    "type": "boxShadow"
-  },
-  "navigation-01": {
-    "value": {
-      "x": 0,
-      "y": 2,
-      "blur": 8,
-      "spread": 0,
-      "color": "#71717114"
-    },
-    "description": "Usage: navigation Keywords: ",
-    "type": "boxShadow"
-  },
   "overlays": {
     "overlay-02": {
       "value": "linear-gradient(90deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0f0f0f 100%)",
@@ -320,16 +275,5 @@
   "layout-09": {
     "value": 128,
     "type": "spacing"
-  },
-  "search-01": {
-    "value": {
-      "x": 0,
-      "y": 10,
-      "blur": 17,
-      "spread": 0,
-      "color": "#0000000a",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
   }
 }
