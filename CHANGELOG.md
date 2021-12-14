@@ -1,3 +1,10 @@
+## [0.0.3](https://github.com/UCLALibrary/design-tokens/compare/v0.0.2...v0.0.3) (2021-12-14)
+
+
+### Bug Fixes
+
+* **sass:** fixes placement of sass [@use](https://github.com/use) rule ([#19](https://github.com/UCLALibrary/design-tokens/issues/19)) ([b5c441d](https://github.com/UCLALibrary/design-tokens/commit/b5c441d274316477aa70988d80c5934cec1eaf3c))
+
 ## [0.0.2](https://github.com/UCLALibrary/design-tokens/compare/v0.0.1...v0.0.2) (2021-12-14)
 
 
