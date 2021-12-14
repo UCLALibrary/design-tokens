@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/UCLALibrary/design-tokens/compare/v0.2.0...v0.2.1) (2021-12-14)
+
+
+### Bug Fixes
+
+* **box-shadows:** moves box-shadow tokens to separate token set ([#22](https://github.com/UCLALibrary/design-tokens/issues/22)) ([368017c](https://github.com/UCLALibrary/design-tokens/commit/368017cf3a65665eab362565d239fa7100a503aa))
+
 # [0.2.0](https://github.com/UCLALibrary/design-tokens/compare/v0.1.0...v0.2.0) (2021-12-14)
 
 
