@@ -1,18 +1,22 @@
 {
   "name": "ucla-library-design-tokens",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "Design tokens for UCLA Library",
   "files": [
     "scss/*.scss",
     "assets/*"
   ],
   "scripts": {
-    "test": "npx sass variables.scss tmp/variables.css"
+    "test": "npx sass variables.scss tmp/variables.css",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UCLALibrary/design-tokens.git"
+    "url": "https://github.com/UCLALibrary/design-tokens.git"
   },
   "author": "Axa Liauw",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^18.0.1"
+  }
 }
