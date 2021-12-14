@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/UCLALibrary/design-tokens/compare/v0.0.3...v0.1.0) (2021-12-14)
+
+
+### Features
+
+* **logos:** add logos ([#20](https://github.com/UCLALibrary/design-tokens/issues/20)) ([2781d1a](https://github.com/UCLALibrary/design-tokens/commit/2781d1a74bf706c641d3119d5d802005483be529))
+
 ## [0.0.3](https://github.com/UCLALibrary/design-tokens/compare/v0.0.2...v0.0.3) (2021-12-14)
 
 
