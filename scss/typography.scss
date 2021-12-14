@@ -148,26 +148,6 @@ $letter-spacing-2: 0.1em;
   line-height: $line-height--2;
 }
 
-h1 {
-  @include step-5;
-}
-
-h2 {
-  @include step-4;
-}
-
-h3 {
-  @include step-3;
-}
-
-h4 {
-  @include step-2;
-}
-
-h5 {
-  @include step-1;
-}
-
 p {
   @include step-0;
 }
