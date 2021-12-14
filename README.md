@@ -23,15 +23,25 @@ Install the package:
 ```
 npm install ucla-library-design-tokens --save-dev
 ```
-Then in your Sass, load the module:
+Then in your Sass, load the module (e.g., variables, typography, or helpers):
 ```
 @import "~ucla-library-design-tokens/scss/typography.scss";
 ```
-Then in your component, include the mixins:
+Then in your component, include the desired mixin:
 ```
 .category {
   @include overline;
 }
+```
+or, include the desired variable:
+```
+.category {
+  margin-bottom: $component-06 + px;
+}
+```
+or, include the desired SVG if using vue-svg-loader:
+```
+import SvgHatchRight from "~/node_modules/ucla-library-design-tokens/assets/svgs/graphic-hatch-lines"
 ```
 ## Files
 
@@ -43,4 +53,13 @@ Then in your component, include the mixins:
 ## Best Practices
 
 Helpful reminders to future selves:
+- Use the commit message conventions that trigger [semantic releases](https://semantic-release.gitbook.io/semantic-release/support/faq#how-can-i-change-the-type-of-commits-that-trigger-a-release)
+  - feat: A new feature
+  - fix: A bug fix
+  - docs: Documentation only changes
+  - style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+  - refactor: A code change that neither fixes a bug nor adds a feature
+  - perf: A code change that improves performance
+  - test: Adding missing or correcting existing tests
+  - chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
 - Always leave a comment when creating, reviewing, and merging a pull request
