@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/UCLALibrary/design-tokens/compare/v0.1.0...v0.2.0) (2021-12-14)
+
+
+### Features
+
+* **box shadow:** adds box shadow mixins ([#21](https://github.com/UCLALibrary/design-tokens/issues/21)) ([9d03fac](https://github.com/UCLALibrary/design-tokens/commit/9d03fac8c2816142eddd4d99388f7cebd0d047c9))
+
 # [0.1.0](https://github.com/UCLALibrary/design-tokens/compare/v0.0.3...v0.1.0) (2021-12-14)
 
 
