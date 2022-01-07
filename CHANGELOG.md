@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/UCLALibrary/design-tokens/compare/v0.2.1...v0.3.0) (2022-01-07)
+
+
+### Features
+
+* spacing: adds margin and content width tokens ([1f58162](https://github.com/UCLALibrary/design-tokens/commit/1f58162d66898d6e0e08de155158f95c429dae9b))
+
 ## [0.2.1](https://github.com/UCLALibrary/design-tokens/compare/v0.2.0...v0.2.1) (2021-12-14)
 
 
