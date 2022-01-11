@@ -1,4 +1,4 @@
-<svg width="80" height="80" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="80" height="80" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__molecule-headphones">
   <path d="M40.5 0L68.7843 11.7157L80.5 40L68.7843 68.2843L40.5 80L12.2158 68.2843L0.5 40L12.2158 11.7157L40.5 0Z" fill="#0B6AB7" class="svg__fill--primary-blue-03"/>
   <rect x="24.5566" y="40.845" width="5.15" height="16.5937" rx="0.655858" stroke="white" stroke-width="1.25" class="svg__stroke--white"/>
   <rect x="-0.625" y="0.625" width="5.14976" height="16.5937" rx="0.655858" transform="matrix(-1 0 0 1 55.8071 40.22)" stroke="white" stroke-width="1.25"/>

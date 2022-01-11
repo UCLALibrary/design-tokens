@@ -1,4 +1,4 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-person">
   <circle cx="16.0194" cy="15.199" r="12.0989" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03" />
   <path
     d="M26.3528 24.3154c-2.5578 2.8923-6.2965 4.7159-10.4612 4.7159-7.71003 0-13.96026-6.2502-13.96026-13.9603 0-3.5986 1.36161-6.8792 3.59776-9.35469"

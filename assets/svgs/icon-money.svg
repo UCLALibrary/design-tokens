@@ -1,4 +1,4 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-money">
   <path d="M28.9999 24.687H3.06957V7.40015H28.9999V24.687Z" stroke="#0B6AB7" stroke-width=".836461"
     stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03" />
   <path d="M7.46113 7.3999s-.07507 1.92225-1.30697 3.1542C4.92225 11.786 3 11.861 3 11.861" stroke="#0B6AB7"

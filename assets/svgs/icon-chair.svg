@@ -1,4 +1,4 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-chair">
   <path
     d="M24.2699 15.6823c0 .5738-.4651 1.039-1.039 1.039H8.69869c-.57385 0-1.03903-.4652-1.03903-1.039V5.21605c0-.57385.4652-1.03905 1.03904-1.03905h14.5322c.5738 0 1.039.4652 1.039 1.03904V15.6823Z"
     fill="#fff" stroke="#0B6AB7" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03 svg__fill--white"/>
