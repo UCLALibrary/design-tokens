@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/UCLALibrary/design-tokens/compare/v0.3.0...v0.4.0) (2022-01-11)
+
+
+### Features
+
+* adds class names to svgs ([#24](https://github.com/UCLALibrary/design-tokens/issues/24)) ([fa702f7](https://github.com/UCLALibrary/design-tokens/commit/fa702f7a4745c0e82fa10e3280630788bd3a3e87))
+
 # [0.3.0](https://github.com/UCLALibrary/design-tokens/compare/v0.2.1...v0.3.0) (2022-01-07)
 
 
