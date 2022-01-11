@@ -1,4 +1,4 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__molecule-image-stack">
   <path d="m64 0 45.255 18.745L128 64l-18.745 45.255L64 128l-45.255-18.745L0 64l18.745-45.255L64 0Z" fill="#0B6AB7" class="svg__fill--primary-blue-03"/>
   <path d="M40.97 51.901v-2.93h46.058v30.705h-2.85" stroke="#fff" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--white"/>
   <path d="M43.943 48.992V46h46.058v30.705h-2.788" stroke="#fff" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--white"/>

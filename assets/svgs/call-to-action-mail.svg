@@ -1,4 +1,4 @@
-<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__call-to-action-mail">
   <mask id="a" fill="#fff" class="svg__fill--white">
     <path d="m40 0 28.284 11.716L80 40 68.284 68.284 40 80 11.716 68.284 0 40l11.716-28.284L40 0Z"/>
   </mask>
