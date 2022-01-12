@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/UCLALibrary/design-tokens/compare/v0.4.0...v0.5.0) (2022-01-12)
+
+
+### Features
+
+* adds button text style ([#25](https://github.com/UCLALibrary/design-tokens/issues/25)) ([a0c1bd5](https://github.com/UCLALibrary/design-tokens/commit/a0c1bd5e5e4ef9c39f4ad71770daa51ac3da75b2))
+
 # [0.4.0](https://github.com/UCLALibrary/design-tokens/compare/v0.3.0...v0.4.0) (2022-01-11)
 
 
