@@ -147,6 +147,13 @@ $letter-spacing-2: 0.1em;
   line-height: $line-height--2;
 }
 
+@mixin button {
+  font-family: $font-secondary;
+  font-size: 18px;
+  font-weight: $font-weight-regular;
+  line-height: $line-height--1;
+}
+
 p {
   @include step-0;
 }
@@ -158,4 +165,8 @@ p {
 .caption,
 .note {
   @include step--1;
+}
+
+.button {
+  @include button;
 }
