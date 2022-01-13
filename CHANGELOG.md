@@ -1,3 +1,10 @@
+## [0.7.1](https://github.com/UCLALibrary/design-tokens/compare/v0.7.0...v0.7.1) (2022-01-13)
+
+
+### Bug Fixes
+
+* pin token-transformer to v0.0.14 to update tokens ([#29](https://github.com/UCLALibrary/design-tokens/issues/29)) ([3865fbc](https://github.com/UCLALibrary/design-tokens/commit/3865fbc3d7f63a8acf659eda421b4ecdf6e31621))
+
 # [0.7.0](https://github.com/UCLALibrary/design-tokens/compare/v0.6.0...v0.7.0) (2022-01-13)
 
 
