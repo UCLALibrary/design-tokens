@@ -15,7 +15,7 @@ jobs:
       # Install dependencies
       - run: npm install
       # Transform Figma Tokens JSON to something Style Dictionary can read
-      - run: npx token-transformer data/tokens.json data/transformed-tokens.json global
+      - run: npx token-transformer@0.0.14 data/tokens.json data/transformed-tokens.json global -y
       # Convert tokens according to Style Dictionary config
       - run: npx style-dictionary build --config config.json
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
