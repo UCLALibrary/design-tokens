@@ -25,6 +25,8 @@ npm install ucla-library-design-tokens --save-dev
 ```
 Then in your Sass, load the module (e.g., variables, typography, or helpers):
 ```
+@import "~ucla-library-design-tokens/scss/variables.scss";
+@import "~ucla-library-design-tokens/scss/helpers.scss";
 @import "~ucla-library-design-tokens/scss/typography.scss";
 ```
 Then in your component, include the desired mixin:
