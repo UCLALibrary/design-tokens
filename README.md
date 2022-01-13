@@ -45,6 +45,18 @@ or, include the desired SVG if using vue-svg-loader:
 ```
 import SvgHatchRight from "~/node_modules/ucla-library-design-tokens/assets/svgs/graphic-hatch-lines"
 ```
+
+### Updating to the latest package
+Latest release is posted in this repository, but you can also check if your package is outdated: 
+```
+npm outdated
+```
+If you are not running the latest release and would like to, then update the package:
+```
+npm install ucla-library-design-tokens@latest
+```
+Or, you can update the version number in the `package.json` file and run `npm install`.
+
 ## Files
 
 - `data/tokens.json` - Syncs with Figma Tokens plugin
