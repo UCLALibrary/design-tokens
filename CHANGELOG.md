@@ -1,3 +1,10 @@
+# [0.8.0](https://github.com/UCLALibrary/design-tokens/compare/v0.7.1...v0.8.0) (2022-01-19)
+
+
+### Features
+
+* adds molecule svgs ([#31](https://github.com/UCLALibrary/design-tokens/issues/31)) ([b0f3929](https://github.com/UCLALibrary/design-tokens/commit/b0f3929e964590acd8e79cca6e11d09056a1c760))
+
 ## [0.7.1](https://github.com/UCLALibrary/design-tokens/compare/v0.7.0...v0.7.1) (2022-01-13)
 
 
