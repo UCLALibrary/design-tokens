@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/UCLALibrary/design-tokens/compare/v0.9.0...v1.0.0) (2022-02-04)
+
+
+### Features
+
+* add mixins for link styling and accessible hiding ([#32](https://github.com/UCLALibrary/design-tokens/issues/32)) ([fa2ca2f](https://github.com/UCLALibrary/design-tokens/commit/fa2ca2f00cca889f83b4eb3ff97a061052bc493f))
+
+
+### BREAKING CHANGES
+
+* instead of @include hover; use @include link-hover;
+
+* Update Tokens
+
 # [0.9.0](https://github.com/UCLALibrary/design-tokens/compare/v0.8.0...v0.9.0) (2022-02-04)
 
 
