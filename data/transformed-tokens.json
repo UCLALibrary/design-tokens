@@ -284,44 +284,48 @@
     "value": 128,
     "type": "spacing"
   },
-  "margin-01": {
-    "value": 64,
-    "description": "$extra-large: \"only screen and (min-width: 1441px)\";   $large: \"only screen and (max-width: 1440px)\";     * $medium: \"only screen and (max-width: 1024px)\";",
-    "type": "spacing"
+  "whitespace": {
+    "m-sides": {
+      "value": 64,
+      "description": "$extra-large: \"only screen and (min-width: 1441px)\";   $large: \"only screen and (max-width: 1440px)\";     * $medium: \"only screen and (max-width: 1024px)\";",
+      "type": "spacing"
+    },
+    "s-sides": {
+      "value": 24,
+      "description": "$small: \"only screen and (max-width: 750px)\";",
+      "type": "spacing"
+    }
   },
-  "margin-02": {
-    "value": 24,
-    "description": "$small: \"only screen and (max-width: 750px)\";",
-    "type": "spacing"
-  },
-  "content-width-01": {
-    "value": 600,
-    "description": "Tablet paragraph / list / text",
-    "type": "spacing"
-  },
-  "content-width-02": {
-    "value": 832,
-    "description": "Desktop paragraph / list / textual content",
-    "type": "spacing"
-  },
-  "content-width-03": {
-    "value": 928,
-    "description": "Desktop main content",
-    "type": "spacing"
-  },
-  "content-width-04": {
-    "value": 1040,
-    "description": "Desktop search / CTA",
-    "type": "spacing"
-  },
-  "content-width-05": {
-    "value": 1312,
-    "description": "Desktop homepage / banner",
-    "type": "spacing"
-  },
-  "content-width-06": {
-    "value": 1440,
-    "description": "Desktop full width",
-    "type": "spacing"
+  "container": {
+    "m-text": {
+      "value": 600,
+      "description": "Tablet paragraph / list / text",
+      "type": "spacing"
+    },
+    "l-text": {
+      "value": 832,
+      "description": "Desktop paragraph / list / textual content",
+      "type": "spacing"
+    },
+    "l-main": {
+      "value": 928,
+      "description": "Desktop main content",
+      "type": "spacing"
+    },
+    "l-cta": {
+      "value": 1040,
+      "description": "Desktop search / CTA",
+      "type": "spacing"
+    },
+    "xl-banner": {
+      "value": 1312,
+      "description": "Desktop homepage / banner",
+      "type": "spacing"
+    },
+    "xl-full_width": {
+      "value": 1440,
+      "description": "Desktop full width",
+      "type": "spacing"
+    }
   }
 }
