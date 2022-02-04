@@ -1,3 +1,10 @@
+# [0.9.0](https://github.com/UCLALibrary/design-tokens/compare/v0.8.0...v0.9.0) (2022-02-04)
+
+
+### Features
+
+* reorganizes space tokens BREAKING CHANGE: organization and naming of space tokens have changed ([c3c69ca](https://github.com/UCLALibrary/design-tokens/commit/c3c69cad1a6cfaea731c272b940bee28cde1a601))
+
 # [0.8.0](https://github.com/UCLALibrary/design-tokens/compare/v0.7.1...v0.8.0) (2022-01-19)
 
 
