@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/UCLALibrary/design-tokens/compare/v2.0.0...v2.1.0) (2022-02-11)
+
+
+### Features
+
+* removes layout tokens ([#34](https://github.com/UCLALibrary/design-tokens/issues/34)) ([a7db3a8](https://github.com/UCLALibrary/design-tokens/commit/a7db3a894a1d62702e12d9f213a657f0ad1eb889))
+
 # [2.0.0](https://github.com/UCLALibrary/design-tokens/compare/v1.0.0...v2.0.0) (2022-02-11)
 
 
