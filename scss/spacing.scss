@@ -1,0 +1,62 @@
+@use "sass:math";
+
+$multipliers: (
+  "xs": 0.5,
+  "s": 1,
+  "m": 1.5,
+  "l": 2,
+  "xl": 3,
+  "2xl": 4,
+  "3xl": 6,
+  "4xl": 7,
+  "5xl": 8,
+  "6xl": 9
+);
+
+@mixin process-spaces($min-size, $max-size, $var-bp, $space-prefix) {
+  @each $size, $multiplier in $multipliers {
+    $vmin: --fc-#{$size}-min;
+    $vmax: --fc-#{$size}-max;
+
+    #{$vmin}: calc(var(--fc-s-min) * #{$multiplier});
+    #{$vmax}: calc(var(--fc-s-max) * #{$multiplier});
+
+    --#{$space-prefix}-#{$size}: calc(((var(#{$vmin}) / 16) * 1rem) + (var(#{$vmax}) - var(#{$vmin})) * var(#{$var-bp}));
+  }
+
+--fc-s-min: calc(var(--f-0-min, #{$min-size}));
+--fc-s-max: calc(var(--f-0-max, #{$max-size}));
+}
+
+$min-width: 375;
+$min-size: 8;
+
+$max-width: 1440;
+$max-size: 16;
+
+$space-prefix: "space";
+
+$var-minw: --#{$space-prefix}-min-width;
+$var-maxw: --#{$space-prefix}-max-width;
+$var-bp: --#{$space-prefix}-bp;
+
+:root {
+  #{$var-minw}: #{$min-width};
+  #{$var-maxw}: #{$max-width};
+
+  --space-screen: 100vw;
+  --space-bp: calc(
+    (var(--space-screen) - var(--space-min-width) / 16 * 1rem) /
+      (var(--space-max-width) - var(--space-min-width))
+  );
+}
+
+@media screen and (min-width: #{$max-width}px) {
+  :root {
+    --space-screen: calc(var(--space-max-width) * 1px);
+  }
+}
+
+:root {
+  @include process-spaces($min-size, $max-size, $var-bp, $space-prefix);
+}
