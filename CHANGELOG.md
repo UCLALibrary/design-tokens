@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/UCLALibrary/design-tokens/compare/v1.0.0...v2.0.0) (2022-02-11)
+
+
+### Features
+
+* adds flexible spacing tokens ([#33](https://github.com/UCLALibrary/design-tokens/issues/33)) ([65f0f57](https://github.com/UCLALibrary/design-tokens/commit/65f0f573b0918e19950adb86dbc89e6b586b8151))
+
+
+### BREAKING CHANGES
+
+* instead of $layout-01 use var(--space-xs)
+
+* Update Tokens
+
+Co-authored-by: dianneweinthal <dianneweinthal@users.noreply.github.com>
+Co-authored-by: Axa Mei Liauw <aliauw@library.ucla.edu>
+
 # [1.0.0](https://github.com/UCLALibrary/design-tokens/compare/v0.9.0...v1.0.0) (2022-02-04)
 
 
