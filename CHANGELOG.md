@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/UCLALibrary/design-tokens/compare/v2.1.0...v2.2.0) (2022-03-01)
+
+
+### Features
+
+* adds icon SVGs ([#35](https://github.com/UCLALibrary/design-tokens/issues/35)) ([d34abe3](https://github.com/UCLALibrary/design-tokens/commit/d34abe37ec3ea48c321ae614b664465bd8c144be))
+
 # [2.1.0](https://github.com/UCLALibrary/design-tokens/compare/v2.0.0...v2.1.0) (2022-02-11)
 
 
