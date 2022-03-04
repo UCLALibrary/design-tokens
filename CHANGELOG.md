@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/UCLALibrary/design-tokens/compare/v2.2.0...v2.2.1) (2022-03-04)
+
+
+### Bug Fixes
+
+* corrects reference to proxima-nova ([#36](https://github.com/UCLALibrary/design-tokens/issues/36)) ([93df2ca](https://github.com/UCLALibrary/design-tokens/commit/93df2ca05367863a1699223f3be569ace2d6b1d1))
+
 # [2.2.0](https://github.com/UCLALibrary/design-tokens/compare/v2.1.0...v2.2.0) (2022-03-01)
 
 
