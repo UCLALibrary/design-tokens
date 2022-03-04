@@ -70,7 +70,7 @@ $var-bp: --#{$prefix}-bp;
 }
 
 $font-primary: "Karbon", Helvetica, Arial, sans-serif;
-$font-secondary: "Proxima Nova", Helvetica, Arial, sans-serif;
+$font-secondary: "proxima-nova", Helvetica, Arial, sans-serif;
 
 $font-weight-hairline: 100;
 $font-weight-thin: 200;
@@ -152,10 +152,6 @@ $letter-spacing-2: 0.1em;
   font-size: 18px;
   font-weight: $font-weight-regular;
   line-height: $line-height--1;
-}
-
-p {
-  @include step-0;
 }
 
 .overline {
