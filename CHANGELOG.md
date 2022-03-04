@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/UCLALibrary/design-tokens/compare/v2.2.1...v2.3.0) (2022-03-04)
+
+
+### Features
+
+* adjust type scale to be less dramatic; add step for larger font… ([#37](https://github.com/UCLALibrary/design-tokens/issues/37)) ([0faf3e4](https://github.com/UCLALibrary/design-tokens/commit/0faf3e46adacaab1ce2cfb43404164ca9d8c2973))
+
 ## [2.2.1](https://github.com/UCLALibrary/design-tokens/compare/v2.2.0...v2.2.1) (2022-03-04)
 
 
