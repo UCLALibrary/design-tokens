@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/UCLALibrary/design-tokens/compare/v2.3.0...v2.4.0) (2022-03-11)
+
+
+### Features
+
+* update type scale ([#38](https://github.com/UCLALibrary/design-tokens/issues/38)) ([9108e61](https://github.com/UCLALibrary/design-tokens/commit/9108e61b5557e5685bc5f105086aa6add3a89332))
+
 # [2.3.0](https://github.com/UCLALibrary/design-tokens/compare/v2.2.1...v2.3.0) (2022-03-04)
 
 
