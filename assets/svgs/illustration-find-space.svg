@@ -1,8 +1,0 @@
-<svg width="200" height="160" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__illustration-find-space">
-  <path d="M157.995 81.626H44.021a2 2 0 0 0-1.898 1.368l-23.02 69.117A2 2 0 0 0 21 154.743h158.174a2 2 0 0 0 1.912-2.585L159.907 83.04a2 2 0 0 0-1.912-1.414Z" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
-  <path d="m101.209 87.288 36.499 8.563 15.118 20.672-15.118 20.672-36.499 8.563-36.498-8.563-15.118-20.672L64.71 95.851l36.498-8.563Z" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
-  <path d="m101.209 90.608 32.355 7.59 13.402 18.326-13.402 18.325-32.355 7.59-32.355-7.59-13.401-18.325 13.401-18.326 32.355-7.59Z" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
-  <path d="M136.43 39.75c0 9.476-3.927 20.278-10.263 30.651-6.224 10.19-14.734 19.904-23.993 27.455-9.259-7.551-17.77-17.265-23.993-27.455-6.336-10.373-10.263-21.175-10.263-30.652 0-18.919 15.337-34.255 34.256-34.255S136.43 20.83 136.43 39.749Z" fill="#fff" stroke="#0B6AB7" stroke-width="1.5" class="svg__fill--white svg__stroke--primary-blue-03"/>
-  <circle cx="102.174" cy="40.421" fill="#0AA5FF" r="13.953" class="svg__fill--default-cyan-03"/>
-  <path d="m140.147 93.934 13.092-6.273m-6.273 49.368 21.82 11.728M56.139 137.029 29.136 150.94m31.367-57.006-13.365-6.273M156.239 116.3h6.819m-115.92 0H36.773" stroke="#FFD600" stroke-width="1.5" class="svg__stroke--secondary-yellow-03"/>
-</svg>
