@@ -1,3 +1,10 @@
+## [2.4.1](https://github.com/UCLALibrary/design-tokens/compare/v2.4.0...v2.4.1) (2022-03-16)
+
+
+### Bug Fixes
+
+* replaces svgs using simplified stroke exports ([#39](https://github.com/UCLALibrary/design-tokens/issues/39)) ([97ad393](https://github.com/UCLALibrary/design-tokens/commit/97ad393046dbe8dffdb59b6e9af4763b54adb30c))
+
 # [2.4.0](https://github.com/UCLALibrary/design-tokens/compare/v2.3.0...v2.4.0) (2022-03-11)
 
 
