@@ -1,3 +1,10 @@
+## [2.4.3](https://github.com/UCLALibrary/design-tokens/compare/v2.4.2...v2.4.3) (2022-03-17)
+
+
+### Bug Fixes
+
+* link mixin colors ([#41](https://github.com/UCLALibrary/design-tokens/issues/41)) ([af1a2c1](https://github.com/UCLALibrary/design-tokens/commit/af1a2c1449a7742eecbbd3df20521cb30353d205))
+
 ## [2.4.2](https://github.com/UCLALibrary/design-tokens/compare/v2.4.1...v2.4.2) (2022-03-17)
 
 
