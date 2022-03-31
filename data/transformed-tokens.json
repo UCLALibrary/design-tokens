@@ -198,7 +198,7 @@
       "type": "color"
     },
     "overlay-03": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #0f0f0f00 0%, #0f0f0fa6 100%)",
+      "value": "radial-gradient(circle at center, #0f0f0f00 0%, #0f0f0fa6 100%)",
       "type": "color"
     }
   },
