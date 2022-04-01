@@ -1,3 +1,10 @@
+## [2.4.4](https://github.com/UCLALibrary/design-tokens/compare/v2.4.3...v2.4.4) (2022-04-01)
+
+
+### Bug Fixes
+
+* changes overlay-03 to circular gradient ([#42](https://github.com/UCLALibrary/design-tokens/issues/42)) ([a1dc5c4](https://github.com/UCLALibrary/design-tokens/commit/a1dc5c4a9bcf9be1dd831efc0abb2101f71b8888))
+
 ## [2.4.3](https://github.com/UCLALibrary/design-tokens/compare/v2.4.2...v2.4.3) (2022-03-17)
 
 
