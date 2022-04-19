@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/UCLALibrary/design-tokens/compare/v2.4.4...v2.5.0) (2022-04-19)
+
+
+### Features
+
+* add masthead and placeholder molecule svgs ([#43](https://github.com/UCLALibrary/design-tokens/issues/43)) ([474b5d7](https://github.com/UCLALibrary/design-tokens/commit/474b5d765aafdc18ef5f05a2f43e5b1f892de1c9))
+
 ## [2.4.4](https://github.com/UCLALibrary/design-tokens/compare/v2.4.3...v2.4.4) (2022-04-01)
 
 
