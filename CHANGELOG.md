@@ -1,3 +1,24 @@
+## [2.4.4](https://github.com/UCLALibrary/design-tokens/compare/v2.4.3...v2.4.4) (2022-04-01)
+
+
+### Bug Fixes
+
+* changes overlay-03 to circular gradient ([#42](https://github.com/UCLALibrary/design-tokens/issues/42)) ([a1dc5c4](https://github.com/UCLALibrary/design-tokens/commit/a1dc5c4a9bcf9be1dd831efc0abb2101f71b8888))
+
+## [2.4.3](https://github.com/UCLALibrary/design-tokens/compare/v2.4.2...v2.4.3) (2022-03-17)
+
+
+### Bug Fixes
+
+* link mixin colors ([#41](https://github.com/UCLALibrary/design-tokens/issues/41)) ([af1a2c1](https://github.com/UCLALibrary/design-tokens/commit/af1a2c1449a7742eecbbd3df20521cb30353d205))
+
+## [2.4.2](https://github.com/UCLALibrary/design-tokens/compare/v2.4.1...v2.4.2) (2022-03-17)
+
+
+### Bug Fixes
+
+* replaces remaining svgs with simplified exports ([#40](https://github.com/UCLALibrary/design-tokens/issues/40)) ([9f24bea](https://github.com/UCLALibrary/design-tokens/commit/9f24bea5e6917eddc47b79e069c8e7301ea6b1a7))
+
 ## [2.4.1](https://github.com/UCLALibrary/design-tokens/compare/v2.4.0...v2.4.1) (2022-03-16)
 
 
