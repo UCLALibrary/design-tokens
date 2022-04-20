@@ -1,3 +1,19 @@
+# [3.0.0](https://github.com/UCLALibrary/design-tokens/compare/v2.5.0...v3.0.0) (2022-04-20)
+
+
+### Features
+
+* add tokens for animations and transforms ([#45](https://github.com/UCLALibrary/design-tokens/issues/45)) ([62c0def](https://github.com/UCLALibrary/design-tokens/commit/62c0deff7fd8564813b49c09384da126f64f4d3f))
+
+
+### BREAKING CHANGES
+
+* instead of @include shadow-search-01 use @include shadow-state-change
+
+* Update Tokens
+
+Co-authored-by: axamei <axamei@users.noreply.github.com>
+
 # [2.5.0](https://github.com/UCLALibrary/design-tokens/compare/v2.4.4...v2.5.0) (2022-04-19)
 
 
