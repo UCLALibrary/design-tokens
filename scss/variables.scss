@@ -1,7 +1,14 @@
 
 // Do not edit directly
-// Generated on Tue, 19 Apr 2022 19:37:54 GMT
+// Generated on Wed, 20 Apr 2022 15:43:18 GMT
 
+$transition-timing-slow: 400ms;
+$transition-timing-fast: 200ms;
+$transition-timing-normal: 300ms;
+$transition-easing: ease-in-out;
+$transform-zoom-hover-l: scale(1.1);
+$transform-zoom-hover: scale(1.04);
+$transform-flip-horizontally: scaleX(-1);
 $container-xl-full-width: 1440;
 $container-xl-banner: 1312;
 $container-l-cta: 1040;
