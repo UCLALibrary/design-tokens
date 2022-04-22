@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/UCLALibrary/design-tokens/compare/v3.0.0...v3.1.0) (2022-04-22)
+
+
+### Features
+
+* adds status-error and status-success color tokens ([#46](https://github.com/UCLALibrary/design-tokens/issues/46)) ([a238717](https://github.com/UCLALibrary/design-tokens/commit/a238717d4098b4c4fbbc4098bbe0a08d09dcc20e))
+
 # [3.0.0](https://github.com/UCLALibrary/design-tokens/compare/v2.5.0...v3.0.0) (2022-04-20)
 
 
