@@ -28,7 +28,7 @@
     "blue-03": {
       "value": "#0b6ab7",
       "type": "color",
-      "description": "Usage:\n\nKeywords: primary blue"
+      "description": "Usage: status, info text; Keywords: primary blue"
     },
     "blue-02": {
       "value": "#9ecffa",
@@ -38,7 +38,7 @@
     "blue-01": {
       "value": "#eaf2fb",
       "type": "color",
-      "description": "Usage:\n\nKeywords: primary lightest blue"
+      "description": "Usage: status, info background; Keywords: primary lightest blue"
     }
   },
   "secondary": {
@@ -329,6 +329,28 @@
       "value": "400ms",
       "type": "other",
       "description": "Timing of animation for larger components like panels or modals"
+    }
+  },
+  "status": {
+    "success-01": {
+      "value": "#F4FACF",
+      "type": "color",
+      "description": "Usage: status, success background Keywords: status - success lightest"
+    },
+    "success-02": {
+      "value": "#00661B",
+      "type": "color",
+      "description": "Usage: status, success text Keywords: status - success darkest"
+    },
+    "error-01": {
+      "value": "#FAD3CF",
+      "type": "color",
+      "description": "Usage: status, error background Keywords: status - error lightest"
+    },
+    "error-02": {
+      "value": "#B3070D",
+      "type": "color",
+      "description": "Usage: status, error text Keywords: status - error darkest"
     }
   }
 }
