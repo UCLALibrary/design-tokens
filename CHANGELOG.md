@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/UCLALibrary/design-tokens/compare/v3.1.0...v3.2.0) (2022-05-03)
+
+
+### Features
+
+* adds single 3d molecule ([#47](https://github.com/UCLALibrary/design-tokens/issues/47)) ([b2a8520](https://github.com/UCLALibrary/design-tokens/commit/b2a8520a264be2f669444e46d78750f5898bb829))
+
 # [3.1.0](https://github.com/UCLALibrary/design-tokens/compare/v3.0.0...v3.1.0) (2022-04-22)
 
 
