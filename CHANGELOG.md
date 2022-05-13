@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/UCLALibrary/design-tokens/compare/v3.2.0...v3.2.1) (2022-05-13)
+
+
+### Bug Fixes
+
+* corrects path of font assets ([#50](https://github.com/UCLALibrary/design-tokens/issues/50)) ([f8bcf05](https://github.com/UCLALibrary/design-tokens/commit/f8bcf05bc5a1798c0d412c4e36e64e047d51705a))
+
 # [3.2.0](https://github.com/UCLALibrary/design-tokens/compare/v3.1.0...v3.2.0) (2022-05-03)
 
 
