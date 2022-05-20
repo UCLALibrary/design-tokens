@@ -1,3 +1,10 @@
+## [3.2.2](https://github.com/UCLALibrary/design-tokens/compare/v3.2.1...v3.2.2) (2022-05-20)
+
+
+### Bug Fixes
+
+* spelling error ([#51](https://github.com/UCLALibrary/design-tokens/issues/51)) ([6ad2578](https://github.com/UCLALibrary/design-tokens/commit/6ad2578bc7261352758ba6536a513b17cba6b519))
+
 ## [3.2.1](https://github.com/UCLALibrary/design-tokens/compare/v3.2.0...v3.2.1) (2022-05-13)
 
 
