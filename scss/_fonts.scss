@@ -1,33 +1,10 @@
 /*
-    Load fonts in this file using @font-face.
-
-    Fonts should go in: ~/assets/fonts/
-
-    NOTE That you need to use ~assets in CSS files, rather than the ~/assets in JS files.
-
-    Example:
-
-        @font-face {
-           font-family: 'My Font';
-           src: url('~assets/fonts/MyFont.eot');
-           src: url('~assets/fonts/MyFont.eot?#iefix') format('embedded-opentype'),
-                 url('~assets/fonts/MyFont.woff2') format('woff2'),
-                 url('~assets/fonts/MyFont.woff') format('woff'),
-                 url('~assets/fonts/MyFont.ttf') format('truetype');
-            font-style: normal;
-            font-weight: 400;
-        }
-
     Font Weights:
-        100 - Thin
-        200 - Extra Light (Ultra Light)
         300 - Light
-        400 - Normal
+        400 - Regular
         500 - Medium
-        600 - Semi Bold (Demi Bold)
+        600 - Semi Bold
         700 - Bold
-        800 - Extra Bold (Ultra Bold)
-        900 - Black (Heavy)
 */
 
 /* NOTE: We load other fonts using typekit, you can see them all here: https://use.typekit.net/xso3wzv.css */
@@ -35,13 +12,11 @@
 @mixin font-face($family,$src,$style: normal,$weight: normal) {
 	@font-face {
 		font-family: $family;
-		src: url("#{$src}.eot");
-		src: url("#{$src}.eot?#iefix") format("embedded-opentype"),
-			url("#{$src}.woff2") format("woff2"),
-			url("#{$src}.woff") format("woff");
+		src: url("#{$src}.woff2") format("woff2");
 
 		font-style: $style;
 		font-weight: $weight;
+        font-display: auto;
 	}
 }
 
