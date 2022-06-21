@@ -1,3 +1,10 @@
+## [3.2.3](https://github.com/UCLALibrary/design-tokens/compare/v3.2.2...v3.2.3) (2022-06-21)
+
+
+### Bug Fixes
+
+* update svgs ([#53](https://github.com/UCLALibrary/design-tokens/issues/53)) ([432ecee](https://github.com/UCLALibrary/design-tokens/commit/432ecee6afd3a66dc90d1461abb82f5b3c4be2c8))
+
 ## [3.2.2](https://github.com/UCLALibrary/design-tokens/compare/v3.2.1...v3.2.2) (2022-05-20)
 
 
