@@ -1,3 +1,10 @@
+## [3.5.1](https://github.com/UCLALibrary/design-tokens/compare/v3.5.0...v3.5.1) (2022-06-22)
+
+
+### Bug Fixes
+
+* adds negative spread so drop shadow is only visible on bottom ([#57](https://github.com/UCLALibrary/design-tokens/issues/57)) ([862d867](https://github.com/UCLALibrary/design-tokens/commit/862d86725ddf7cdcf7124a5954814c4a36dd3608))
+
 # [3.5.0](https://github.com/UCLALibrary/design-tokens/compare/v3.4.0...v3.5.0) (2022-06-22)
 
 
