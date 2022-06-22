@@ -1,3 +1,31 @@
+# [3.4.0](https://github.com/UCLALibrary/design-tokens/compare/v3.3.0...v3.4.0) (2022-06-22)
+
+
+### Features
+
+* adds shadow-navigation-02 mixin for header submenus ([#56](https://github.com/UCLALibrary/design-tokens/issues/56)) ([9b88057](https://github.com/UCLALibrary/design-tokens/commit/9b8805709c1e4b319fe1f4d853631162043e07a4))
+
+# [3.3.0](https://github.com/UCLALibrary/design-tokens/compare/v3.2.3...v3.3.0) (2022-06-22)
+
+
+### Features
+
+* adds mixin for clickable area ([#54](https://github.com/UCLALibrary/design-tokens/issues/54)) ([78dca37](https://github.com/UCLALibrary/design-tokens/commit/78dca370e2aa4fb17e1e0755d33d8ef27b067392))
+
+## [3.2.3](https://github.com/UCLALibrary/design-tokens/compare/v3.2.2...v3.2.3) (2022-06-21)
+
+
+### Bug Fixes
+
+* update svgs ([#53](https://github.com/UCLALibrary/design-tokens/issues/53)) ([432ecee](https://github.com/UCLALibrary/design-tokens/commit/432ecee6afd3a66dc90d1461abb82f5b3c4be2c8))
+
+## [3.2.2](https://github.com/UCLALibrary/design-tokens/compare/v3.2.1...v3.2.2) (2022-05-20)
+
+
+### Bug Fixes
+
+* spelling error ([#51](https://github.com/UCLALibrary/design-tokens/issues/51)) ([6ad2578](https://github.com/UCLALibrary/design-tokens/commit/6ad2578bc7261352758ba6536a513b17cba6b519))
+
 ## [3.2.1](https://github.com/UCLALibrary/design-tokens/compare/v3.2.0...v3.2.1) (2022-05-13)
 
 
