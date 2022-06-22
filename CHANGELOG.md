@@ -1,3 +1,10 @@
+# [3.5.0](https://github.com/UCLALibrary/design-tokens/compare/v3.4.0...v3.5.0) (2022-06-22)
+
+
+### Features
+
+* adds molecule-stroke svg ([#55](https://github.com/UCLALibrary/design-tokens/issues/55)) ([66ef4b2](https://github.com/UCLALibrary/design-tokens/commit/66ef4b27942a106208effa2e9a7b5e60cefeef54))
+
 # [3.4.0](https://github.com/UCLALibrary/design-tokens/compare/v3.3.0...v3.4.0) (2022-06-22)
 
 
