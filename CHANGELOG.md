@@ -1,3 +1,10 @@
+# [3.4.0](https://github.com/UCLALibrary/design-tokens/compare/v3.3.0...v3.4.0) (2022-06-22)
+
+
+### Features
+
+* adds shadow-navigation-02 mixin for header submenus ([#56](https://github.com/UCLALibrary/design-tokens/issues/56)) ([9b88057](https://github.com/UCLALibrary/design-tokens/commit/9b8805709c1e4b319fe1f4d853631162043e07a4))
+
 # [3.3.0](https://github.com/UCLALibrary/design-tokens/compare/v3.2.3...v3.3.0) (2022-06-22)
 
 
