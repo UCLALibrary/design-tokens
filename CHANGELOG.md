@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/UCLALibrary/design-tokens/compare/v3.2.3...v3.3.0) (2022-06-22)
+
+
+### Features
+
+* adds mixin for clickable area ([#54](https://github.com/UCLALibrary/design-tokens/issues/54)) ([78dca37](https://github.com/UCLALibrary/design-tokens/commit/78dca370e2aa4fb17e1e0755d33d8ef27b067392))
+
 ## [3.2.3](https://github.com/UCLALibrary/design-tokens/compare/v3.2.2...v3.2.3) (2022-06-21)
 
 
