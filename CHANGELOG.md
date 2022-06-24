@@ -1,3 +1,10 @@
+# [3.6.0](https://github.com/UCLALibrary/design-tokens/compare/v3.5.1...v3.6.0) (2022-06-24)
+
+
+### Features
+
+* updates line-height for steps 1-5 ([#58](https://github.com/UCLALibrary/design-tokens/issues/58)) ([d9df7f1](https://github.com/UCLALibrary/design-tokens/commit/d9df7f11dae444995cbb2160b83e979517dff18d))
+
 ## [3.5.1](https://github.com/UCLALibrary/design-tokens/compare/v3.5.0...v3.5.1) (2022-06-22)
 
 
