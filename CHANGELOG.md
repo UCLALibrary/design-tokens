@@ -1,3 +1,10 @@
+# [3.7.0](https://github.com/UCLALibrary/design-tokens/compare/v3.6.0...v3.7.0) (2022-06-29)
+
+
+### Features
+
+* update logo svg with class names ([#60](https://github.com/UCLALibrary/design-tokens/issues/60)) ([9c5364b](https://github.com/UCLALibrary/design-tokens/commit/9c5364b1f7c3046c2836127c716d2092830f206b))
+
 # [3.6.0](https://github.com/UCLALibrary/design-tokens/compare/v3.5.1...v3.6.0) (2022-06-24)
 
 
