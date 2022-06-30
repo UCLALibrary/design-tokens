@@ -1,3 +1,10 @@
+# [3.8.0](https://github.com/UCLALibrary/design-tokens/compare/v3.7.0...v3.8.0) (2022-06-30)
+
+
+### Features
+
+* update graphic-hatch-lines svg ([#61](https://github.com/UCLALibrary/design-tokens/issues/61)) ([01e1305](https://github.com/UCLALibrary/design-tokens/commit/01e1305467c41b91ca6b596c5a8f04c6e8e047b6))
+
 # [3.7.0](https://github.com/UCLALibrary/design-tokens/compare/v3.6.0...v3.7.0) (2022-06-29)
 
 
