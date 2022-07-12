@@ -8,6 +8,7 @@
 */
 
 /* NOTE: We load other fonts using typekit, you can see them all here: https://use.typekit.net/xso3wzv.css */
+@import url("https://use.typekit.net/xso3wzv.css");
 
 @mixin font-face($family,$src,$style: normal,$weight: normal) {
 	@font-face {
