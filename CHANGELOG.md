@@ -1,3 +1,10 @@
+# [3.9.0](https://github.com/UCLALibrary/design-tokens/compare/v3.8.0...v3.9.0) (2022-07-12)
+
+
+### Features
+
+* add import of proxima-nova from typekit ([#62](https://github.com/UCLALibrary/design-tokens/issues/62)) ([ae94d29](https://github.com/UCLALibrary/design-tokens/commit/ae94d290abbb3ad2d869f18508261b2db3d40add))
+
 # [3.8.0](https://github.com/UCLALibrary/design-tokens/compare/v3.7.0...v3.8.0) (2022-06-30)
 
 
