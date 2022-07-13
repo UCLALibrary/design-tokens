@@ -1,3 +1,10 @@
+## [3.9.1](https://github.com/UCLALibrary/design-tokens/compare/v3.9.0...v3.9.1) (2022-07-13)
+
+
+### Bug Fixes
+
+* cleanup fonts ([#64](https://github.com/UCLALibrary/design-tokens/issues/64)) ([4a9025d](https://github.com/UCLALibrary/design-tokens/commit/4a9025d690760acbfd39d64dbe39d00ca69120c4))
+
 # [3.9.0](https://github.com/UCLALibrary/design-tokens/compare/v3.8.0...v3.9.0) (2022-07-12)
 
 
