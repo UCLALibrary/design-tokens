@@ -1,5 +1,5 @@
 @use "sass:math";
-@import "fonts";
+// @import "fonts";
 
 @mixin process-steps(
     $pos-steps,
@@ -13,7 +13,7 @@
 
     --step--1: 16px;
     --step-0: 20px;
-    
+
     @for $i from 0 through $pos-steps {
         $vmin: --#{$prefix}-#{$i}-min;
         $vmax: --#{$prefix}-#{$i}-max;
@@ -80,7 +80,7 @@ $font-weight-bold: 700;
 
 $line-height--2: 1;
 $line-height--1:1.2;
-$line-height-0: 1.6; 
+$line-height-0: 1.6;
 
 $letter-spacing-0: 0;
 $letter-spacing-1: 0.01em;
