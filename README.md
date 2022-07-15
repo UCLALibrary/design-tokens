@@ -23,30 +23,40 @@ Install the package:
 ```
 npm install ucla-library-design-tokens --save-dev
 ```
-Then in your Sass, load the module (e.g., variables, typography, or helpers):
+Then in your Sass, load the module (e.g., variables, typography, spacing, or helpers):
 ```
 @import "~ucla-library-design-tokens/scss/variables.scss";
-@import "~ucla-library-design-tokens/scss/helpers.scss";
 @import "~ucla-library-design-tokens/scss/typography.scss";
+@import "~ucla-library-design-tokens/scss/spacing.scss";
+@import "~ucla-library-design-tokens/scss/helpers.scss";
 ```
-Then in your component, include the desired mixin:
+### Custom Fonts
+To use Karbon and Proxima Nova, import `ucla-library-design-tokens/scss/fonts.scss` once at the global level. For example, in the component library add to the configs (vue-cli, webpack, and rollup).
+### Variables
+Include the desired variable:
+```
+:root {
+  --color-primary-yellow-01: #{$primary-yellow-01}; // SCSS interpolation syntax needed
+}
+
+.category {
+  margin-bottom: $component-06 + px; // Using SCSS variable
+  color: var(--color-primary-blue-03); // Using CSS variable
+}
+```
+### Mixins
+Include the desired mixin:
 ```
 .category {
   @include overline;
 }
 ```
-or, include the desired variable:
+### SVGs
+Include the desired SVG:
 ```
-.category {
-  margin-bottom: $component-06 + px;
-}
+import SvgHatchRight from "ucla-library-design-tokens/assets/svgs/graphic-hatch-lines.svg"
 ```
-or, include the desired SVG if using vue-svg-loader:
-```
-import SvgHatchRight from "~/node_modules/ucla-library-design-tokens/assets/svgs/graphic-hatch-lines"
-```
-
-### Updating to the latest package
+## Updating to the latest package
 Latest release is posted in this repository, but you can also check if your package is outdated: 
 ```
 npm outdated
