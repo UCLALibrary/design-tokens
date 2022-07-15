@@ -1,3 +1,10 @@
+# [3.10.0](https://github.com/UCLALibrary/design-tokens/compare/v3.9.1...v3.10.0) (2022-07-15)
+
+
+### Features
+
+* adds arcadia logo ([#65](https://github.com/UCLALibrary/design-tokens/issues/65)) ([ac0495e](https://github.com/UCLALibrary/design-tokens/commit/ac0495ec1482f44061605f3da7dff2733e8aabaf))
+
 ## [3.9.1](https://github.com/UCLALibrary/design-tokens/compare/v3.9.0...v3.9.1) (2022-07-13)
 
 
