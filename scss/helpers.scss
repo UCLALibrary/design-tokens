@@ -18,10 +18,6 @@
   box-shadow: 0px 4px 16px -4px rgba(0, 0, 0, 0.4);
 }
 
-$overlay-01: linear-gradient(117.49deg, #0F0F0F 0%, rgba(15, 15, 15, 0.25) 31.88%, rgba(15, 15, 15, 0) 58.42%), linear-gradient(180deg, rgba(15, 15, 15, 0) 0%, rgba(15, 15, 15, 0.25) 67.57%, #0F0F0F 100%);
-$overlay-02: linear-gradient(90deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0f0f0f 100%);
-$overlay-03: radial-gradient(50% 50% at 50% 50%, rgba(15, 15, 15, 0) 0%, rgba(15, 15, 15, 0.65) 100%);
-
 @mixin link-default {
   color: var(--color-primary-blue-03);
   text-decoration: underline;
@@ -140,17 +136,4 @@ $overlay-03: radial-gradient(50% 50% at 50% 50%, rgba(15, 15, 15, 0) 0%, rgba(15
   font-size: 18px;
   font-weight: $font-weight-regular;
   line-height: $line-height--1;
-}
-
-.overline {
-  @include overline;
-}
-
-.caption,
-.note {
-  @include step--1;
-}
-
-.button {
-  @include button;
 }

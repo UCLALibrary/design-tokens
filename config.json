@@ -12,18 +12,6 @@
           }
         }
       ]
-    },
-    "css": {
-      "transformGroup": "css",
-      "files": [
-        {
-          "destination": "scss/variables-css.scss",
-          "format": "css/variables",
-          "options": {
-            "outputReferences": true
-          }
-        }
-      ]
     }
   }
 }

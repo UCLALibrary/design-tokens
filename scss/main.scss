@@ -11,3 +11,16 @@
 @import "typography.scss";
 @import "spacing.scss";
 @import "reset.scss";
+
+.overline {
+  @include overline;
+}
+
+.caption,
+.note {
+  @include step--1;
+}
+
+.button {
+  @include button;
+}

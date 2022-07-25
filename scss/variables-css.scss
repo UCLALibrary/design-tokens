@@ -56,62 +56,51 @@
     --unit-footer-height: 376px;
 
     --unit-full-width: #{$container-xl-full-width}px;
-    --unit-content-width: 1080px;
-    --unit-center-column-max: 930px;
-    --unit-center-text-max: 830px;
-
-    // Containers
-    $container-xl-banner: 1312;
-    $container-l-cta: 1040;
-    $container-l-main: 928;
-    $container-l-text: 832;
-    $container-m-text: 600;
-
-    // Gutters
-    $whitespace-s-sides: 24;
-    $whitespace-m-sides: 64;
+    --unit-banner-width: #{$container-xl-banner}px;
+    --unit-cta-width: #{$container-l-cta}px;
+    --unit-content-width: #{$container-l-main}px;
+    --unit-center-column-max: var(--unit-content-width);
+    --unit-center-text-max: #{$container-l-text}px;
 
     // Component spacing
-    $component-09: 48;
-    $component-08: 40;
-    $component-07: 32;
-    $component-06: 24;
-    $component-05: 16;
-    $component-04: 12;
-    $component-03: 8;
-    $component-02: 4;
-    $component-01: 2;
+    // $component-09: 48;
+    // $component-08: 40;
+    // $component-07: 32;
+    // $component-06: 24;
+    // $component-05: 16;
+    // $component-04: 12;
+    // $component-03: 8;
+    // $component-02: 4;
+    // $component-01: 2;
 
     // Paragraph spacing
-    $paragraph-spacing-1: 30;
-    $paragraph-spacing-0: 0;
-
-    // Gradients
-    $overlays-overlay-03: radial-gradient(circle at center, #0f0f0f00 0%, #0f0f0fa6 100%);
-    $overlays-overlay-01: linear-gradient(117.49deg, #0F0F0F 0%, #0f0f0f40 31.88%, #0f0f0f00 58.42%), linear-gradient(180deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0F0F0F 100%);
-    $overlays-overlay-02: linear-gradient(90deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0f0f0f 100%);
-    $rounded-slightly: 4;
-    $gradients-gradient-02: linear-gradient(260deg, #0b6ab7 7.91%, #1f75c5 35.23%, #0aa5ff 81.77%);
-    $gradients-gradient-01: linear-gradient(52deg, #0b6ab7 0%, #1f75c5 41.67%, #0aa5ff 93.36%);
-    $gradients-gradient-03: linear-gradient(20deg, #fd9be0 0%, #e29aee 15.42%, #c099ff 28.1%, #8ba0ef 40.31%, #0aa5ff 58.56%, #06bef2 79.6%, #00e0e0 100%);
+    // $paragraph-spacing-1: 30;
+    // $paragraph-spacing-0: 0;
 
         // Animation
-    $transition-timing-slow: 400ms;
-    $transition-timing-fast: 200ms;
-    $transition-timing-normal: 300ms;
-    $transition-easing: ease-in-out;
-    $transform-zoom-hover-l: scale(1.1);
-    $transform-zoom-hover: scale(1.04);
-    $transform-flip-horizontally: scaleX(-1);
+    // $transition-timing-slow: 400ms;
+    // $transition-timing-fast: 200ms;
+    // $transition-timing-normal: 300ms;
+    // $transition-easing: ease-in-out;
+    // $transform-zoom-hover-l: scale(1.1);
+    // $transform-zoom-hover: scale(1.04);
+    // $transform-flip-horizontally: scaleX(-1);
 
     // Fonts
-    --font-primary: "Karbon", sans-serif;
-    --font-secondary: "proxima-nova", sans-serif;
+    --font-primary: #{$font-primary};
+    --font-secondary: #{$font-secondary};
 
     // Borders
-    // top-left | top-right | bottom-right | bottom-left
-    --rounded-slightly-all: 4px;
-    --rounded-slightly-top: 4px 4px 0 0;
+    --rounded-slightly-all: #{$rounded-slightly}px;
+    --rounded-slightly-top: #{$rounded-slightly}px #{$rounded-slightly}px 0 0;
+
+    // Gradients
+    // $overlays-overlay-01: linear-gradient(117.49deg, #0F0F0F 0%, #0f0f0f40 31.88%, #0f0f0f00 58.42%), linear-gradient(180deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0F0F0F 100%);
+    // $overlays-overlay-02: linear-gradient(90deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0f0f0f 100%);
+
+    // $gradients-gradient-02: linear-gradient(260deg, #0b6ab7 7.91%, #1f75c5 35.23%, #0aa5ff 81.77%);
+    // $gradients-gradient-01: linear-gradient(52deg, #0b6ab7 0%, #1f75c5 41.67%, #0aa5ff 93.36%);
+    // $gradients-gradient-03: linear-gradient(20deg, #fd9be0 0%, #e29aee 15.42%, #c099ff 28.1%, #8ba0ef 40.31%, #0aa5ff 58.56%, #06bef2 79.6%, #00e0e0 100%);
 
     // Gradients
     --text-overlay: linear-gradient(
@@ -145,11 +134,11 @@
         rgba(15, 15, 15, 0) 58.42%
     );
 
-    --gradient-radial: #{$overlay-03};
+    --gradient-radial: #{$overlays-overlay-03};
 
-    // Breakponts
     @media #{$medium} {
         --unit-gutter: #{$whitespace-m-sides}px;
+        --unit-center-text-max: #{$container-m-text}px;
     }
     @media #{$small} {
         --unit-gutter: #{$whitespace-s-sides}px;

@@ -31,15 +31,6 @@ body {
   line-height: 1.5;
 }
 
-ul[role='list'],
-ol[role='list'] {
-  list-style: none;
-}
-
-a:not([class]) {
-  text-decoration-skip-ink: auto;
-}
-
 img {
   max-width: 100%;
   display: block;
