@@ -1,3 +1,21 @@
+# [4.0.0](https://github.com/UCLALibrary/design-tokens/compare/v3.10.0...v4.0.0) (2022-07-26)
+
+
+### Features
+
+* add workflow job to compile global css ([#67](https://github.com/UCLALibrary/design-tokens/issues/67)) ([d2efc3c](https://github.com/UCLALibrary/design-tokens/commit/d2efc3c24cc4bbc190c5993a723ecf5e21f3cb91))
+
+
+### BREAKING CHANGES
+
+* use scss/app.scss and scss/app-globals.scss in favor of adding multiple partials to the component library and nuxt apps
+
+* chore: update tokens
+
+* chore: compile global css
+
+Co-authored-by: axamei <axamei@users.noreply.github.com>
+
 # [3.10.0](https://github.com/UCLALibrary/design-tokens/compare/v3.9.1...v3.10.0) (2022-07-15)
 
 
