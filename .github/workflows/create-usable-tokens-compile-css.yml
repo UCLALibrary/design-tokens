@@ -1,0 +1,63 @@
+name: Update tokens and compile CSS
+on:
+  push:
+    branches-ignore:
+      - "main"
+
+jobs:
+  update_tokens:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.4.0
+
+      # Transform Figma Tokens JSON to something Style Dictionary can read
+      - run: npx token-transformer data/tokens.json data/transformed-tokens.json global -y
+      # Convert tokens according to Style Dictionary config
+      - run: npx style-dictionary build --config config.json
+
+      # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
+      - name: Commit updated tokens and global css
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update tokens"
+
+      - name: get sha
+        id: sha
+        run: |
+          sha_new=$(git rev-parse HEAD)
+          echo $sha_new
+          echo "::set-output name=SHA::$sha_new"
+      - run:
+            echo ${{ steps.sha.outputs.SHA }}
+
+  compile_css:
+    needs: update_tokens
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+            ref: ${{ needs.beautify.outputs.new_sha }}
+            fetch-depth: 1
+      - run: git pull
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.4.0
+
+      # Create global CSS file for vendor apps
+      - name: Make destination directory for compiled CSS
+        run: mkdir -vp assets/css
+
+      - name: Compile CSS from SCSS files
+        uses: gha-utilities/sass-build@v0.4.9
+        with:
+          source: scss/vendor-global.scss
+          destination: assets/css/main.css
+
+      # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
+      - name: Commit updated tokens and global css
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: compile global css"

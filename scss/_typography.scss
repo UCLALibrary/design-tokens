@@ -1,0 +1,69 @@
+@use "sass:math";
+
+@mixin process-steps(
+    $pos-steps,
+    $min-size,
+    $min-scale,
+    $max-size,
+    $max-scale,
+    $var-bp,
+    $prefix,
+    $step-prefix) {
+
+    --step--1: 16px;
+    --step-0: 20px;
+
+    @for $i from 0 through $pos-steps {
+        $vmin: --#{$prefix}-#{$i}-min;
+        $vmax: --#{$prefix}-#{$i}-max;
+
+        #{$vmin}: $min-size * math.pow($min-scale, $i);
+        #{$vmax}: $max-size * math.pow($max-scale, $i);
+
+        --#{$step-prefix}-#{$i}: calc(((var(#{$vmin}) / 16) * 1rem) + (var(#{$vmax}) - var(#{$vmin})) * var(#{$var-bp}));
+    }
+}
+
+$min-width: 375;
+$min-size: 20;
+$min-scale: 1.125;
+
+$max-width: 1440;
+$max-size: 20;
+$max-scale: 1.25;
+
+$pos-steps: 6;
+
+$prefix: "fluid";
+$step-prefix: "step";
+
+$var-minw: --#{$prefix}-min-width;
+$var-maxw: --#{$prefix}-max-width;
+$var-screen: --#{$prefix}-screen;
+$var-bp: --#{$prefix}-bp;
+
+:root {
+    #{$var-minw}: #{$min-width};
+    #{$var-maxw}: #{$max-width};
+
+    #{$var-screen}: 100vw;
+    #{$var-bp}: calc((var(#{$var-screen}) - var(#{$var-minw}) / 16 * 1rem) / (var(#{$var-maxw}) - var(#{$var-minw})));
+}
+
+@media screen and (min-width: #{$max-width}px) {
+    :root {
+        #{$var-screen}: calc(var(#{$var-maxw}) * 1px);
+    }
+}
+
+:root {
+    @include process-steps(
+        $pos-steps,
+        $min-size,
+        $min-scale,
+        $max-size,
+        $max-scale,
+        $var-bp,
+        $prefix,
+        $step-prefix);
+}

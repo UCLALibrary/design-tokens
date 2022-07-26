@@ -1,11 +1,11 @@
 {
   "source": ["data/transformed-tokens.json"],
   "platforms": {
-    "css": {
+    "scss": {
       "transformGroup": "scss",
       "files": [
         {
-          "destination": "scss/variables.scss",
+          "destination": "scss/_tokens.scss",
           "format": "scss/variables",
           "options": {
             "outputReferences": true
