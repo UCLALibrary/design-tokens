@@ -53,7 +53,7 @@ jobs:
       - name: Compile CSS from SCSS files
         uses: gha-utilities/sass-build@v0.4.9
         with:
-          source: scss/main.scss
+          source: scss/vendor-global.scss
           destination: assets/css/main.css
 
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
