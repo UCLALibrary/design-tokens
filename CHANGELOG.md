@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/UCLALibrary/design-tokens/compare/v4.2.0...v4.3.0) (2022-07-27)
+
+
+### Features
+
+* use hosted fonts ([#70](https://github.com/UCLALibrary/design-tokens/issues/70)) ([c52f6ef](https://github.com/UCLALibrary/design-tokens/commit/c52f6eff4e6b00bd789911684d9f2f9fa4ad0e06))
+
 # [4.2.0](https://github.com/UCLALibrary/design-tokens/compare/v4.1.0...v4.2.0) (2022-07-27)
 
 
