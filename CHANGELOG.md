@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/UCLALibrary/design-tokens/compare/v4.0.0...v4.1.0) (2022-07-27)
+
+
+### Features
+
+* push assets to hosted-assets repo ([#68](https://github.com/UCLALibrary/design-tokens/issues/68)) ([2c0dc18](https://github.com/UCLALibrary/design-tokens/commit/2c0dc18f4ce54335f521cb4fd9c295f9832bc2ba))
+
 # [4.0.0](https://github.com/UCLALibrary/design-tokens/compare/v3.10.0...v4.0.0) (2022-07-26)
 
 
