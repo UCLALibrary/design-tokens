@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/UCLALibrary/design-tokens/compare/v4.1.0...v4.2.0) (2022-07-27)
+
+
+### Features
+
+* adds svg variants for bg-img; adds mixins for form fonts ([#69](https://github.com/UCLALibrary/design-tokens/issues/69)) ([51168f2](https://github.com/UCLALibrary/design-tokens/commit/51168f29208a382fd57a955149bc8b82f36aef11))
+
 # [4.1.0](https://github.com/UCLALibrary/design-tokens/compare/v4.0.0...v4.1.0) (2022-07-27)
 
 
