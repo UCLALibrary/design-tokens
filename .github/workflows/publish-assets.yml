@@ -1,10 +1,10 @@
-name: Release
+name: Publish assets
 on:
   push:
     branches: [main, beta]
 jobs:
   release:
-    name: Release
+    name: Publish to NPM
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,3 +23,17 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
+
+    # Adds files in assets/ to hosted-assets repo
+      - name: Push assets/ to hosted-assets repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'assets/'
+          destination-github-username: 'UCLALibrary'
+          destination-repository-name: 'hosted-assets'
+          user-email: aliauw@library.ucla.edu
+          target-branch: main
+          target-directory: 'assets/'
