@@ -1,3 +1,10 @@
+# [4.4.0](https://github.com/UCLALibrary/design-tokens/compare/v4.3.0...v4.4.0) (2022-08-01)
+
+
+### Features
+
+* updates font path to assets ([#71](https://github.com/UCLALibrary/design-tokens/issues/71)) ([43fba81](https://github.com/UCLALibrary/design-tokens/commit/43fba81cc28f8d57bf4e4f40d3f8448ece74168a))
+
 # [4.3.0](https://github.com/UCLALibrary/design-tokens/compare/v4.2.0...v4.3.0) (2022-07-27)
 
 
