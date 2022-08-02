@@ -1,3 +1,10 @@
+## [4.4.1](https://github.com/UCLALibrary/design-tokens/compare/v4.4.0...v4.4.1) (2022-08-02)
+
+
+### Bug Fixes
+
+* point to font files hosted in related app/product ([#72](https://github.com/UCLALibrary/design-tokens/issues/72)) ([02a5165](https://github.com/UCLALibrary/design-tokens/commit/02a516553bf2c25158c05f37037a32aa54a88495))
+
 # [4.4.0](https://github.com/UCLALibrary/design-tokens/compare/v4.3.0...v4.4.0) (2022-08-01)
 
 
