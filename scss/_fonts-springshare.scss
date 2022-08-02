@@ -1,0 +1,18 @@
+@import url("https://use.typekit.net/xso3wzv.css");
+
+@mixin font-face($family,$src,$style: normal,$weight: normal) {
+	@font-face {
+		font-family: $family;
+		src: url("#{$src}.woff2") format("woff2");
+
+		font-style: $style;
+		font-weight: $weight;
+        font-display: auto;
+	}
+}
+
+@include font-face("Karbon", "//libapps.s3.amazonaws.com/sites/705/include/karbon-web-light", normal, 300);
+@include font-face("Karbon", "//libapps.s3.amazonaws.com/sites/705/include/karbon-web-regular", normal, 400);
+@include font-face("Karbon", "//libapps.s3.amazonaws.com/sites/705/include/karbon-web-medium", normal, 500);
+@include font-face("Karbon", "//libapps.s3.amazonaws.com/sites/705/include/karbon-web-semibold", normal, 600);
+@include font-face("Karbon", "//libapps.s3.amazonaws.com/sites/705/include/karbon-web-bold", normal, 700);

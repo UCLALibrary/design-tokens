@@ -11,8 +11,8 @@
 	}
 }
 
-@include font-face("Karbon", "https://assets.library.ucla.edu/assets/fonts/karbon-web-light", normal, 300);
-@include font-face("Karbon", "https://assets.library.ucla.edu/assets/fonts/karbon-web-regular", normal, 400);
-@include font-face("Karbon", "https://assets.library.ucla.edu/assets/fonts/karbon-web-medium", normal, 500);
-@include font-face("Karbon", "https://assets.library.ucla.edu/assets/fonts/karbon-web-semibold", normal, 600);
-@include font-face("Karbon", "https://assets.library.ucla.edu/assets/fonts/karbon-web-bold", normal, 700);
+@include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-light", normal, 300);
+@include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-regular", normal, 400);
+@include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-medium", normal, 500);
+@include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-semibold", normal, 600);
+@include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-bold", normal, 700);
