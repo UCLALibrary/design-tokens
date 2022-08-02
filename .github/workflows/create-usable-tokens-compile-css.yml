@@ -50,10 +50,11 @@ jobs:
       - name: Make destination directory for compiled CSS
         run: mkdir -vp assets/css
 
+      # Create global CSS file for Springshare
       - name: Compile CSS from SCSS files
         uses: gha-utilities/sass-build@v0.4.9
         with:
-          source: scss/vendor-global.scss
+          source: scss/springshare-global.scss
           destination: assets/css/main.css
 
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
