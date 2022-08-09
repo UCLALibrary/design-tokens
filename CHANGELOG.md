@@ -1,3 +1,10 @@
+# [4.6.0](https://github.com/UCLALibrary/design-tokens/compare/v4.5.0...v4.6.0) (2022-08-09)
+
+
+### Features
+
+* add class name to chat box in icon ([#75](https://github.com/UCLALibrary/design-tokens/issues/75)) ([6d04bcb](https://github.com/UCLALibrary/design-tokens/commit/6d04bcbeadb7eaa3dad29926586bf081d6d432e8))
+
 # [4.5.0](https://github.com/UCLALibrary/design-tokens/compare/v4.4.1...v4.5.0) (2022-08-09)
 
 
