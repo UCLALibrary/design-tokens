@@ -1,3 +1,10 @@
+# [4.5.0](https://github.com/UCLALibrary/design-tokens/compare/v4.4.1...v4.5.0) (2022-08-09)
+
+
+### Features
+
+* updates globals and adds class names to molecule bullet filled ([#74](https://github.com/UCLALibrary/design-tokens/issues/74)) ([8303628](https://github.com/UCLALibrary/design-tokens/commit/8303628e24d5180fbf4e807c3ab7857d8f0c9381))
+
 ## [4.4.1](https://github.com/UCLALibrary/design-tokens/compare/v4.4.0...v4.4.1) (2022-08-02)
 
 
