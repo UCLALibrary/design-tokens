@@ -16,7 +16,6 @@ h3,
 h4,
 hr,
 p,
-li,
 figure,
 figcaption,
 blockquote,
@@ -25,10 +24,19 @@ dd {
   margin: 0;
 }
 
+ol,
+ul,
+li {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
-  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
 }
 
 img {
@@ -36,11 +44,32 @@ img {
   display: block;
 }
 
+button {
+  appearance: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
 input,
 button,
 textarea,
 select {
   font: inherit;
+}
+
+strong,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+}
+
+::selection {
+  background: var(--color-primary-blue-03);
+  color: var(--color-white);
 }
 
 @media (prefers-reduced-motion: reduce) {
