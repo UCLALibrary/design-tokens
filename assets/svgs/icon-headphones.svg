@@ -1,5 +1,5 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-headphones">
-<rect x="5.37447" y="16.5667" width="3.42667" height="11.0558" rx="0.433905" stroke="#0B6AB7" stroke-width="0.84"/>
+<rect x="5.37447" y="16.5667" width="3.42667" height="11.0558" rx="0.433905" stroke="#0B6AB7" stroke-width="0.84" class="svg__stroke--primary-blue-03"/>
 <rect x="-0.42" y="0.42" width="3.42651" height="11.0558" rx="0.433905" transform="matrix(-1 0 0 1 26.1983 16.1467)" stroke="#0B6AB7" stroke-width="0.84" class="svg__stroke--primary-blue-03"/>
 <path d="M28.876 23.6582V16.8797C28.876 9.76644 23.1095 4 15.9963 4V4C8.88301 4 3.11658 9.76644 3.11658 16.8797V23.6582" stroke="#0B6AB7" stroke-width="0.84" class="svg__stroke--primary-blue-03"/>
 <mask id="path-4-inside-1_360_5672" fill="white">
