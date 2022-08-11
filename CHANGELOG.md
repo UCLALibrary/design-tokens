@@ -1,3 +1,10 @@
+## [4.6.1](https://github.com/UCLALibrary/design-tokens/compare/v4.6.0...v4.6.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* add missing class names to svgs ([#76](https://github.com/UCLALibrary/design-tokens/issues/76)) ([7ddeedc](https://github.com/UCLALibrary/design-tokens/commit/7ddeedcaba84d5ac93beceebf7edd50219ec1827))
+
 # [4.6.0](https://github.com/UCLALibrary/design-tokens/compare/v4.5.0...v4.6.0) (2022-08-09)
 
 
