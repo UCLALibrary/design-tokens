@@ -1,3 +1,10 @@
+## [4.6.2](https://github.com/UCLALibrary/design-tokens/compare/v4.6.1...v4.6.2) (2022-08-15)
+
+
+### Bug Fixes
+
+* move fonts out of global ([#77](https://github.com/UCLALibrary/design-tokens/issues/77)) ([1de3f17](https://github.com/UCLALibrary/design-tokens/commit/1de3f17620b26fdf237853454260ca00df14def3))
+
 ## [4.6.1](https://github.com/UCLALibrary/design-tokens/compare/v4.6.0...v4.6.1) (2022-08-11)
 
 
