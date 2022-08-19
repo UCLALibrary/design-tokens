@@ -1,3 +1,10 @@
+# [4.7.0](https://github.com/UCLALibrary/design-tokens/compare/v4.6.2...v4.7.0) (2022-08-19)
+
+
+### Features
+
+* adds molecule variants ([#78](https://github.com/UCLALibrary/design-tokens/issues/78)) ([8e13c7c](https://github.com/UCLALibrary/design-tokens/commit/8e13c7cc5a340a995cc3923d4fa5b6209a316b2f))
+
 ## [4.6.2](https://github.com/UCLALibrary/design-tokens/compare/v4.6.1...v4.6.2) (2022-08-15)
 
 
