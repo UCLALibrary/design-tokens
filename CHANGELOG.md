@@ -1,3 +1,19 @@
+# [5.0.0](https://github.com/UCLALibrary/design-tokens/compare/v4.7.0...v5.0.0) (2022-08-25)
+
+
+### Bug Fixes
+
+* add variation for clickable area mixin ([#79](https://github.com/UCLALibrary/design-tokens/issues/79)) ([33c1a3f](https://github.com/UCLALibrary/design-tokens/commit/33c1a3ffdf6aabaabf51ecd78ff1cf1c2073cd23))
+
+
+### BREAKING CHANGES
+
+* replace `@include clickable-area` with `@include min-clickable-area` for buttons and links and `@include card-clickable-area` for cards
+
+* chore: update tokens
+
+Co-authored-by: axamei <axamei@users.noreply.github.com>
+
 # [4.7.0](https://github.com/UCLALibrary/design-tokens/compare/v4.6.2...v4.7.0) (2022-08-19)
 
 
