@@ -59,7 +59,7 @@
   width: 1px;
 }
 
-@mixin clickable-area {
+@mixin min-clickable-area {
   &:after {
     content: "";
     position: absolute;
@@ -69,6 +69,19 @@
     min-width: 44px;
     top: 50%;
     transform: translateY(-50%);
+  }
+}
+
+@mixin card-clickable-area {
+  &:after {
+    content: "";
+    position: absolute;
+    min-height: 44px;
+    min-width: 44px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
   }
 }
 
