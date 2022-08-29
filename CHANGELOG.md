@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/UCLALibrary/design-tokens/compare/v5.0.0...v5.1.0) (2022-08-29)
+
+
+### Features
+
+* adds favicon ([#80](https://github.com/UCLALibrary/design-tokens/issues/80)) ([042d465](https://github.com/UCLALibrary/design-tokens/commit/042d4659fcbbb05dc2d03d722b17884d3f0b3c2e))
+
 # [5.0.0](https://github.com/UCLALibrary/design-tokens/compare/v4.7.0...v5.0.0) (2022-08-25)
 
 
