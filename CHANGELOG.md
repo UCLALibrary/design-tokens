@@ -1,3 +1,10 @@
+# [5.2.0](https://github.com/UCLALibrary/design-tokens/compare/v5.1.0...v5.2.0) (2022-08-30)
+
+
+### Features
+
+* add mixin for truncation ([#81](https://github.com/UCLALibrary/design-tokens/issues/81)) ([6ec890c](https://github.com/UCLALibrary/design-tokens/commit/6ec890c5227e63a6ece94858907e66d5cadc959b))
+
 # [5.1.0](https://github.com/UCLALibrary/design-tokens/compare/v5.0.0...v5.1.0) (2022-08-29)
 
 
