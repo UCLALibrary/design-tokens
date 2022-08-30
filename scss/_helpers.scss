@@ -166,3 +166,10 @@
   line-height: $line-height-0;
   color: $secondary-grey-04;
 }
+
+@mixin truncate($lines: 2) {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: $lines;
+}
