@@ -1,3 +1,10 @@
+# [5.3.0](https://github.com/UCLALibrary/design-tokens/compare/v5.2.0...v5.3.0) (2022-09-15)
+
+
+### Features
+
+* adds ellipsis svg ([#82](https://github.com/UCLALibrary/design-tokens/issues/82)) ([5930657](https://github.com/UCLALibrary/design-tokens/commit/5930657255bcec540e295c478cd3b1723b5982dd))
+
 # [5.2.0](https://github.com/UCLALibrary/design-tokens/compare/v5.1.0...v5.2.0) (2022-08-30)
 
 
