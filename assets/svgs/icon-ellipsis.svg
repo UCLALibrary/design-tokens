@@ -1,0 +1,5 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-ellipsis">
+<circle cx="6" cy="15" r="3" fill="#0F0F0F" class="svg__fill--black"/>
+<circle cx="16" cy="15" r="3" fill="#0F0F0F" class="svg__fill--black"/>
+<circle cx="26" cy="15" r="3" fill="#0F0F0F" class="svg__fill--black"/>
+</svg>
