@@ -1,3 +1,10 @@
+# [5.4.0](https://github.com/UCLALibrary/design-tokens/compare/v5.3.0...v5.4.0) (2022-09-29)
+
+
+### Features
+
+* adds h5, h6 to reset ([#83](https://github.com/UCLALibrary/design-tokens/issues/83)) ([72702bb](https://github.com/UCLALibrary/design-tokens/commit/72702bbcc76c10dd5bfb08511cc452b69663b317))
+
 # [5.3.0](https://github.com/UCLALibrary/design-tokens/compare/v5.2.0...v5.3.0) (2022-09-15)
 
 
