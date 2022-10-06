@@ -1,3 +1,10 @@
+## [5.4.1](https://github.com/UCLALibrary/design-tokens/compare/v5.4.0...v5.4.1) (2022-10-06)
+
+
+### Bug Fixes
+
+* removes mask from headphone and bookbinding svgs ([#84](https://github.com/UCLALibrary/design-tokens/issues/84)) ([92b3380](https://github.com/UCLALibrary/design-tokens/commit/92b33802fb9ca718c88349bbde50ad9a5b730fdb))
+
 # [5.4.0](https://github.com/UCLALibrary/design-tokens/compare/v5.3.0...v5.4.0) (2022-09-29)
 
 
