@@ -87,3 +87,7 @@ Helpful reminders to future selves:
   - test: Adding missing or correcting existing tests
   - chore: Changes to the build process or auxiliary tools and libraries such as documentation generation
 - Always leave a comment when creating, reviewing, and merging a pull request
+- When a new release is published, update dependent apps to use the latest, non-breaking version. If the released package is a major version (has breaking changes), then create appropriate tickets for dependent apps to update the design tokens package.
+  - [UCLA Library Website Components](https://github.com/UCLALibrary/ucla-library-website-components/blob/main/package.json#L90)
+  - [Library Website Nuxt](https://github.com/UCLALibrary/library-website-nuxt/blob/main/package.json#L42)
+  - [MEAP Website Nuxt](https://github.com/UCLALibrary/meap-website-nuxt/blob/main/package.json#L44)
