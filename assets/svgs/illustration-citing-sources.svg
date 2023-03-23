@@ -1,0 +1,15 @@
+<svg width="200" height="160" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__illustration-citing-sources">
+<rect x="33.75" y="7.75" width="101.5" height="129.5" rx="1.25" fill="white" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
+<path d="M52.4443 28.7708H115.522" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.4443 38.4749H115.522" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.4443 47.2969H115.522" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.1396 56.6621L115.524 56.6621" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.1396 65.9778L115.524 65.9778" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.1396 75.1963L115.524 75.1963" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.1396 84.4634L115.524 84.4634" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.1396 93.6848L115.524 93.6848" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M52.1396 102.949L90.0785 102.949" stroke="#0AA5FF" stroke-width="1.25" class="svg__stroke--default-cyan-03"/>
+<path d="M136.708 93.4829L157.837 102.199L166.589 123.241L157.837 144.284L136.708 153L115.578 144.284L106.826 123.241L115.578 102.199L136.708 93.4829Z" fill="white" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
+<path d="M136.708 97.5244L154.968 105.057L162.532 123.242M136.708 148.959L118.447 141.427L110.884 123.242" stroke="#FFD600" stroke-width="1.5" class="svg__stroke--secondary-yellow-03"/>
+<path d="M139.553 124.387C139.553 121.862 140.162 119.885 141.38 118.456C142.614 117.028 144.341 116.089 146.56 115.64V118.232C144.875 118.747 143.74 119.677 143.156 121.023C142.823 121.738 142.689 122.427 142.756 123.092H146.685V129.646H139.553V124.387ZM127.692 124.387C127.692 121.895 128.284 119.927 129.469 118.481C130.67 117.036 132.413 116.089 134.698 115.64V118.232C132.997 118.764 131.854 119.677 131.27 120.973C130.97 121.654 130.845 122.361 130.895 123.092H134.824V129.646H127.692V124.387Z" fill="#0AA5FF" class="svg__fill--primary-blue-03"/>
+</svg>
