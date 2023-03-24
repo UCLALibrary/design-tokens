@@ -1,0 +1,14 @@
+<svg width="200" height="160" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__illustration-digital-equipment">
+<path d="M28.4214 18C28.4214 13.9959 31.6673 10.75 35.6714 10.75H147.401C151.405 10.75 154.651 13.9959 154.651 18V93.2892H28.4214V18Z" fill="white" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
+<path d="M32.623 17.8489C32.623 16.054 34.0781 14.5989 35.873 14.5989H147.205C149 14.5989 150.455 16.054 150.455 17.8489V89.4392H32.623V17.8489Z" stroke="#0AA5FF" stroke-width="1.5" class="svg__stroke--default-cyan-03"/>
+<path d="M12.75 93.6196H169.625V94.4932C169.625 98.4972 166.379 101.743 162.375 101.743H20C15.9959 101.743 12.75 98.4972 12.75 94.4932V93.6196Z" fill="white" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
+<path d="M40.4233 35.1436L53.4574 22.1095" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
+<path d="M41.0825 29.2773L47.5995 22.7603" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
+<path d="M40.6387 24.498L42.811 22.3257" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
+<path d="M72.25 78.875C72.25 76.5278 74.1528 74.625 76.5 74.625H182C184.347 74.625 186.25 76.5278 186.25 78.875V144.759C186.25 147.106 184.347 149.009 182 149.009H76.5C74.1528 149.009 72.25 147.106 72.25 144.759V78.875Z" fill="white" stroke="#0B6AB7" stroke-width="1.5" class="svg__stroke--primary-blue-03"/>
+<path d="M76.1558 82.2226C76.1558 79.8754 78.0586 77.9727 80.4058 77.9727H169.167C171.514 77.9727 173.417 79.8754 173.417 82.2227V141.411C173.417 143.758 171.514 145.661 169.167 145.661H80.4058C78.0585 145.661 76.1558 143.758 76.1558 141.411V82.2226Z" stroke="#0AA5FF" stroke-width="1.5" class="svg__stroke--default-cyan-03"/>
+<path d="M83.0308 96.6111L94.8168 84.825" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
+<path d="M83.6265 91.3064L89.5195 85.4134" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
+<path d="M83.2261 86.9849L85.1904 85.0205" stroke="#00E0E0" stroke-width="1.5" class="svg__stroke--help-green-03"/>
+<path d="M179.986 108.469L182.522 109.52L183.573 112.056L182.522 114.593L179.986 115.643L177.45 114.593L176.399 112.056L177.45 109.52L179.986 108.469Z" stroke="#FFD600" stroke-width="1.5" class="svg__stroke--secondary-yellow-03"/>
+</svg>
