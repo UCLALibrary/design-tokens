@@ -1,3 +1,10 @@
+# [5.5.0](https://github.com/UCLALibrary/design-tokens/compare/v5.4.1...v5.5.0) (2023-03-26)
+
+
+### Features
+
+* adds student icons and illustrations ([#86](https://github.com/UCLALibrary/design-tokens/issues/86)) ([299fcf6](https://github.com/UCLALibrary/design-tokens/commit/299fcf6d61d834a99a218b95f3fafdf411ef92b6))
+
 ## [5.4.1](https://github.com/UCLALibrary/design-tokens/compare/v5.4.0...v5.4.1) (2022-10-06)
 
 
