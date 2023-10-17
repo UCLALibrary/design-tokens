@@ -1,3 +1,10 @@
+## [5.5.1](https://github.com/UCLALibrary/design-tokens/compare/v5.5.0...v5.5.1) (2023-10-17)
+
+
+### Bug Fixes
+
+* remove ids and clip-paths in svgs ([#88](https://github.com/UCLALibrary/design-tokens/issues/88)) ([40357db](https://github.com/UCLALibrary/design-tokens/commit/40357db83f826a13ae949323b2c9a3b2d88093b6))
+
 # [5.5.0](https://github.com/UCLALibrary/design-tokens/compare/v5.4.1...v5.5.0) (2023-03-26)
 
 
