@@ -7,9 +7,4 @@
       fill="#0B6AB7" class="svg__fill--primary-blue-03" />
     <path d="M7 25.4744h14.2857" stroke="#0AA5FF" stroke-width="1.5" class="svg__stroke--default-cyan-03" />
   </g>
-  <defs>
-    <clipPath id="a">
-      <path fill="#fff" transform="matrix(-1 0 0 1 32 0)" d="M0 0h32v32.8644H0z" />
-    </clipPath>
-  </defs>
 </svg>

@@ -3,12 +3,7 @@
   <path d="M40.97 51.901v-2.93h46.058v30.705h-2.85" stroke="#fff" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--white"/>
   <path d="M43.943 48.992V46h46.058v30.705h-2.788" stroke="#fff" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--white"/>
   <path d="M84.057 82.648H38V51.943h46.057v30.705Z" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--white"/>
-  <g clip-path="url(#a)">
+  <g>
     <path d="m56.571 60.61 10.4 6.685-10.4 6.686V60.61Z" stroke="#5CD9FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--default-cyan-02"/>
   </g>
-  <defs>
-    <clipPath id="a">
-      <path fill="#fff" transform="translate(49.143 55.41)" d="M0 0h23.771v23.771H0z" class="svg__fill--white"/>
-    </clipPath>
-  </defs>
 </svg>
