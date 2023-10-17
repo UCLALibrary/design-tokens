@@ -1,12 +1,7 @@
 <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-arrow-left">
-  <g clip-path="url(#a)" stroke="#0B6AB7" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"
+  <g stroke="#0B6AB7" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"
     class="svg__stroke--primary-blue-03">
     <path d="M23 16.8645H9.75" />
     <path d="m16 23.8645-7-7 7-7" />
   </g>
-  <defs>
-    <clipPath id="a">
-      <path fill="#fff" transform="matrix(-1 0 0 1 32 .864502)" d="M0 0h32v32H0z" />
-    </clipPath>
-  </defs>
 </svg>

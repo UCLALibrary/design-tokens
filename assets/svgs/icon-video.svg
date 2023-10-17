@@ -1,11 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-video">
 <path d="M29 24.6666C20.3333 24.6666 11.6667 24.6666 3 24.6666V7.33325H29V24.6666Z" stroke="#0B6AB7" stroke-width="0.83871" stroke-linecap="round" stroke-linejoin="round" class="svg__stroke--primary-blue-03"/>
-<g clip-path="url(#clip0_360_5663)">
+<g>
 <path d="M12.6102 10.9678L20.4382 16L12.6102 21.0323V10.9678Z" stroke="#0AA5FF" stroke-width="0.83871" stroke-linecap="round" stroke-linejoin="round" class="svg__fill--default-cyan-03"/>
 </g>
-<defs>
-<clipPath id="clip0_360_5663">
-<rect width="17.8925" height="17.8925" fill="white" transform="translate(7.0188 7.05371)"/>
-</clipPath>
-</defs>
 </svg>
