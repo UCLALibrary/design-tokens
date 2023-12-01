@@ -1,3 +1,10 @@
+## [5.6.1](https://github.com/UCLALibrary/design-tokens/compare/v5.6.0...v5.6.1) (2023-12-01)
+
+
+### Bug Fixes
+
+* pin token transformer to 0.0.14 ([f382dba](https://github.com/UCLALibrary/design-tokens/commit/f382dba60835c9f8e1dd95247c2f615997159d38))
+
 # [5.6.0](https://github.com/UCLALibrary/design-tokens/compare/v5.5.1...v5.6.0) (2023-12-01)
 
 
