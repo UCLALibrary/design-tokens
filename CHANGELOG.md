@@ -1,3 +1,10 @@
+# [5.6.0](https://github.com/UCLALibrary/design-tokens/compare/v5.5.1...v5.6.0) (2023-12-01)
+
+
+### Features
+
+* add ftva token set ([#89](https://github.com/UCLALibrary/design-tokens/issues/89)) ([f4d9267](https://github.com/UCLALibrary/design-tokens/commit/f4d9267bd8a6346c69c4bf8c034e996105a0c3a7))
+
 ## [5.5.1](https://github.com/UCLALibrary/design-tokens/compare/v5.5.0...v5.5.1) (2023-10-17)
 
 
