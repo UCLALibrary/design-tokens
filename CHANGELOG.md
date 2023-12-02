@@ -1,3 +1,10 @@
+## [5.7.1](https://github.com/UCLALibrary/design-tokens/compare/v5.7.0...v5.7.1) (2023-12-02)
+
+
+### Bug Fixes
+
+* rename tokens filename ([33cc6a8](https://github.com/UCLALibrary/design-tokens/commit/33cc6a8d9679f88d1677a365cda4b08fefea56bf))
+
 # [5.7.0](https://github.com/UCLALibrary/design-tokens/compare/v5.6.1...v5.7.0) (2023-12-02)
 
 
