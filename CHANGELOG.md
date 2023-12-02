@@ -1,3 +1,10 @@
+# [5.7.0](https://github.com/UCLALibrary/design-tokens/compare/v5.6.1...v5.7.0) (2023-12-02)
+
+
+### Features
+
+* add ftva tokens to actions ([6dd6ce4](https://github.com/UCLALibrary/design-tokens/commit/6dd6ce4d5e4cd1ff0698076838d2daca77436b6b))
+
 ## [5.6.1](https://github.com/UCLALibrary/design-tokens/compare/v5.6.0...v5.6.1) (2023-12-01)
 
 
