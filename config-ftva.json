@@ -1,0 +1,17 @@
+{
+  "source": ["data/transformed-tokens-ftva.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "files": [
+        {
+          "destination": "scss/_tokens.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    }
+  }
+}
