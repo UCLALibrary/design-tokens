@@ -1,3 +1,10 @@
+## [5.7.3](https://github.com/UCLALibrary/design-tokens/compare/v5.7.2...v5.7.3) (2023-12-04)
+
+
+### Bug Fixes
+
+* update action for ftva ([dd21c20](https://github.com/UCLALibrary/design-tokens/commit/dd21c20aa7b0b4282ce6c0052525c5bd3455694d))
+
 ## [5.7.2](https://github.com/UCLALibrary/design-tokens/compare/v5.7.1...v5.7.2) (2023-12-04)
 
 
