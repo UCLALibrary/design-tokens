@@ -1,3 +1,10 @@
+## [5.7.4](https://github.com/UCLALibrary/design-tokens/compare/v5.7.3...v5.7.4) (2023-12-05)
+
+
+### Bug Fixes
+
+* update create-usable-tokens-compile-css.yml ([bf84042](https://github.com/UCLALibrary/design-tokens/commit/bf840421ad6bd2478222e327e94f571d1aca26b0))
+
 ## [5.7.3](https://github.com/UCLALibrary/design-tokens/compare/v5.7.2...v5.7.3) (2023-12-04)
 
 
