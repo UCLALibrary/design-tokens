@@ -1,0 +1,28 @@
+{
+  "page-background": {
+    "value": "{ftva.black}",
+    "type": "color"
+  },
+  "cta-background": {
+    "value": "{ftva.primary}",
+    "type": "color"
+  },
+  "card-background": {
+    "value": "{ftva.brand-01}",
+    "type": "color"
+  },
+  "ftva": {
+    "black": {
+      "value": "#191919",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#D832A9",
+      "type": "color"
+    },
+    "brand-01": {
+      "value": "#FAF5F4",
+      "type": "color"
+    }
+  }
+}
