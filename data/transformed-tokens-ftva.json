@@ -11,6 +11,10 @@
     "value": 22,
     "type": "fontSizes"
   },
+  "24": {
+    "value": 24,
+    "type": "fontSizes"
+  },
   "26": {
     "value": 26,
     "type": "fontSizes"
@@ -58,6 +62,18 @@
   "button-corners": {
     "value": 2,
     "type": "borderRadius"
+  },
+  "pale-grey": {
+    "value": "#efefef",
+    "type": "color"
+  },
+  "sharp-corners": {
+    "value": 0,
+    "type": "borderRadius"
+  },
+  "navy-blue": {
+    "value": "#132941",
+    "type": "color"
   },
   "ftva": {
     "black": {
