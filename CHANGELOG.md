@@ -1,3 +1,13 @@
+# [5.9.0](https://github.com/UCLALibrary/design-tokens/compare/v5.8.0...v5.9.0) (2024-03-07)
+
+
+### Features
+
+* add font sizes and radius tokens ([#92](https://github.com/UCLALibrary/design-tokens/issues/92)) ([729dcc1](https://github.com/UCLALibrary/design-tokens/commit/729dcc10f0292105e54a3f7a3a8e6a7130921c98))
+* add ftva colors ([#91](https://github.com/UCLALibrary/design-tokens/issues/91)) ([311dba3](https://github.com/UCLALibrary/design-tokens/commit/311dba3f2257ae2ff86af8bb2a98ec8e5f7873cf))
+* add ftva colors, radii, and a text size ([#93](https://github.com/UCLALibrary/design-tokens/issues/93)) ([e4bdbb9](https://github.com/UCLALibrary/design-tokens/commit/e4bdbb98fcc4211061eefb8c13a5e24620339c9e))
+* add icons for ftva cal component ([#94](https://github.com/UCLALibrary/design-tokens/issues/94)) ([dc5065b](https://github.com/UCLALibrary/design-tokens/commit/dc5065b5fa9d3037ee7ffed11d48e1acc1268e2f))
+
 # [5.8.0](https://github.com/UCLALibrary/design-tokens/compare/v5.7.4...v5.8.0) (2023-12-05)
 
 
