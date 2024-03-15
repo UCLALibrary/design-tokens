@@ -1,3 +1,10 @@
+## [5.9.1](https://github.com/UCLALibrary/design-tokens/compare/v5.9.0...v5.9.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* rename font size tokens for ftva ([#95](https://github.com/UCLALibrary/design-tokens/issues/95)) ([dd23522](https://github.com/UCLALibrary/design-tokens/commit/dd23522c8bf330a3033c651e5e6844357e05b531))
+
 # [5.9.0](https://github.com/UCLALibrary/design-tokens/compare/v5.8.0...v5.9.0) (2024-03-07)
 
 
