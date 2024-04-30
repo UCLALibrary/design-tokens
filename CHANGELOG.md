@@ -1,3 +1,10 @@
+# [5.10.0](https://github.com/UCLALibrary/design-tokens/compare/v5.9.1...v5.10.0) (2024-04-30)
+
+
+### Features
+
+* adds ftva diamond svg ([#96](https://github.com/UCLALibrary/design-tokens/issues/96)) ([f6e660a](https://github.com/UCLALibrary/design-tokens/commit/f6e660ac526457b71994e94059618e13dcbb3cd7))
+
 ## [5.9.1](https://github.com/UCLALibrary/design-tokens/compare/v5.9.0...v5.9.1) (2024-03-15)
 
 
