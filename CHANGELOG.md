@@ -1,3 +1,10 @@
+# [5.11.0](https://github.com/UCLALibrary/design-tokens/compare/v5.10.0...v5.11.0) (2024-05-02)
+
+
+### Features
+
+* add ftva card vertical tokens ([#97](https://github.com/UCLALibrary/design-tokens/issues/97)) ([a80143b](https://github.com/UCLALibrary/design-tokens/commit/a80143bd4efcb80e0cee1b3ea0ef7b47c8ad83ad))
+
 # [5.10.0](https://github.com/UCLALibrary/design-tokens/compare/v5.9.1...v5.10.0) (2024-04-30)
 
 
