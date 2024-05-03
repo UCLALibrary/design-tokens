@@ -1,3 +1,10 @@
+## [5.12.6](https://github.com/UCLALibrary/design-tokens/compare/v5.12.5...v5.12.6) (2024-05-03)
+
+
+### Bug Fixes
+
+* debug actions ([#103](https://github.com/UCLALibrary/design-tokens/issues/103)) ([a143dcd](https://github.com/UCLALibrary/design-tokens/commit/a143dcd5d3206fea81946a11e9cc3620d147791d))
+
 ## [5.12.5](https://github.com/UCLALibrary/design-tokens/compare/v5.12.4...v5.12.5) (2024-05-03)
 
 
