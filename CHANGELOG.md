@@ -1,3 +1,10 @@
+## [5.12.2](https://github.com/UCLALibrary/design-tokens/compare/v5.12.1...v5.12.2) (2024-05-03)
+
+
+### Bug Fixes
+
+* add global set to ftva token transformation ([c68fa00](https://github.com/UCLALibrary/design-tokens/commit/c68fa00d972593a324d1d377794c21401460a2a5))
+
 ## [5.12.1](https://github.com/UCLALibrary/design-tokens/compare/v5.12.0...v5.12.1) (2024-05-03)
 
 
