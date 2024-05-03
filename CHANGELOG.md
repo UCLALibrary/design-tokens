@@ -1,3 +1,10 @@
+## [5.12.4](https://github.com/UCLALibrary/design-tokens/compare/v5.12.3...v5.12.4) (2024-05-03)
+
+
+### Bug Fixes
+
+* update sets used in ftva token transformation ([5f77b2c](https://github.com/UCLALibrary/design-tokens/commit/5f77b2c55b71f9d21041e1996677c6febdea57f0))
+
 ## [5.12.3](https://github.com/UCLALibrary/design-tokens/compare/v5.12.2...v5.12.3) (2024-05-03)
 
 
