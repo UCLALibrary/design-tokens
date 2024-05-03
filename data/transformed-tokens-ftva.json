@@ -734,7 +734,7 @@
     "value": 0,
     "type": "borderRadius"
   },
-  "xs": {
+  "border-radius-xs": {
     "value": 2,
     "type": "borderRadius"
   },
