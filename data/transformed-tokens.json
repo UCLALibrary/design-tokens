@@ -352,5 +352,33 @@
       "type": "color",
       "description": "Usage: status, error text Keywords: status - error darkest"
     }
+  },
+  "none": {
+    "value": 0,
+    "type": "borderRadius"
+  },
+  "xs": {
+    "value": 2,
+    "type": "borderRadius"
+  },
+  "sm": {
+    "value": 4,
+    "type": "borderRadius"
+  },
+  "md": {
+    "value": 8,
+    "type": "borderRadius"
+  },
+  "lg": {
+    "value": 12,
+    "type": "borderRadius"
+  },
+  "xlg": {
+    "value": 16,
+    "type": "borderRadius"
+  },
+  "round": {
+    "value": 60,
+    "type": "borderRadius"
   }
 }
