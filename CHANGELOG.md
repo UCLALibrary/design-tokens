@@ -1,3 +1,10 @@
+## [5.12.3](https://github.com/UCLALibrary/design-tokens/compare/v5.12.2...v5.12.3) (2024-05-03)
+
+
+### Bug Fixes
+
+* update token transformation action ([07c5f91](https://github.com/UCLALibrary/design-tokens/commit/07c5f91905e3e0084d06d1f0e55a47e883ed84f7))
+
 ## [5.12.2](https://github.com/UCLALibrary/design-tokens/compare/v5.12.1...v5.12.2) (2024-05-03)
 
 
