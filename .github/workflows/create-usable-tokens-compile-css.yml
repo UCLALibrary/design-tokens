@@ -15,7 +15,7 @@ jobs:
 
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer data/tokens.json data/transformed-tokens.json global -y
-      - run: npx token-transformer data/tokens.json data/transformed-tokens-ftva.json global,ftva --resolveReferences=false -y
+      - run: npx token-transformer data/tokens.json data/transformed-tokens-ftva.json global,spacing,ftva --resolveReferences=false -y
       # Convert tokens according to Style Dictionary config
       - run: npx style-dictionary build --config config.json
       - run: npx style-dictionary build --config config-ftva.json
