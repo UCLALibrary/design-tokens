@@ -1,3 +1,10 @@
+# [5.12.0](https://github.com/UCLALibrary/design-tokens/compare/v5.11.0...v5.12.0) (2024-05-03)
+
+
+### Features
+
+* Vertical cards- added padding tokens for vertical cards, added global border radius tokens, text spacing tokens, and adjusted the fixed height of homepage event cards ([#98](https://github.com/UCLALibrary/design-tokens/issues/98)) ([48d55cc](https://github.com/UCLALibrary/design-tokens/commit/48d55cc03d22525b15228bc237cff2ec8a960d7e))
+
 # [5.11.0](https://github.com/UCLALibrary/design-tokens/compare/v5.10.0...v5.11.0) (2024-05-02)
 
 
