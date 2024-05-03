@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.4.0
+        uses: actions/setup-node@v4
 
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer data/tokens.json data/transformed-tokens.json global -y
@@ -22,7 +22,7 @@ jobs:
 
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - name: Commit updated tokens and global css
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update tokens"
 
@@ -40,13 +40,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
             ref: ${{ needs.beautify.outputs.new_sha }}
             fetch-depth: 1
       - run: git pull
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.4.0
+        uses: actions/setup-node@v4
 
       # Create global CSS file for vendor apps
       - name: Make destination directory for compiled CSS
@@ -54,13 +54,13 @@ jobs:
 
       # Create global CSS file for Springshare
       - name: Compile CSS from SCSS files
-        uses: gha-utilities/sass-build@v0.4.9
+        uses: gha-utilities/sass-build@v0.6.0
         with:
           source: scss/springshare-global.scss
           destination: assets/css/main.css
 
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - name: Commit updated tokens and global css
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: compile global css"
