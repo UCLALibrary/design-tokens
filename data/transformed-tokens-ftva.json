@@ -256,6 +256,20 @@
     "type": "borderRadius",
     "description": "Border Radius for rounded tagged corners"
   },
+  "animation-timing-funtion": {
+    "value": "ease-out",
+    "type": "other"
+  },
+  "card-animation-desktop-translate-y": {
+    "value": 16,
+    "type": "other",
+    "description": "Translate the card upwards by 16 px"
+  },
+  "animation-duration": {
+    "value": "300ms",
+    "type": "other",
+    "description": "Duration of translation animation"
+  },
   "max-xs": {
     "value": 8,
     "type": "spacing"
