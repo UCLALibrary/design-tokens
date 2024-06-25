@@ -1,3 +1,10 @@
+## [5.14.1](https://github.com/UCLALibrary/design-tokens/compare/v5.14.0...v5.14.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* remove double class attribute ([#106](https://github.com/UCLALibrary/design-tokens/issues/106)) ([616b7d3](https://github.com/UCLALibrary/design-tokens/commit/616b7d33e3cf7794aa9b93d5b3b88e24679274c2))
+
 # [5.14.0](https://github.com/UCLALibrary/design-tokens/compare/v5.13.0...v5.14.0) (2024-06-25)
 
 
