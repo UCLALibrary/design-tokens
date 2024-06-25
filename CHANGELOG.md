@@ -1,3 +1,10 @@
+# [5.15.0](https://github.com/UCLALibrary/design-tokens/compare/v5.14.1...v5.15.0) (2024-06-25)
+
+
+### Features
+
+* add darker blue for hover state of button ([#107](https://github.com/UCLALibrary/design-tokens/issues/107)) ([71df475](https://github.com/UCLALibrary/design-tokens/commit/71df475a9aa472f40d004d311e8978192d3baa6f))
+
 ## [5.14.1](https://github.com/UCLALibrary/design-tokens/compare/v5.14.0...v5.14.1) (2024-06-25)
 
 
