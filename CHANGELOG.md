@@ -1,3 +1,10 @@
+# [5.14.0](https://github.com/UCLALibrary/design-tokens/compare/v5.13.0...v5.14.0) (2024-06-25)
+
+
+### Features
+
+* add "x" icon for ftva tags ([#105](https://github.com/UCLALibrary/design-tokens/issues/105)) ([b642c2d](https://github.com/UCLALibrary/design-tokens/commit/b642c2dfd26122793a7568d2f98ce2024c677303))
+
 # [5.13.0](https://github.com/UCLALibrary/design-tokens/compare/v5.12.6...v5.13.0) (2024-06-21)
 
 
