@@ -151,6 +151,13 @@
   line-height: $line-height--1;
 }
 
+@mixin ftva-button {
+  font-family: $font-primary;
+  font-size: 18px;
+  font-weight: $font-weight-medium;
+  line-height: $line-height--1;
+}
+
 @mixin input {
   font-family: $font-secondary;
   font-size: 16px;

@@ -1,4 +1,385 @@
 {
+  "font-size-16": {
+    "value": 16,
+    "type": "fontSizes"
+  },
+  "font-size-18": {
+    "value": 18,
+    "type": "fontSizes"
+  },
+  "font-size-22": {
+    "value": 22,
+    "type": "fontSizes"
+  },
+  "font-size-24": {
+    "value": 24,
+    "type": "fontSizes"
+  },
+  "font-size-26": {
+    "value": 26,
+    "type": "fontSizes"
+  },
+  "page-blue": {
+    "value": "#e7edf2",
+    "type": "color"
+  },
+  "pure-white": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "grey-blue": {
+    "value": "#ABBFD6",
+    "type": "color"
+  },
+  "heading-grey": {
+    "value": "#2f2f2f",
+    "type": "color"
+  },
+  "subtitle-grey": {
+    "value": "#676767",
+    "type": "color"
+  },
+  "accent-blue": {
+    "value": "#115DAF",
+    "type": "color"
+  },
+  "medium-grey": {
+    "value": "#555555",
+    "type": "color"
+  },
+  "body-grey": {
+    "value": "#333333",
+    "type": "color"
+  },
+  "light-grey": {
+    "value": "#BBBBBB",
+    "type": "color"
+  },
+  "card-corners": {
+    "value": 12,
+    "type": "borderRadius"
+  },
+  "button-corners": {
+    "value": 2,
+    "type": "borderRadius"
+  },
+  "pale-grey": {
+    "value": "#efefef",
+    "type": "color"
+  },
+  "sharp-corners": {
+    "value": 0,
+    "type": "borderRadius"
+  },
+  "navy-blue": {
+    "value": "#132941",
+    "type": "color"
+  },
+  "vertical-card--homepage-event__height": {
+    "value": 517,
+    "type": "sizing",
+    "description": "Vertical card component's vertical height. This component size is to be used on the homepage only. "
+  },
+  "vertical-card--collection__height": {
+    "value": 463,
+    "type": "sizing",
+    "description": "Vertical card componen's height for collection card."
+  },
+  "vertical-card--collection__width": {
+    "value": 372,
+    "type": "sizing",
+    "description": "Vertical card component's width for collection card."
+  },
+  "vertical-card__width": {
+    "value": 340,
+    "type": "sizing",
+    "description": "Vertical card component's horizontal width. This component size is to be used on the homepage only. "
+  },
+  "card-title-1-desktop": {
+    "value": {
+      "fontSize": 30,
+      "fontFamily": "karbon",
+      "lineHeight": "120%"
+    },
+    "type": "typography"
+  },
+  "card-title-1-mobile": {
+    "value": {
+      "fontSize": 26,
+      "fontFamily": "karbon",
+      "lineHeight": "140%",
+      "letterSpacing": "0%"
+    },
+    "type": "typography"
+  },
+  "font-size-30": {
+    "value": 30,
+    "type": "fontSizes"
+  },
+  "karbon": {
+    "value": "karbon",
+    "type": "fontFamilies"
+  },
+  "medium": {
+    "value": "medium",
+    "type": "fontWeights"
+  },
+  "line-height-120": {
+    "value": "120%",
+    "type": "lineHeights",
+    "description": "Line height for desktop card titles"
+  },
+  "line-height-110": {
+    "value": "110%",
+    "type": "lineHeights",
+    "description": "110% line height. This line height is often used for h1,h2,h3,h4, and h5 headers for Desktop screens."
+  },
+  "line-height-140": {
+    "value": "140%",
+    "type": "lineHeights",
+    "description": "140% line height "
+  },
+  "line-height-150": {
+    "value": "150%",
+    "type": "lineHeights",
+    "description": "150% line height."
+  },
+  "letter-spacing-4": {
+    "value": "4%",
+    "type": "letterSpacing",
+    "description": "4% letter spacing."
+  },
+  "emphasized subtitle": {
+    "value": {
+      "fontFamily": "karbon",
+      "fontWeight": "medium",
+      "fontSize": 24,
+      "lineHeight": "140%",
+      "letterSpacing": "4%"
+    },
+    "type": "typography",
+    "description": "Desktop sizing for emphasized subtitle."
+  },
+  "proxima nova": {
+    "value": "Proxima Nova",
+    "type": "fontFamilies",
+    "description": "Font Family - Proxima Nova"
+  },
+  "regular": {
+    "value": "regular",
+    "type": "fontWeights",
+    "description": "Regular font weight"
+  },
+  "body 2": {
+    "value": {
+      "fontFamily": "Proxima Nova",
+      "fontWeight": "regular",
+      "fontSize": 16,
+      "lineHeight": "150%",
+      "letterSpacing": "0%"
+    },
+    "type": "typography",
+    "description": "Desktop body 2"
+  },
+  "letter-spacing-0": {
+    "value": "0%",
+    "type": "letterSpacing",
+    "description": "Letter spacing 0%"
+  },
+  "font-size-21": {
+    "value": 21,
+    "type": "fontSizes",
+    "description": "21px text style"
+  },
+  "card-title-2-desktop": {
+    "value": {
+      "fontFamily": "karbon",
+      "fontWeight": "medium",
+      "fontSize": 21,
+      "lineHeight": "120%",
+      "letterSpacing": "0%"
+    },
+    "type": "typography"
+  },
+  "tags-desktop": {
+    "value": {
+      "fontFamily": "karbon",
+      "fontWeight": "medium",
+      "fontSize": 15,
+      "letterSpacing": "0%",
+      "lineHeight": 1
+    },
+    "type": "typography"
+  },
+  "font-size-15": {
+    "value": 15,
+    "type": "fontSizes",
+    "description": "15px"
+  },
+  "line-height-1": {
+    "value": 1,
+    "type": "lineHeights",
+    "description": "Single line height"
+  },
+  "subtitle-1-desktop": {
+    "value": {
+      "fontFamily": "karbon",
+      "fontWeight": "medium",
+      "letterSpacing": "4%",
+      "lineHeight": "140%",
+      "fontSize": 20
+    },
+    "type": "typography"
+  },
+  "font-size-20": {
+    "value": 20,
+    "type": "fontSizes",
+    "description": "20px "
+  },
+  "card-padding": {
+    "value": 32,
+    "type": "spacing",
+    "description": "Padding for FTVA vertical card."
+  },
+  "card-space-between-text": {
+    "value": 8,
+    "type": "spacing",
+    "description": "Spacing between text"
+  },
+  "card-space-after-heading": {
+    "value": 24,
+    "type": "spacing",
+    "description": "Spacing token to be used after a header."
+  },
+  "tag-corners": {
+    "value": 60,
+    "type": "borderRadius",
+    "description": "Border Radius for rounded tagged corners"
+  },
+  "darker-blue": {
+    "value": "#054A94",
+    "type": "color"
+  },
+  "max-xs": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "max-s": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "max-m": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "max-l": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "max-xl": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "max-2xl": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "max-3xl": {
+    "value": 96,
+    "type": "spacing"
+  },
+  "max-4xl": {
+    "value": 112,
+    "type": "spacing"
+  },
+  "max-5xl": {
+    "value": 128,
+    "type": "spacing"
+  },
+  "max-6xl": {
+    "value": 144,
+    "type": "spacing"
+  },
+  "min-xs": {
+    "value": 4,
+    "type": "spacing"
+  },
+  "min-s": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "min-m": {
+    "value": 12,
+    "type": "spacing"
+  },
+  "min-l": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "min-xl": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "min-2xl": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "min-3xl": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "min-4xl": {
+    "value": 56,
+    "type": "spacing"
+  },
+  "min-5xl": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "min-6xl": {
+    "value": 72,
+    "type": "spacing"
+  },
+  "med-xs": {
+    "value": 5.475,
+    "type": "spacing"
+  },
+  "med-s": {
+    "value": 10.95,
+    "type": "spacing"
+  },
+  "med-m": {
+    "value": 16.425,
+    "type": "spacing"
+  },
+  "med-l": {
+    "value": 21.9,
+    "type": "spacing"
+  },
+  "med-xl": {
+    "value": 32.85,
+    "type": "spacing"
+  },
+  "med-2xl": {
+    "value": 43.8,
+    "type": "spacing"
+  },
+  "med-3xl": {
+    "value": 65.699,
+    "type": "spacing"
+  },
+  "med-4xl": {
+    "value": 76.648,
+    "type": "spacing"
+  },
+  "med-5xl": {
+    "value": 87.615,
+    "type": "spacing"
+  },
+  "med-6xl": {
+    "value": 98.564,
+    "type": "spacing"
+  },
   "black": {
     "value": "#0f0f0f",
     "type": "color",

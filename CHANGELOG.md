@@ -1,3 +1,153 @@
+# [5.15.0](https://github.com/UCLALibrary/design-tokens/compare/v5.14.1...v5.15.0) (2024-06-25)
+
+
+### Features
+
+* add darker blue for hover state of button ([#107](https://github.com/UCLALibrary/design-tokens/issues/107)) ([71df475](https://github.com/UCLALibrary/design-tokens/commit/71df475a9aa472f40d004d311e8978192d3baa6f))
+
+## [5.14.1](https://github.com/UCLALibrary/design-tokens/compare/v5.14.0...v5.14.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* remove double class attribute ([#106](https://github.com/UCLALibrary/design-tokens/issues/106)) ([616b7d3](https://github.com/UCLALibrary/design-tokens/commit/616b7d33e3cf7794aa9b93d5b3b88e24679274c2))
+
+# [5.14.0](https://github.com/UCLALibrary/design-tokens/compare/v5.13.0...v5.14.0) (2024-06-25)
+
+
+### Features
+
+* add "x" icon for ftva tags ([#105](https://github.com/UCLALibrary/design-tokens/issues/105)) ([b642c2d](https://github.com/UCLALibrary/design-tokens/commit/b642c2dfd26122793a7568d2f98ce2024c677303))
+
+# [5.13.0](https://github.com/UCLALibrary/design-tokens/compare/v5.12.6...v5.13.0) (2024-06-21)
+
+
+### Features
+
+* added new FTVA icons ([#104](https://github.com/UCLALibrary/design-tokens/issues/104)) ([771fcc6](https://github.com/UCLALibrary/design-tokens/commit/771fcc621e1d6027dd86b95993aeea1f486a003d))
+
+## [5.12.6](https://github.com/UCLALibrary/design-tokens/compare/v5.12.5...v5.12.6) (2024-05-03)
+
+
+### Bug Fixes
+
+* debug actions ([#103](https://github.com/UCLALibrary/design-tokens/issues/103)) ([a143dcd](https://github.com/UCLALibrary/design-tokens/commit/a143dcd5d3206fea81946a11e9cc3620d147791d))
+
+## [5.12.5](https://github.com/UCLALibrary/design-tokens/compare/v5.12.4...v5.12.5) (2024-05-03)
+
+
+### Bug Fixes
+
+* update token transformer for ftva ([99e49c9](https://github.com/UCLALibrary/design-tokens/commit/99e49c9088976178a3b37f11f38d004ff3b8833f))
+
+## [5.12.4](https://github.com/UCLALibrary/design-tokens/compare/v5.12.3...v5.12.4) (2024-05-03)
+
+
+### Bug Fixes
+
+* update sets used in ftva token transformation ([5f77b2c](https://github.com/UCLALibrary/design-tokens/commit/5f77b2c55b71f9d21041e1996677c6febdea57f0))
+
+## [5.12.3](https://github.com/UCLALibrary/design-tokens/compare/v5.12.2...v5.12.3) (2024-05-03)
+
+
+### Bug Fixes
+
+* update token transformation action ([07c5f91](https://github.com/UCLALibrary/design-tokens/commit/07c5f91905e3e0084d06d1f0e55a47e883ed84f7))
+
+## [5.12.2](https://github.com/UCLALibrary/design-tokens/compare/v5.12.1...v5.12.2) (2024-05-03)
+
+
+### Bug Fixes
+
+* add global set to ftva token transformation ([c68fa00](https://github.com/UCLALibrary/design-tokens/commit/c68fa00d972593a324d1d377794c21401460a2a5))
+
+## [5.12.1](https://github.com/UCLALibrary/design-tokens/compare/v5.12.0...v5.12.1) (2024-05-03)
+
+
+### Bug Fixes
+
+* fix token transformation ([ae8d99e](https://github.com/UCLALibrary/design-tokens/commit/ae8d99e72ea37dcab32e1597333a126da14d19ed))
+
+# [5.12.0](https://github.com/UCLALibrary/design-tokens/compare/v5.11.0...v5.12.0) (2024-05-03)
+
+
+### Features
+
+* Vertical cards- added padding tokens for vertical cards, added global border radius tokens, text spacing tokens, and adjusted the fixed height of homepage event cards ([#98](https://github.com/UCLALibrary/design-tokens/issues/98)) ([48d55cc](https://github.com/UCLALibrary/design-tokens/commit/48d55cc03d22525b15228bc237cff2ec8a960d7e))
+
+# [5.11.0](https://github.com/UCLALibrary/design-tokens/compare/v5.10.0...v5.11.0) (2024-05-02)
+
+
+### Features
+
+* add ftva card vertical tokens ([#97](https://github.com/UCLALibrary/design-tokens/issues/97)) ([a80143b](https://github.com/UCLALibrary/design-tokens/commit/a80143bd4efcb80e0cee1b3ea0ef7b47c8ad83ad))
+
+# [5.10.0](https://github.com/UCLALibrary/design-tokens/compare/v5.9.1...v5.10.0) (2024-04-30)
+
+
+### Features
+
+* adds ftva diamond svg ([#96](https://github.com/UCLALibrary/design-tokens/issues/96)) ([f6e660a](https://github.com/UCLALibrary/design-tokens/commit/f6e660ac526457b71994e94059618e13dcbb3cd7))
+
+## [5.9.1](https://github.com/UCLALibrary/design-tokens/compare/v5.9.0...v5.9.1) (2024-03-15)
+
+
+### Bug Fixes
+
+* rename font size tokens for ftva ([#95](https://github.com/UCLALibrary/design-tokens/issues/95)) ([dd23522](https://github.com/UCLALibrary/design-tokens/commit/dd23522c8bf330a3033c651e5e6844357e05b531))
+
+# [5.9.0](https://github.com/UCLALibrary/design-tokens/compare/v5.8.0...v5.9.0) (2024-03-07)
+
+
+### Features
+
+* add font sizes and radius tokens ([#92](https://github.com/UCLALibrary/design-tokens/issues/92)) ([729dcc1](https://github.com/UCLALibrary/design-tokens/commit/729dcc10f0292105e54a3f7a3a8e6a7130921c98))
+* add ftva colors ([#91](https://github.com/UCLALibrary/design-tokens/issues/91)) ([311dba3](https://github.com/UCLALibrary/design-tokens/commit/311dba3f2257ae2ff86af8bb2a98ec8e5f7873cf))
+* add ftva colors, radii, and a text size ([#93](https://github.com/UCLALibrary/design-tokens/issues/93)) ([e4bdbb9](https://github.com/UCLALibrary/design-tokens/commit/e4bdbb98fcc4211061eefb8c13a5e24620339c9e))
+* add icons for ftva cal component ([#94](https://github.com/UCLALibrary/design-tokens/issues/94)) ([dc5065b](https://github.com/UCLALibrary/design-tokens/commit/dc5065b5fa9d3037ee7ffed11d48e1acc1268e2f))
+
+# [5.8.0](https://github.com/UCLALibrary/design-tokens/compare/v5.7.4...v5.8.0) (2023-12-05)
+
+
+### Features
+
+* add ftva primitives and tokens ([#90](https://github.com/UCLALibrary/design-tokens/issues/90)) ([33c6ac6](https://github.com/UCLALibrary/design-tokens/commit/33c6ac65471a55d20b2b0e1b7fdd04f1e47ef25c))
+
+## [5.7.4](https://github.com/UCLALibrary/design-tokens/compare/v5.7.3...v5.7.4) (2023-12-05)
+
+
+### Bug Fixes
+
+* update create-usable-tokens-compile-css.yml ([bf84042](https://github.com/UCLALibrary/design-tokens/commit/bf840421ad6bd2478222e327e94f571d1aca26b0))
+
+## [5.7.3](https://github.com/UCLALibrary/design-tokens/compare/v5.7.2...v5.7.3) (2023-12-04)
+
+
+### Bug Fixes
+
+* update action for ftva ([dd21c20](https://github.com/UCLALibrary/design-tokens/commit/dd21c20aa7b0b4282ce6c0052525c5bd3455694d))
+
+## [5.7.2](https://github.com/UCLALibrary/design-tokens/compare/v5.7.1...v5.7.2) (2023-12-04)
+
+
+### Bug Fixes
+
+* update action for ftva ([60c4844](https://github.com/UCLALibrary/design-tokens/commit/60c4844064ffdc6010f9c3a461404d191fbbd7d4))
+
+## [5.7.1](https://github.com/UCLALibrary/design-tokens/compare/v5.7.0...v5.7.1) (2023-12-02)
+
+
+### Bug Fixes
+
+* rename tokens filename ([33cc6a8](https://github.com/UCLALibrary/design-tokens/commit/33cc6a8d9679f88d1677a365cda4b08fefea56bf))
+
+# [5.7.0](https://github.com/UCLALibrary/design-tokens/compare/v5.6.1...v5.7.0) (2023-12-02)
+
+
+### Features
+
+* add ftva tokens to actions ([6dd6ce4](https://github.com/UCLALibrary/design-tokens/commit/6dd6ce4d5e4cd1ff0698076838d2daca77436b6b))
+
 ## [5.6.1](https://github.com/UCLALibrary/design-tokens/compare/v5.6.0...v5.6.1) (2023-12-01)
 
 
