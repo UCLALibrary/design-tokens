@@ -1,3 +1,10 @@
+# [5.17.0](https://github.com/UCLALibrary/design-tokens/compare/v5.16.0...v5.17.0) (2024-07-08)
+
+
+### Features
+
+* added more ftva icons ([#109](https://github.com/UCLALibrary/design-tokens/issues/109)) ([b01a248](https://github.com/UCLALibrary/design-tokens/commit/b01a248b5cd80cbffd5f1dd2c8abb0380a6847c1))
+
 # [5.16.0](https://github.com/UCLALibrary/design-tokens/compare/v5.15.0...v5.16.0) (2024-07-02)
 
 
