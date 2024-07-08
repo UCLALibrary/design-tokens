@@ -1,3 +1,10 @@
+# [5.18.0](https://github.com/UCLALibrary/design-tokens/compare/v5.17.0...v5.18.0) (2024-07-08)
+
+
+### Features
+
+* add bright blue ([#110](https://github.com/UCLALibrary/design-tokens/issues/110)) ([c4004a2](https://github.com/UCLALibrary/design-tokens/commit/c4004a263529738bcaf9ba6755372fa071388e28))
+
 # [5.17.0](https://github.com/UCLALibrary/design-tokens/compare/v5.16.0...v5.17.0) (2024-07-08)
 
 
