@@ -1,3 +1,10 @@
+# [5.19.0](https://github.com/UCLALibrary/design-tokens/compare/v5.18.0...v5.19.0) (2024-07-08)
+
+
+### Features
+
+* add ftva-text-input ([#111](https://github.com/UCLALibrary/design-tokens/issues/111)) ([5e0a54b](https://github.com/UCLALibrary/design-tokens/commit/5e0a54b8f48973c1a5e3229d796741f1ce454d05))
+
 # [5.18.0](https://github.com/UCLALibrary/design-tokens/compare/v5.17.0...v5.18.0) (2024-07-08)
 
 
