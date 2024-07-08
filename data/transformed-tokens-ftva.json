@@ -260,6 +260,11 @@
     "value": "#054A94",
     "type": "color"
   },
+  "bright-blue": {
+    "value": "#2C91FF",
+    "type": "color",
+    "description": "hover state for links"
+  },
   "max-xs": {
     "value": 8,
     "type": "spacing"
