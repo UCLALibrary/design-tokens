@@ -301,6 +301,14 @@
   color: $secondary-grey-05;
 }
 
+@mixin ftva-input {
+  font-family: $font-secondary;
+  font-size: 16px;
+  font-weight: $font-weight-regular;
+  line-height: 150%;
+  color: $body-grey;
+}
+
 @mixin placeholder {
   font-family: $font-secondary;
   font-size: 16px;
