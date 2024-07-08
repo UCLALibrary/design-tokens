@@ -256,6 +256,10 @@
     "type": "borderRadius",
     "description": "Border Radius for rounded tagged corners"
   },
+  "darker-blue": {
+    "value": "#054A94",
+    "type": "color"
+  },
   "max-xs": {
     "value": 8,
     "type": "spacing"
