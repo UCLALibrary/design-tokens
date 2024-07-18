@@ -1,3 +1,10 @@
+# [5.20.0](https://github.com/UCLALibrary/design-tokens/compare/v5.19.0...v5.20.0) (2024-07-18)
+
+
+### Features
+
+* add ftva share icons ([#112](https://github.com/UCLALibrary/design-tokens/issues/112)) ([206c854](https://github.com/UCLALibrary/design-tokens/commit/206c854f6fdd6ac3ac1c54d52bc985be848dd9b7))
+
 # [5.19.0](https://github.com/UCLALibrary/design-tokens/compare/v5.18.0...v5.19.0) (2024-07-08)
 
 
