@@ -144,11 +144,153 @@
   line-height: $line-height--1;
 }
 
+@mixin ftva-site-wordmark {
+  font-family: $font-primary;
+  font-size: 40px;
+  font-weight: $font-weight-regular;
+  line-height: 1;
+  letter-spacing: -1.2px;
+}
+
+@mixin ftva-h1 {
+  font-family: $font-primary;
+  font-size: 48px;
+  font-weight: $font-weight-regular;
+  line-height: 110%;
+}
+
+@mixin ftva-h2 {
+  font-family: $font-primary;
+  font-size: 48px;
+  font-weight: $font-weight-bold;
+  line-height: 110%;
+}
+
+@mixin ftva-h3 {
+  font-family: $font-primary;
+  font-size: 40px;
+  font-weight: $font-weight-semibold;
+  line-height: 110%;
+}
+
+@mixin ftva-h4 {
+  font-family: $font-primary;
+  font-size: 38px;
+  font-weight: $font-weight-regular;
+  line-height: 110%;
+}
+
+@mixin ftva-h5 {
+  font-family: $font-primary;
+  font-size: 36px;
+  font-weight: $font-weight-semibold;
+  line-height: 110%;
+}
+
+@mixin ftva-card-title-1 {
+  font-family: $font-primary;
+  font-size: 30px;
+  font-weight: $font-weight-medium;
+  line-height: 120%;
+}
+
+@mixin ftva-card-title-2 {
+  font-family: $font-primary;
+  font-size: 21px;
+  font-weight: $font-weight-medium;
+  line-height: 120%;
+}
+
+@mixin ftva-subtitle-1 {
+  font-family: $font-primary;
+  font-size: 20px;
+  font-weight: $font-weight-medium;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+@mixin ftva-subtitle-2 {
+  font-family: $font-primary;
+  font-size: 18px;
+  font-weight: $font-weight-medium;
+  line-height: 140%;
+}
+
+@mixin ftva-emphasized-subtitle {
+  font-family: $font-primary;
+  font-size: 24px;
+  font-weight: $font-weight-medium;
+  line-height: 140%;
+  letter-spacing: 0.96px;
+  text-transform: uppercase;
+}
+
+@mixin ftva-body {
+  font-family: $font-secondary;
+  font-size: 18px;
+  font-weight: $font-weight-regular;
+  line-height: 150%; 
+}
+
+@mixin ftva-body-2 {
+  font-family: $font-secondary;
+  font-size: 16px;
+  font-weight: $font-weight-regular;
+  line-height: 150%; 
+}
+
 @mixin button {
   font-family: $font-secondary;
   font-size: 18px;
   font-weight: $font-weight-regular;
   line-height: $line-height--1;
+}
+
+@mixin ftva-button {
+  font-family: $font-primary;
+  font-size: 18px;
+  font-weight: $font-weight-medium;
+  line-height: 1;
+}
+
+@mixin ftva-button-link {
+  font-family: $font-primary;
+  font-size: 20px;
+  font-weight: $font-weight-medium;
+  line-height: 1;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+@mixin ftva-breadcrumb-active {
+  font-family: $font-primary;
+  font-size: 20px;
+  font-weight: $font-weight-semibold;
+  line-height: 1;
+}
+
+@mixin ftva-breadcrumb-inactive {
+  font-family: $font-primary;
+  font-size: 20px;
+  font-weight: $font-weight-regular;
+  line-height: 1;
+}
+
+@mixin ftva-tags {
+  font-family: $font-primary;
+  font-size: 15px;
+  font-weight: $font-weight-medium;
+  line-height: 1;
+}
+
+@mixin ftva-caption {
+  font-family: $font-primary;
+  font-size: 16px;
+  font-weight: $font-weight-regular;
+  line-height: 140%; 
+  letter-spacing: 0.64px;
+  text-transform: uppercase;
 }
 
 @mixin input {
@@ -157,6 +299,14 @@
   font-weight: $font-weight-regular;
   line-height: $line-height-0;
   color: $secondary-grey-05;
+}
+
+@mixin ftva-input {
+  font-family: $font-secondary;
+  font-size: 16px;
+  font-weight: $font-weight-regular;
+  line-height: 150%;
+  color: $body-grey;
 }
 
 @mixin placeholder {

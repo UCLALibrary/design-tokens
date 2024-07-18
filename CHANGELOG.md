@@ -1,3 +1,59 @@
+# [5.19.0](https://github.com/UCLALibrary/design-tokens/compare/v5.18.0...v5.19.0) (2024-07-08)
+
+
+### Features
+
+* add ftva-text-input ([#111](https://github.com/UCLALibrary/design-tokens/issues/111)) ([5e0a54b](https://github.com/UCLALibrary/design-tokens/commit/5e0a54b8f48973c1a5e3229d796741f1ce454d05))
+
+# [5.18.0](https://github.com/UCLALibrary/design-tokens/compare/v5.17.0...v5.18.0) (2024-07-08)
+
+
+### Features
+
+* add bright blue ([#110](https://github.com/UCLALibrary/design-tokens/issues/110)) ([c4004a2](https://github.com/UCLALibrary/design-tokens/commit/c4004a263529738bcaf9ba6755372fa071388e28))
+
+# [5.17.0](https://github.com/UCLALibrary/design-tokens/compare/v5.16.0...v5.17.0) (2024-07-08)
+
+
+### Features
+
+* added more ftva icons ([#109](https://github.com/UCLALibrary/design-tokens/issues/109)) ([b01a248](https://github.com/UCLALibrary/design-tokens/commit/b01a248b5cd80cbffd5f1dd2c8abb0380a6847c1))
+
+# [5.16.0](https://github.com/UCLALibrary/design-tokens/compare/v5.15.0...v5.16.0) (2024-07-02)
+
+
+### Features
+
+* add text styles for ftva ([#108](https://github.com/UCLALibrary/design-tokens/issues/108)) ([432edea](https://github.com/UCLALibrary/design-tokens/commit/432edeadef1fbec26d6112ee58d198af4573e91a))
+
+# [5.15.0](https://github.com/UCLALibrary/design-tokens/compare/v5.14.1...v5.15.0) (2024-06-25)
+
+
+### Features
+
+* add darker blue for hover state of button ([#107](https://github.com/UCLALibrary/design-tokens/issues/107)) ([71df475](https://github.com/UCLALibrary/design-tokens/commit/71df475a9aa472f40d004d311e8978192d3baa6f))
+
+## [5.14.1](https://github.com/UCLALibrary/design-tokens/compare/v5.14.0...v5.14.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* remove double class attribute ([#106](https://github.com/UCLALibrary/design-tokens/issues/106)) ([616b7d3](https://github.com/UCLALibrary/design-tokens/commit/616b7d33e3cf7794aa9b93d5b3b88e24679274c2))
+
+# [5.14.0](https://github.com/UCLALibrary/design-tokens/compare/v5.13.0...v5.14.0) (2024-06-25)
+
+
+### Features
+
+* add "x" icon for ftva tags ([#105](https://github.com/UCLALibrary/design-tokens/issues/105)) ([b642c2d](https://github.com/UCLALibrary/design-tokens/commit/b642c2dfd26122793a7568d2f98ce2024c677303))
+
+# [5.13.0](https://github.com/UCLALibrary/design-tokens/compare/v5.12.6...v5.13.0) (2024-06-21)
+
+
+### Features
+
+* added new FTVA icons ([#104](https://github.com/UCLALibrary/design-tokens/issues/104)) ([771fcc6](https://github.com/UCLALibrary/design-tokens/commit/771fcc621e1d6027dd86b95993aeea1f486a003d))
+
 ## [5.12.6](https://github.com/UCLALibrary/design-tokens/compare/v5.12.5...v5.12.6) (2024-05-03)
 
 
