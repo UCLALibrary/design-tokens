@@ -1,3 +1,10 @@
+# [5.22.0](https://github.com/UCLALibrary/design-tokens/compare/v5.21.0...v5.22.0) (2024-08-22)
+
+
+### Features
+
+* ftva icons for mobile menu ([#114](https://github.com/UCLALibrary/design-tokens/issues/114)) ([322ded8](https://github.com/UCLALibrary/design-tokens/commit/322ded8f02bde476c91d06dd3dd545a6d82c667e))
+
 # [5.21.0](https://github.com/UCLALibrary/design-tokens/compare/v5.20.1...v5.21.0) (2024-08-22)
 
 
