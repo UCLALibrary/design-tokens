@@ -1,3 +1,10 @@
+# [5.21.0](https://github.com/UCLALibrary/design-tokens/compare/v5.20.1...v5.21.0) (2024-08-22)
+
+
+### Features
+
+* add ftva-text-link text styles ([#115](https://github.com/UCLALibrary/design-tokens/issues/115)) ([b2be98a](https://github.com/UCLALibrary/design-tokens/commit/b2be98aea5317f35ee642a05cc56708347491610))
+
 ## [5.20.1](https://github.com/UCLALibrary/design-tokens/compare/v5.20.0...v5.20.1) (2024-08-22)
 
 
