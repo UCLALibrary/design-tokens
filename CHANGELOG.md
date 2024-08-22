@@ -1,3 +1,38 @@
+# [5.20.0](https://github.com/UCLALibrary/design-tokens/compare/v5.19.0...v5.20.0) (2024-07-18)
+
+
+### Features
+
+* add ftva share icons ([#112](https://github.com/UCLALibrary/design-tokens/issues/112)) ([206c854](https://github.com/UCLALibrary/design-tokens/commit/206c854f6fdd6ac3ac1c54d52bc985be848dd9b7))
+
+# [5.19.0](https://github.com/UCLALibrary/design-tokens/compare/v5.18.0...v5.19.0) (2024-07-08)
+
+
+### Features
+
+* add ftva-text-input ([#111](https://github.com/UCLALibrary/design-tokens/issues/111)) ([5e0a54b](https://github.com/UCLALibrary/design-tokens/commit/5e0a54b8f48973c1a5e3229d796741f1ce454d05))
+
+# [5.18.0](https://github.com/UCLALibrary/design-tokens/compare/v5.17.0...v5.18.0) (2024-07-08)
+
+
+### Features
+
+* add bright blue ([#110](https://github.com/UCLALibrary/design-tokens/issues/110)) ([c4004a2](https://github.com/UCLALibrary/design-tokens/commit/c4004a263529738bcaf9ba6755372fa071388e28))
+
+# [5.17.0](https://github.com/UCLALibrary/design-tokens/compare/v5.16.0...v5.17.0) (2024-07-08)
+
+
+### Features
+
+* added more ftva icons ([#109](https://github.com/UCLALibrary/design-tokens/issues/109)) ([b01a248](https://github.com/UCLALibrary/design-tokens/commit/b01a248b5cd80cbffd5f1dd2c8abb0380a6847c1))
+
+# [5.16.0](https://github.com/UCLALibrary/design-tokens/compare/v5.15.0...v5.16.0) (2024-07-02)
+
+
+### Features
+
+* add text styles for ftva ([#108](https://github.com/UCLALibrary/design-tokens/issues/108)) ([432edea](https://github.com/UCLALibrary/design-tokens/commit/432edeadef1fbec26d6112ee58d198af4573e91a))
+
 # [5.15.0](https://github.com/UCLALibrary/design-tokens/compare/v5.14.1...v5.15.0) (2024-06-25)
 
 
