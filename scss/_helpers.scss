@@ -263,6 +263,23 @@
   text-transform: uppercase;
 }
 
+@mixin ftva-text-link-default {
+  @include ftva-button-link;
+  color: $medium-grey;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: $grey-blue;
+  text-underline-offset: 4px;
+}
+
+@mixin ftva-text-link-hover {
+  @include ftva-button-link;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: $bright-blue;
+  text-underline-offset: 4px;
+}
+
 @mixin ftva-breadcrumb-active {
   font-family: $font-primary;
   font-size: 20px;
