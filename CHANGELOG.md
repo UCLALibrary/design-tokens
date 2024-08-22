@@ -1,3 +1,10 @@
+## [5.20.1](https://github.com/UCLALibrary/design-tokens/compare/v5.20.0...v5.20.1) (2024-08-22)
+
+
+### Bug Fixes
+
+* update ftva wordmark sizing ([#113](https://github.com/UCLALibrary/design-tokens/issues/113)) ([686e330](https://github.com/UCLALibrary/design-tokens/commit/686e330caf465a1b0abeaa7c6001930da5d2d95e))
+
 # [5.20.0](https://github.com/UCLALibrary/design-tokens/compare/v5.19.0...v5.20.0) (2024-07-18)
 
 
