@@ -1,3 +1,10 @@
+# [5.25.0](https://github.com/UCLALibrary/design-tokens/compare/v5.24.0...v5.25.0) (2024-09-30)
+
+
+### Features
+
+* add libchat icons ([#120](https://github.com/UCLALibrary/design-tokens/issues/120)) ([4908624](https://github.com/UCLALibrary/design-tokens/commit/49086241120d3be477e515a50c058771b8d4160b))
+
 # [5.24.0](https://github.com/UCLALibrary/design-tokens/compare/v5.23.0...v5.24.0) (2024-09-30)
 
 
