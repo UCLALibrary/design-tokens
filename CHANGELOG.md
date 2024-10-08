@@ -1,3 +1,10 @@
+# [5.26.0](https://github.com/UCLALibrary/design-tokens/compare/v5.25.0...v5.26.0) (2024-10-08)
+
+
+### Features
+
+* add token for ftva sidebar width ([#121](https://github.com/UCLALibrary/design-tokens/issues/121)) ([5a9575b](https://github.com/UCLALibrary/design-tokens/commit/5a9575ba6f54be68f6136644d47316e69baf90f6))
+
 # [5.25.0](https://github.com/UCLALibrary/design-tokens/compare/v5.24.0...v5.25.0) (2024-09-30)
 
 
