@@ -265,6 +265,10 @@
     "type": "color",
     "description": "hover state for links"
   },
+  "sidebar-width": {
+    "value": 284,
+    "type": "sizing"
+  },
   "max-xs": {
     "value": 8,
     "type": "spacing"
