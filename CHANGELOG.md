@@ -1,3 +1,10 @@
+# [5.27.0](https://github.com/UCLALibrary/design-tokens/compare/v5.26.0...v5.27.0) (2024-10-10)
+
+
+### Features
+
+* add icons ([#122](https://github.com/UCLALibrary/design-tokens/issues/122)) ([c981954](https://github.com/UCLALibrary/design-tokens/commit/c981954ff71150f234ea512c33220ebfffa4ab42))
+
 # [5.26.0](https://github.com/UCLALibrary/design-tokens/compare/v5.25.0...v5.26.0) (2024-10-08)
 
 
