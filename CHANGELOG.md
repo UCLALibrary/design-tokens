@@ -1,3 +1,10 @@
+## [5.27.1](https://github.com/UCLALibrary/design-tokens/compare/v5.27.0...v5.27.1) (2024-10-24)
+
+
+### Bug Fixes
+
+* update typekit source for all weights of proxima nova ([#123](https://github.com/UCLALibrary/design-tokens/issues/123)) ([830392b](https://github.com/UCLALibrary/design-tokens/commit/830392b58854afcf74a653c5a54117285f610f5b))
+
 # [5.27.0](https://github.com/UCLALibrary/design-tokens/compare/v5.26.0...v5.27.0) (2024-10-10)
 
 
