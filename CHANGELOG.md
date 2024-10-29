@@ -1,3 +1,10 @@
+## [5.27.2](https://github.com/UCLALibrary/design-tokens/compare/v5.27.1...v5.27.2) (2024-10-29)
+
+
+### Bug Fixes
+
+* better fallback for karbon ([#124](https://github.com/UCLALibrary/design-tokens/issues/124)) ([e029619](https://github.com/UCLALibrary/design-tokens/commit/e0296199723fdb4cb797fa06e2ff24160935e9e9))
+
 ## [5.27.1](https://github.com/UCLALibrary/design-tokens/compare/v5.27.0...v5.27.1) (2024-10-24)
 
 
