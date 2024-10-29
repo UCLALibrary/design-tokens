@@ -16,3 +16,13 @@
 @include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-medium", normal, 500);
 @include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-semibold", normal, 600);
 @include font-face("Karbon", "~ucla-library-design-tokens/assets/fonts/karbon-web-bold", normal, 700);
+
+
+@font-face {
+  font-family: 'Adjusted Tahoma Fallback';
+  src: local(Tahoma);
+  size-adjust: 85%;
+  ascent-override: 100%;
+  descent-override: 20%;
+  line-gap-override: 6%;
+}
