@@ -1,5 +1,4 @@
-/* Include only once globally via build configs */
-@use "_typography.scss";
-@use "_spacing.scss";
-@use "_tokens-css.scss";
-@use "_reset.scss";
+@use "typography.scss";
+@use "spacing.scss";
+@use "tokens-css.scss";
+@use "reset.scss";
