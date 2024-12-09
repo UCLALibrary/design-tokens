@@ -1,5 +1,3 @@
-@use "typography";
-
 @use "sass:math";
 
 $multipliers: (
@@ -8,11 +6,11 @@ $multipliers: (
   "m": 1.5,
   "l": 2,
   "xl": 3,
-  "xxl": 4,
-  "xxxl": 6,
-  "xxxxl": 7,
-  "xxxxxl": 8,
-  "xxxxxxl": 9
+  "2xl": 4,
+  "3xl": 6,
+  "4xl": 7,
+  "5xl": 8,
+  "6xl": 9
 );
 
 @mixin process-spaces($min-size, $max-size, $var-bp, $space-prefix) {
@@ -30,21 +28,21 @@ $multipliers: (
 --fc-s-max: calc(var(--f-0-max, #{$max-size}));
 }
 
-typography.$min-width: 375;
-typography.$min-size: 8;
+$min-width: 375;
+$min-size: 8;
 
-typography.$max-width: 1440;
-typography.$max-size: 16;
+$max-width: 1440;
+$max-size: 16;
 
 $space-prefix: "space";
 
-typography.$var-minw: --#{$space-prefix}-min-width;
-typography.$var-maxw: --#{$space-prefix}-max-width;
-typography.$var-bp: --#{$space-prefix}-bp;
+$var-minw: --#{$space-prefix}-min-width;
+$var-maxw: --#{$space-prefix}-max-width;
+$var-bp: --#{$space-prefix}-bp;
 
 :root {
-  #{typography.$var-minw}: #{typography.$min-width};
-  #{typography.$var-maxw}: #{typography.$max-width};
+  #{$var-minw}: #{$min-width};
+  #{$var-maxw}: #{$max-width};
 
   --space-screen: 100vw;
   --space-bp: calc(
