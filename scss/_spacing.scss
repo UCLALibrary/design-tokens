@@ -30,17 +30,17 @@ $multipliers: (
 --fc-s-max: calc(var(--f-0-max, #{$max-size}));
 }
 
-typography.typography.$min-width: 375;
-typography.typography.$min-size: 8;
+typography.$min-width: 375;
+typography.$min-size: 8;
 
-typography.typography.$max-width: 1440;
-typography.typography.$max-size: 16;
+typography.$max-width: 1440;
+typography.$max-size: 16;
 
 $space-prefix: "space";
 
-typography.typography.$var-minw: --#{$space-prefix}-min-width;
-typography.typography.$var-maxw: --#{$space-prefix}-max-width;
-typography.typography.$var-bp: --#{$space-prefix}-bp;
+typography.$var-minw: --#{$space-prefix}-min-width;
+typography.$var-maxw: --#{$space-prefix}-max-width;
+typography.$var-bp: --#{$space-prefix}-bp;
 
 :root {
   #{typography.$var-minw}: #{typography.$min-width};
