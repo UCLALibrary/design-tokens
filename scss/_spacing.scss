@@ -8,11 +8,11 @@ $multipliers: (
   "m": 1.5,
   "l": 2,
   "xl": 3,
-  "2xl": 4,
-  "3xl": 6,
-  "4xl": 7,
-  "5xl": 8,
-  "6xl": 9
+  "xxl": 4,
+  "xxxl": 6,
+  "xxxxl": 7,
+  "xxxxxl": 8,
+  "xxxxxxl": 9
 );
 
 @mixin process-spaces($min-size, $max-size, $var-bp, $space-prefix) {
