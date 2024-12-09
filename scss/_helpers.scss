@@ -1,3 +1,6 @@
+@use "tokens";
+@use "tokens-excluded";
+
 @mixin shadow-01 {
   box-shadow: 0px 6px 32px rgba(0, 0, 0, 0.08), 0px 1px 2px rgba(0, 0, 0, 0.04);
 }
@@ -35,18 +38,18 @@
 }
 
 @mixin card-horizontal-hover {
-    transform: $transform-zoom-hover;
+    transform: tokens.$transform-zoom-hover;
     @include shadow-state-change;
 }
 
 @mixin card-vertical-hover {
-    transform: $transform-zoom-hover-l;
+    transform: tokens.$transform-zoom-hover-l;
     @include shadow-state-change;
 }
 
 @mixin  animate-normal {
-    transition-duration: $transition-timing-normal;
-    transition-timing-function: $transition-easing;
+    transition-duration: tokens.$transition-timing-normal;
+    transition-timing-function: tokens.$transition-easing;
 }
 
 @mixin visually-hidden {
@@ -86,178 +89,178 @@
 }
 
 @mixin overline {
-    font-family: $font-primary;
+    font-family: tokens-excluded.$font-primary;
     font-size: var(--step--1);
-    font-weight: $font-weight-medium;
-    line-height: $line-height--2;
-    letter-spacing: $letter-spacing-2;
+    font-weight: tokens-excluded.$font-weight-medium;
+    line-height: tokens-excluded.$line-height--2;
+    letter-spacing: tokens-excluded.$letter-spacing-2;
     text-transform: uppercase;
 }
 
 @mixin step--1 {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: var(--step--1);
-  font-weight: $font-weight-regular;
-  line-height: $line-height-0;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height-0;
 }
 
 @mixin step-0 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: var(--step-0);
-  font-weight: $font-weight-regular;
-  line-height: $line-height-0;
-  letter-spacing: $letter-spacing-1;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height-0;
+  letter-spacing: tokens-excluded.$letter-spacing-1;
 }
 
 @mixin step-1 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: var(--step-1);
-  font-weight: $font-weight-medium;
-  line-height: $line-height--1;
+  font-weight: tokens-excluded.$font-weight-medium;
+  line-height: tokens-excluded.$line-height--1;
 }
 
 @mixin step-2 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: var(--step-2);
-  font-weight: $font-weight-medium;
-  line-height: $line-height--1;
+  font-weight: tokens-excluded.$font-weight-medium;
+  line-height: tokens-excluded.$line-height--1;
 }
 
 @mixin step-3 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: var(--step-3);
-  font-weight: $font-weight-regular;
-  line-height: $line-height--1;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height--1;
 }
 
 @mixin step-4 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: var(--step-4);
-  font-weight: $font-weight-regular;
-  line-height: $line-height--1;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height--1;
 }
 
 @mixin step-5 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: var(--step-5);
-  font-weight: $font-weight-regular;
-  line-height: $line-height--1;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height--1;
 }
 
 @mixin ftva-site-wordmark {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 32px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 1;
   letter-spacing: -1.2px;
 }
 
 @mixin ftva-h1 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 48px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 110%;
 }
 
 @mixin ftva-h2 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 48px;
-  font-weight: $font-weight-bold;
+  font-weight: tokens-excluded.$font-weight-bold;
   line-height: 110%;
 }
 
 @mixin ftva-h3 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 40px;
-  font-weight: $font-weight-semibold;
+  font-weight: tokens-excluded.$font-weight-semibold;
   line-height: 110%;
 }
 
 @mixin ftva-h4 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 38px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 110%;
 }
 
 @mixin ftva-h5 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 36px;
-  font-weight: $font-weight-semibold;
+  font-weight: tokens-excluded.$font-weight-semibold;
   line-height: 110%;
 }
 
 @mixin ftva-card-title-1 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 30px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 120%;
 }
 
 @mixin ftva-card-title-2 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 21px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 120%;
 }
 
 @mixin ftva-subtitle-1 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 20px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 140%;
   letter-spacing: 0.8px;
   text-transform: uppercase;
 }
 
 @mixin ftva-subtitle-2 {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 18px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 140%;
 }
 
 @mixin ftva-emphasized-subtitle {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 24px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 140%;
   letter-spacing: 0.96px;
   text-transform: uppercase;
 }
 
 @mixin ftva-body {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: 18px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 150%; 
 }
 
 @mixin ftva-body-2 {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: 16px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 150%; 
 }
 
 @mixin button {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: 18px;
-  font-weight: $font-weight-regular;
-  line-height: $line-height--1;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height--1;
 }
 
 @mixin ftva-button {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 18px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 1;
 }
 
 @mixin ftva-button-link {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 20px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 1;
   letter-spacing: 0.8px;
   text-transform: uppercase;
@@ -281,57 +284,57 @@
 }
 
 @mixin ftva-breadcrumb-active {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 20px;
-  font-weight: $font-weight-semibold;
+  font-weight: tokens-excluded.$font-weight-semibold;
   line-height: 1;
 }
 
 @mixin ftva-breadcrumb-inactive {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 20px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 1;
 }
 
 @mixin ftva-tags {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 15px;
-  font-weight: $font-weight-medium;
+  font-weight: tokens-excluded.$font-weight-medium;
   line-height: 1;
 }
 
 @mixin ftva-caption {
-  font-family: $font-primary;
+  font-family: tokens-excluded.$font-primary;
   font-size: 16px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 140%; 
   letter-spacing: 0.64px;
   text-transform: uppercase;
 }
 
 @mixin input {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: 16px;
-  font-weight: $font-weight-regular;
-  line-height: $line-height-0;
-  color: $secondary-grey-05;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height-0;
+  color: tokens.$secondary-grey-05;
 }
 
 @mixin ftva-input {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: 16px;
-  font-weight: $font-weight-regular;
+  font-weight: tokens-excluded.$font-weight-regular;
   line-height: 150%;
   color: $body-grey;
 }
 
 @mixin placeholder {
-  font-family: $font-secondary;
+  font-family: tokens-excluded.$font-secondary;
   font-size: 16px;
-  font-weight: $font-weight-regular;
-  line-height: $line-height-0;
-  color: $secondary-grey-04;
+  font-weight: tokens-excluded.$font-weight-regular;
+  line-height: tokens-excluded.$line-height-0;
+  color: tokens.$secondary-grey-04;
 }
 
 @mixin truncate($lines: 2) {

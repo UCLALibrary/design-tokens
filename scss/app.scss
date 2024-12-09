@@ -1,5 +1,5 @@
 /* Include per component */
-@import "_tokens.scss";
-@import "_tokens-excluded.scss";
-@import "_media-queries.scss";
-@import "_helpers.scss";
+@use "_tokens.scss";
+@use "_tokens-excluded.scss";
+@use "_media-queries.scss";
+@use "_helpers.scss";

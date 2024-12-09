@@ -25,10 +25,10 @@ npm install ucla-library-design-tokens --save-dev
 ```
 Then in your Sass, load the module (e.g., variables, typography, spacing, or helpers):
 ```
-@import "~ucla-library-design-tokens/scss/variables.scss";
-@import "~ucla-library-design-tokens/scss/typography.scss";
-@import "~ucla-library-design-tokens/scss/spacing.scss";
-@import "~ucla-library-design-tokens/scss/helpers.scss";
+@use "~ucla-library-design-tokens/scss/variables.scss";
+@use "~ucla-library-design-tokens/scss/typography.scss";
+@use "~ucla-library-design-tokens/scss/spacing.scss";
+@use "~ucla-library-design-tokens/scss/helpers.scss";
 ```
 ### Custom Fonts
 To use Karbon and Proxima Nova, import `ucla-library-design-tokens/scss/fonts.scss` once at the global level. For example, in the component library add to the configs (vue-cli, webpack, and rollup).
