@@ -1,8 +1,8 @@
-@import "_tokens.scss";
-@import "_tokens-excluded.scss";
-@import "_media-queries.scss";
-@import "_helpers.scss";
-@import "_typography.scss";
-@import "_spacing.scss";
-@import "_tokens-css.scss";
-@import "_reset.scss";
+@use "tokens.scss";
+@use "tokens-excluded.scss";
+@use "media-queries.scss";
+@use "helpers.scss";
+@use "typography.scss";
+@use "spacing.scss";
+@use "tokens-css.scss";
+@use "reset.scss";
