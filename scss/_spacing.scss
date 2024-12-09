@@ -51,12 +51,12 @@ $var-bp: --#{$space-prefix}-bp;
   );
 }
 
-@media screen and (min-width: #{typography.$max-width}px) {
+@media screen and (min-width: #{$max-width}px) {
   :root {
     --space-screen: calc(var(--space-max-width) * 1px);
   }
 }
 
 :root {
-  @include process-spaces(typography.$min-size, typography.$max-size, typography.$var-bp, $space-prefix);
+  @include process-spaces($min-size, $max-size, $var-bp, $space-prefix);
 }
