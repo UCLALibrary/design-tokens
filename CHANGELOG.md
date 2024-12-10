@@ -1,3 +1,10 @@
+# [5.28.0](https://github.com/UCLALibrary/design-tokens/compare/v5.27.2...v5.28.0) (2024-12-10)
+
+
+### Features
+
+* add filter icon ([#126](https://github.com/UCLALibrary/design-tokens/issues/126)) ([33dae06](https://github.com/UCLALibrary/design-tokens/commit/33dae068e311337173d2de40b534742fd5c8aa45))
+
 ## [5.27.2](https://github.com/UCLALibrary/design-tokens/compare/v5.27.1...v5.27.2) (2024-10-29)
 
 
