@@ -1,3 +1,66 @@
+# [5.28.0](https://github.com/UCLALibrary/design-tokens/compare/v5.27.2...v5.28.0) (2024-12-10)
+
+
+### Features
+
+* add filter icon ([#126](https://github.com/UCLALibrary/design-tokens/issues/126)) ([33dae06](https://github.com/UCLALibrary/design-tokens/commit/33dae068e311337173d2de40b534742fd5c8aa45))
+
+## [5.27.2](https://github.com/UCLALibrary/design-tokens/compare/v5.27.1...v5.27.2) (2024-10-29)
+
+
+### Bug Fixes
+
+* better fallback for karbon ([#124](https://github.com/UCLALibrary/design-tokens/issues/124)) ([e029619](https://github.com/UCLALibrary/design-tokens/commit/e0296199723fdb4cb797fa06e2ff24160935e9e9))
+
+## [5.27.1](https://github.com/UCLALibrary/design-tokens/compare/v5.27.0...v5.27.1) (2024-10-24)
+
+
+### Bug Fixes
+
+* update typekit source for all weights of proxima nova ([#123](https://github.com/UCLALibrary/design-tokens/issues/123)) ([830392b](https://github.com/UCLALibrary/design-tokens/commit/830392b58854afcf74a653c5a54117285f610f5b))
+
+# [5.27.0](https://github.com/UCLALibrary/design-tokens/compare/v5.26.0...v5.27.0) (2024-10-10)
+
+
+### Features
+
+* add icons ([#122](https://github.com/UCLALibrary/design-tokens/issues/122)) ([c981954](https://github.com/UCLALibrary/design-tokens/commit/c981954ff71150f234ea512c33220ebfffa4ab42))
+
+# [5.26.0](https://github.com/UCLALibrary/design-tokens/compare/v5.25.0...v5.26.0) (2024-10-08)
+
+
+### Features
+
+* add token for ftva sidebar width ([#121](https://github.com/UCLALibrary/design-tokens/issues/121)) ([5a9575b](https://github.com/UCLALibrary/design-tokens/commit/5a9575ba6f54be68f6136644d47316e69baf90f6))
+
+# [5.25.0](https://github.com/UCLALibrary/design-tokens/compare/v5.24.0...v5.25.0) (2024-09-30)
+
+
+### Features
+
+* add libchat icons ([#120](https://github.com/UCLALibrary/design-tokens/issues/120)) ([4908624](https://github.com/UCLALibrary/design-tokens/commit/49086241120d3be477e515a50c058771b8d4160b))
+
+# [5.24.0](https://github.com/UCLALibrary/design-tokens/compare/v5.23.0...v5.24.0) (2024-09-30)
+
+
+### Features
+
+* add libchat icons ([#118](https://github.com/UCLALibrary/design-tokens/issues/118)) ([e50c8a9](https://github.com/UCLALibrary/design-tokens/commit/e50c8a99fe33a61621e1404e09b46ee1f0f4ba98))
+
+# [5.22.0](https://github.com/UCLALibrary/design-tokens/compare/v5.21.0...v5.22.0) (2024-08-22)
+
+
+### Features
+
+* ftva icons for mobile menu ([#114](https://github.com/UCLALibrary/design-tokens/issues/114)) ([322ded8](https://github.com/UCLALibrary/design-tokens/commit/322ded8f02bde476c91d06dd3dd545a6d82c667e))
+
+# [5.21.0](https://github.com/UCLALibrary/design-tokens/compare/v5.20.1...v5.21.0) (2024-08-22)
+
+
+### Features
+
+* add ftva-text-link text styles ([#115](https://github.com/UCLALibrary/design-tokens/issues/115)) ([b2be98a](https://github.com/UCLALibrary/design-tokens/commit/b2be98aea5317f35ee642a05cc56708347491610))
+
 ## [5.20.1](https://github.com/UCLALibrary/design-tokens/compare/v5.20.0...v5.20.1) (2024-08-22)
 
 
