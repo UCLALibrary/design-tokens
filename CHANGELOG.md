@@ -1,3 +1,10 @@
+# [5.29.0](https://github.com/UCLALibrary/design-tokens/compare/v5.28.0...v5.29.0) (2025-02-14)
+
+
+### Features
+
+* add video pill icon ([#127](https://github.com/UCLALibrary/design-tokens/issues/127)) ([5ff6911](https://github.com/UCLALibrary/design-tokens/commit/5ff69117f137bfd3d73f8e2cd1bee9322d361606))
+
 # [5.28.0](https://github.com/UCLALibrary/design-tokens/compare/v5.27.2...v5.28.0) (2024-12-10)
 
 
