@@ -1,3 +1,10 @@
+# [5.30.0](https://github.com/UCLALibrary/design-tokens/compare/v5.29.0...v5.30.0) (2025-02-28)
+
+
+### Features
+
+* add ftva icons for contact info ([#128](https://github.com/UCLALibrary/design-tokens/issues/128)) ([6be7ce8](https://github.com/UCLALibrary/design-tokens/commit/6be7ce8b23ee7a2500f59093c3c415f9dd375d45))
+
 # [5.29.0](https://github.com/UCLALibrary/design-tokens/compare/v5.28.0...v5.29.0) (2025-02-14)
 
 
