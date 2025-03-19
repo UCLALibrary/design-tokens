@@ -1,3 +1,10 @@
+# [5.31.0](https://github.com/UCLALibrary/design-tokens/compare/v5.30.0...v5.31.0) (2025-03-19)
+
+
+### Features
+
+* add-arrow-icons ([#129](https://github.com/UCLALibrary/design-tokens/issues/129)) ([0d6db4f](https://github.com/UCLALibrary/design-tokens/commit/0d6db4f15e5562d3e03e42e8ee7d2921ce9da5d8))
+
 # [5.30.0](https://github.com/UCLALibrary/design-tokens/compare/v5.29.0...v5.30.0) (2025-02-28)
 
 
