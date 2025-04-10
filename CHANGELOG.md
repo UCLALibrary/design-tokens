@@ -1,3 +1,10 @@
+# [5.32.0](https://github.com/UCLALibrary/design-tokens/compare/v5.31.0...v5.32.0) (2025-04-10)
+
+
+### Features
+
+* collections icons ([#130](https://github.com/UCLALibrary/design-tokens/issues/130)) ([e1624f9](https://github.com/UCLALibrary/design-tokens/commit/e1624f95657883fe5e7eac6b48799ff9faf69940))
+
 # [5.31.0](https://github.com/UCLALibrary/design-tokens/compare/v5.30.0...v5.31.0) (2025-03-19)
 
 
