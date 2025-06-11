@@ -1,3 +1,10 @@
+# [5.33.0](https://github.com/UCLALibrary/design-tokens/compare/v5.32.0...v5.33.0) (2025-06-11)
+
+
+### Features
+
+* add question mark icon ([#131](https://github.com/UCLALibrary/design-tokens/issues/131)) ([c05f97d](https://github.com/UCLALibrary/design-tokens/commit/c05f97d9044a45f6ee842a4c54704c68e8a7218f))
+
 # [5.32.0](https://github.com/UCLALibrary/design-tokens/compare/v5.31.0...v5.32.0) (2025-04-10)
 
 
