@@ -1,3 +1,7 @@
+@use "tokens.scss" as *;
+@use "tokens-excluded.scss" as *;
+@use "media-queries.scss" as *;
+
 :root {
     --color-white: #{$white};
     --color-black: #{$black};
