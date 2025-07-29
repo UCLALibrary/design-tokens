@@ -1,5 +1,8 @@
 /* Include per component */
-@import "_tokens.scss";
-@import "_tokens-excluded.scss";
-@import "_media-queries.scss";
-@import "_helpers.scss";
+// @forward "_tokens.scss";
+// @forward "_tokens-excluded.scss";
+// @forward "_media-queries.scss";
+// @forward "_helpers.scss";
+// @forward "app-global.scss"; 
+@forward './abstracts';  
+// @use '/abstracts' as *;
