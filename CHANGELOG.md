@@ -1,3 +1,10 @@
+# [5.35.0](https://github.com/UCLALibrary/design-tokens/compare/v5.34.0...v5.35.0) (2025-08-11)
+
+
+### Features
+
+* add mixin for ftva-date ([#134](https://github.com/UCLALibrary/design-tokens/issues/134)) ([bf926e2](https://github.com/UCLALibrary/design-tokens/commit/bf926e270ce6ea327fd07c072a34eb842dfd0d83))
+
 # [5.34.0](https://github.com/UCLALibrary/design-tokens/compare/v5.33.0...v5.34.0) (2025-07-23)
 
 
