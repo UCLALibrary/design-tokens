@@ -326,6 +326,15 @@
   color: $body-grey;
 }
 
+@mixin ftva-date-muted {
+  color: $subtitle-grey;
+  font-family: $font-secondary;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: unset;
+}
+
 @mixin placeholder {
   font-family: $font-secondary;
   font-size: 16px;
