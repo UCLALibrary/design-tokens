@@ -328,12 +328,11 @@
 
 @mixin ftva-date-muted {
   color: $subtitle-grey;
-  font-family: var(--font-secondary);
+  font-family: $font-secondary;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   text-transform: unset;
-  line-height: 1;
 }
 
 @mixin placeholder {
