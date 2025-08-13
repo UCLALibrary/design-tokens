@@ -1,0 +1,508 @@
+{
+  "dark-grey": {
+    "value": "#222222",
+    "type": "color"
+  },
+  "max-xs": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "max-s": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "max-m": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "max-l": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "max-xl": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "max-2xl": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "max-3xl": {
+    "value": 96,
+    "type": "spacing"
+  },
+  "max-4xl": {
+    "value": 112,
+    "type": "spacing"
+  },
+  "max-5xl": {
+    "value": 128,
+    "type": "spacing"
+  },
+  "max-6xl": {
+    "value": 144,
+    "type": "spacing"
+  },
+  "min-xs": {
+    "value": 4,
+    "type": "spacing"
+  },
+  "min-s": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "min-m": {
+    "value": 12,
+    "type": "spacing"
+  },
+  "min-l": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "min-xl": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "min-2xl": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "min-3xl": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "min-4xl": {
+    "value": 56,
+    "type": "spacing"
+  },
+  "min-5xl": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "min-6xl": {
+    "value": 72,
+    "type": "spacing"
+  },
+  "med-xs": {
+    "value": 5.475,
+    "type": "spacing"
+  },
+  "med-s": {
+    "value": 10.95,
+    "type": "spacing"
+  },
+  "med-m": {
+    "value": 16.425,
+    "type": "spacing"
+  },
+  "med-l": {
+    "value": 21.9,
+    "type": "spacing"
+  },
+  "med-xl": {
+    "value": 32.85,
+    "type": "spacing"
+  },
+  "med-2xl": {
+    "value": 43.8,
+    "type": "spacing"
+  },
+  "med-3xl": {
+    "value": 65.699,
+    "type": "spacing"
+  },
+  "med-4xl": {
+    "value": 76.648,
+    "type": "spacing"
+  },
+  "med-5xl": {
+    "value": 87.615,
+    "type": "spacing"
+  },
+  "med-6xl": {
+    "value": 98.564,
+    "type": "spacing"
+  },
+  "black": {
+    "value": "#0f0f0f",
+    "type": "color",
+    "description": "Usage:\n\nKeywords:"
+  },
+  "white": {
+    "value": "#ffffff",
+    "type": "color",
+    "description": "Usage:\n\nKeywords:"
+  },
+  "primary": {
+    "yellow-01": {
+      "value": "#ffe800",
+      "type": "color",
+      "description": "Keywords: primary yellow"
+    },
+    "blue-05": {
+      "value": "#032d5b",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary darkest blue"
+    },
+    "blue-04": {
+      "value": "#0055a6",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary darker blue"
+    },
+    "blue-03": {
+      "value": "#0b6ab7",
+      "type": "color",
+      "description": "Usage: status, info text; Keywords: primary blue"
+    },
+    "blue-02": {
+      "value": "#9ecffa",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: primary light blue"
+    },
+    "blue-01": {
+      "value": "#eaf2fb",
+      "type": "color",
+      "description": "Usage: status, info background; Keywords: primary lightest blue"
+    }
+  },
+  "secondary": {
+    "yellow-03": {
+      "value": "#ffd600",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary yellow 03"
+    },
+    "yellow-02": {
+      "value": "#ffdb20",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary yellow 02"
+    },
+    "yellow-01": {
+      "value": "#ffe92e",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary yellow 01"
+    },
+    "blue-03": {
+      "value": "#1f75c5",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary blue 03"
+    },
+    "blue-02": {
+      "value": "#1678d0",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary blue 02"
+    },
+    "blue-01": {
+      "value": "#288fe8",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary blue 01"
+    },
+    "grey-05": {
+      "value": "#434343",
+      "type": "color",
+      "description": "Usage: text\n\nKeywords: secondary black"
+    },
+    "grey-04": {
+      "value": "#717171",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 04"
+    },
+    "grey-03": {
+      "value": "#999999",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 03"
+    },
+    "grey-02": {
+      "value": "#dcdcdb",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 02"
+    },
+    "grey-01": {
+      "value": "#f2f2f2",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: secondary grey 01"
+    }
+  },
+  "default": {
+    "cyan-03": {
+      "value": "#0aa5ff",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: default - cyan base"
+    },
+    "cyan-02": {
+      "value": "#5cd9ff",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: default - cyan lighter"
+    },
+    "cyan-01": {
+      "value": "#c7f8ff",
+      "type": "color",
+      "description": "Usage:\n\nKeywords: default - cyan lightest"
+    }
+  },
+  "help": {
+    "green-03": {
+      "value": "#00e0e0",
+      "type": "color",
+      "description": "Usage: way finder, help\n\nKeywords: help - green base"
+    },
+    "green-02": {
+      "value": "#87fbe8",
+      "type": "color",
+      "description": "Usage: way finder, help\n\nKeywords: help - green lighter"
+    },
+    "green-01": {
+      "value": "#b9f8ee",
+      "type": "color",
+      "description": "Usage: way finder, help\n\nKeywords: help - green lightest"
+    }
+  },
+  "visit": {
+    "fushia-03": {
+      "value": "#ff94db",
+      "type": "color",
+      "description": "Usage: way finder, visit\n\nKeywords: visit - fushia base"
+    },
+    "fushia-02": {
+      "value": "#ffbdf4",
+      "type": "color",
+      "description": "Usage: way finder, visit\n\nKeywords: visit - fushia lighter"
+    },
+    "fushia-01": {
+      "value": "#fff0fb",
+      "type": "color",
+      "description": "Usage: way finder, visit\n\nKeywords: visit - fushia lightest"
+    }
+  },
+  "about": {
+    "purple-03": {
+      "value": "#c099ff",
+      "type": "color",
+      "description": "Usage: way finder, about\n\nKeywords: about - purple base"
+    },
+    "purple-02": {
+      "value": "#e7dbff",
+      "type": "color",
+      "description": "Usage: way finder, about\n\nKeywords: about - purple lighter"
+    },
+    "purple-01": {
+      "value": "#efe5ff",
+      "type": "color",
+      "description": "Usage: way finder, about\n\nKeywords: about - purple lightest"
+    }
+  },
+  "gradients": {
+    "gradient-03": {
+      "value": "linear-gradient(20deg, #fd9be0 0%, #e29aee 15.42%, #c099ff 28.1%, #8ba0ef 40.31%, #0aa5ff 58.56%, #06bef2 79.6%, #00e0e0 100%)",
+      "type": "color",
+      "description": "Usage: error page status code\n\nKeywords:"
+    },
+    "gradient-01": {
+      "value": "linear-gradient(52deg, #0b6ab7 0%, #1f75c5 41.67%, #0aa5ff 93.36%)",
+      "type": "color",
+      "description": "Usage: blue dark to light gradient Keywords:"
+    },
+    "gradient-02": {
+      "value": "linear-gradient(260deg, #0b6ab7 7.91%, #1f75c5 35.23%, #0aa5ff 81.77%)",
+      "description": "Usage: blue light to dark gradient Keywords",
+      "type": "color"
+    }
+  },
+  "rounded-slightly": {
+    "value": 4,
+    "type": "borderRadius"
+  },
+  "overlays": {
+    "overlay-02": {
+      "value": "linear-gradient(90deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0f0f0f 100%)",
+      "type": "color",
+      "description": "Usage: feature blocks without eyebrows / overline labels\n\nKeywords: bottom only"
+    },
+    "overlay-01": {
+      "value": "linear-gradient(117.49deg, #0F0F0F 0%, #0f0f0f40 31.88%, #0f0f0f00 58.42%), linear-gradient(180deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0F0F0F 100%)",
+      "type": "color"
+    },
+    "overlay-03": {
+      "value": "radial-gradient(circle at center, #0f0f0f00 0%, #0f0f0fa6 100%)",
+      "type": "color"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "1": {
+      "value": 30,
+      "type": "paragraphSpacing"
+    }
+  },
+  "component-01": {
+    "value": 2,
+    "type": "spacing"
+  },
+  "component-02": {
+    "value": 4,
+    "type": "spacing"
+  },
+  "component-03": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "component-04": {
+    "value": 12,
+    "type": "spacing"
+  },
+  "component-05": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "component-06": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "component-07": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "component-08": {
+    "value": 40,
+    "type": "spacing"
+  },
+  "component-09": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "whitespace": {
+    "m-sides": {
+      "value": 64,
+      "description": "$extra-large: \"only screen and (min-width: 1441px)\";   $large: \"only screen and (max-width: 1440px)\";     * $medium: \"only screen and (max-width: 1024px)\";",
+      "type": "spacing"
+    },
+    "s-sides": {
+      "value": 24,
+      "description": "$small: \"only screen and (max-width: 750px)\";",
+      "type": "spacing"
+    }
+  },
+  "container": {
+    "m-text": {
+      "value": 600,
+      "description": "Tablet paragraph / list / text",
+      "type": "spacing"
+    },
+    "l-text": {
+      "value": 832,
+      "description": "Desktop paragraph / list / textual content",
+      "type": "spacing"
+    },
+    "l-main": {
+      "value": 928,
+      "description": "Desktop main content",
+      "type": "spacing"
+    },
+    "l-cta": {
+      "value": 1040,
+      "description": "Desktop search / CTA",
+      "type": "spacing"
+    },
+    "xl-banner": {
+      "value": 1312,
+      "description": "Desktop homepage / banner",
+      "type": "spacing"
+    },
+    "xl-full_width": {
+      "value": 1440,
+      "description": "Desktop full width",
+      "type": "spacing"
+    }
+  },
+  "transform": {
+    "flip-horizontally": {
+      "value": "scaleX(-1)",
+      "type": "other",
+      "description": "Flips horizontally"
+    },
+    "zoom-hover": {
+      "value": "scale(1.04)",
+      "type": "other",
+      "description": "Zoom scale of listing cards on hover"
+    },
+    "zoom-hover-l": {
+      "value": "scale(1.1)",
+      "type": "other",
+      "description": "Zoom scale of cards with illustration on hover"
+    }
+  },
+  "transition": {
+    "easing": {
+      "value": "ease-in-out",
+      "type": "other",
+      "description": "Easing style of animation"
+    },
+    "timing-normal": {
+      "value": "300ms",
+      "type": "other",
+      "description": "Typical timing of animation"
+    },
+    "timing-fast": {
+      "value": "200ms",
+      "type": "other",
+      "description": "Timing of animation for smaller components like buttons"
+    },
+    "timing-slow": {
+      "value": "400ms",
+      "type": "other",
+      "description": "Timing of animation for larger components like panels or modals"
+    }
+  },
+  "status": {
+    "success-01": {
+      "value": "#F4FACF",
+      "type": "color",
+      "description": "Usage: status, success background Keywords: status - success lightest"
+    },
+    "success-02": {
+      "value": "#00661B",
+      "type": "color",
+      "description": "Usage: status, success text Keywords: status - success darkest"
+    },
+    "error-01": {
+      "value": "#FAD3CF",
+      "type": "color",
+      "description": "Usage: status, error background Keywords: status - error lightest"
+    },
+    "error-02": {
+      "value": "#B3070D",
+      "type": "color",
+      "description": "Usage: status, error text Keywords: status - error darkest"
+    }
+  },
+  "none": {
+    "value": 0,
+    "type": "borderRadius"
+  },
+  "xs": {
+    "value": 2,
+    "type": "borderRadius"
+  },
+  "sm": {
+    "value": 4,
+    "type": "borderRadius"
+  },
+  "md": {
+    "value": 8,
+    "type": "borderRadius"
+  },
+  "lg": {
+    "value": 12,
+    "type": "borderRadius"
+  },
+  "xlg": {
+    "value": 16,
+    "type": "borderRadius"
+  },
+  "round": {
+    "value": 60,
+    "type": "borderRadius"
+  }
+}
