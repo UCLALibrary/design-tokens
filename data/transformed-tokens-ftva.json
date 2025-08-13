@@ -770,11 +770,5 @@
   "round": {
     "value": 60,
     "type": "borderRadius"
-  },
-  "dlc": {
-    "dark-grey": {
-      "value": "#222222",
-      "type": "color"
-    }
   }
 }
