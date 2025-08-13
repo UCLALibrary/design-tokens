@@ -1,3 +1,10 @@
+# [5.36.0](https://github.com/UCLALibrary/design-tokens/compare/v5.35.0...v5.36.0) (2025-08-13)
+
+
+### Features
+
+* add new dlc tokens ([#137](https://github.com/UCLALibrary/design-tokens/issues/137)) ([e17919a](https://github.com/UCLALibrary/design-tokens/commit/e17919a143899b7c2918612fa99a4177f078606e))
+
 # [5.35.0](https://github.com/UCLALibrary/design-tokens/compare/v5.34.0...v5.35.0) (2025-08-11)
 
 
