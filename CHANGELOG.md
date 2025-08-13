@@ -1,3 +1,10 @@
+## [5.36.1](https://github.com/UCLALibrary/design-tokens/compare/v5.36.0...v5.36.1) (2025-08-13)
+
+
+### Bug Fixes
+
+* add class names to icons ([#139](https://github.com/UCLALibrary/design-tokens/issues/139)) ([db21e8d](https://github.com/UCLALibrary/design-tokens/commit/db21e8dcf3b7ca2b519711f89d54e51410c91727))
+
 # [5.36.0](https://github.com/UCLALibrary/design-tokens/compare/v5.35.0...v5.36.0) (2025-08-13)
 
 
