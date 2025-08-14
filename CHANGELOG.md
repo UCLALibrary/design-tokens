@@ -1,3 +1,10 @@
+## [5.36.2](https://github.com/UCLALibrary/design-tokens/compare/v5.36.1...v5.36.2) (2025-08-14)
+
+
+### Bug Fixes
+
+* update icon-iiif ([#141](https://github.com/UCLALibrary/design-tokens/issues/141)) ([4b2b66b](https://github.com/UCLALibrary/design-tokens/commit/4b2b66b4ff7756e13d1334d7d7426d7fe9362072))
+
 ## [5.36.1](https://github.com/UCLALibrary/design-tokens/compare/v5.36.0...v5.36.1) (2025-08-13)
 
 
