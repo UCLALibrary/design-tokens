@@ -3,6 +3,14 @@
     "value": "#222222",
     "type": "color"
   },
+  "buton-iiif-red": {
+    "value": "#f02333",
+    "type": "color"
+  },
+  "button-iiif-blue": {
+    "value": "#0075a4",
+    "type": "color"
+  },
   "black": {
     "value": "#0f0f0f",
     "type": "color",
