@@ -1,3 +1,10 @@
+# [5.37.0](https://github.com/UCLALibrary/design-tokens/compare/v5.36.2...v5.37.0) (2025-08-15)
+
+
+### Features
+
+* add button colors for iiif ([#142](https://github.com/UCLALibrary/design-tokens/issues/142)) ([c538a44](https://github.com/UCLALibrary/design-tokens/commit/c538a4430e6de50c3131fff6cae24a10314a155f))
+
 ## [5.36.2](https://github.com/UCLALibrary/design-tokens/compare/v5.36.1...v5.36.2) (2025-08-14)
 
 
