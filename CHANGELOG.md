@@ -1,3 +1,10 @@
+## [5.37.2](https://github.com/UCLALibrary/design-tokens/compare/v5.37.1...v5.37.2) (2025-08-18)
+
+
+### Bug Fixes
+
+* add missing semicolon ([#144](https://github.com/UCLALibrary/design-tokens/issues/144)) ([f01228b](https://github.com/UCLALibrary/design-tokens/commit/f01228bf447e9c2b60316d31d045356fc5119d35))
+
 ## [5.37.1](https://github.com/UCLALibrary/design-tokens/compare/v5.37.0...v5.37.1) (2025-08-18)
 
 
