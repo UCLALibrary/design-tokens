@@ -1,3 +1,10 @@
+## [5.37.1](https://github.com/UCLALibrary/design-tokens/compare/v5.37.0...v5.37.1) (2025-08-18)
+
+
+### Bug Fixes
+
+* update link decoration for ftva helper ([#143](https://github.com/UCLALibrary/design-tokens/issues/143)) ([c292441](https://github.com/UCLALibrary/design-tokens/commit/c29244172d8b984000637bffd2d1feb2eefbd2a7))
+
 # [5.37.0](https://github.com/UCLALibrary/design-tokens/compare/v5.36.2...v5.37.0) (2025-08-15)
 
 
