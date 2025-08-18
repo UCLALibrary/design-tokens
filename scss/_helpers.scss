@@ -269,7 +269,7 @@
   text-decoration: underline;
   text-decoration-thickness: 2px;
   text-decoration-color: $grey-blue;
-  text-underline-offset: 4px;
+  text-underline-offset: 2px;
 }
 
 @mixin ftva-text-link-hover {
@@ -277,7 +277,7 @@
   text-decoration: underline;
   text-decoration-thickness: 2px;
   text-decoration-color: $bright-blue;
-  text-underline-offset: 4px;
+  text-underline-offset: 2px;
 }
 
 @mixin ftva-breadcrumb-active {
