@@ -1,3 +1,10 @@
+# [5.41.0](https://github.com/UCLALibrary/design-tokens/compare/v5.40.0...v5.41.0) (2025-08-20)
+
+
+### Features
+
+* add aspect ratio tokens for ftva ([#147](https://github.com/UCLALibrary/design-tokens/issues/147)) ([7b9fcc7](https://github.com/UCLALibrary/design-tokens/commit/7b9fcc749251f4bedb526254f48bbd46d1044074))
+
 # [5.40.0](https://github.com/UCLALibrary/design-tokens/compare/v5.39.0...v5.40.0) (2025-08-20)
 
 
