@@ -1,3 +1,10 @@
+# [5.40.0](https://github.com/UCLALibrary/design-tokens/compare/v5.39.0...v5.40.0) (2025-08-20)
+
+
+### Features
+
+* update icon-dropdown-indicator ([#149](https://github.com/UCLALibrary/design-tokens/issues/149)) ([7ce2da0](https://github.com/UCLALibrary/design-tokens/commit/7ce2da0f6ba8d08a0a6ff62fe2fbc928a4e549fb))
+
 # [5.39.0](https://github.com/UCLALibrary/design-tokens/compare/v5.38.0...v5.39.0) (2025-08-20)
 
 
