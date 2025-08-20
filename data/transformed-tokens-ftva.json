@@ -269,6 +269,38 @@
     "value": 284,
     "type": "sizing"
   },
+  "container": {
+    "l-main": {
+      "value": 1160,
+      "type": "sizing",
+      "description": "Desktop main content"
+    },
+    "m-text": {
+      "value": 600,
+      "description": "Tablet paragraph / list / text",
+      "type": "spacing"
+    },
+    "l-text": {
+      "value": 832,
+      "description": "Desktop paragraph / list / textual content",
+      "type": "spacing"
+    },
+    "l-cta": {
+      "value": 1040,
+      "description": "Desktop search / CTA",
+      "type": "spacing"
+    },
+    "xl-banner": {
+      "value": 1312,
+      "description": "Desktop homepage / banner",
+      "type": "spacing"
+    },
+    "xl-full_width": {
+      "value": 1440,
+      "description": "Desktop full width",
+      "type": "spacing"
+    }
+  },
   "max-xs": {
     "value": 8,
     "type": "spacing"
@@ -647,38 +679,6 @@
     "s-sides": {
       "value": 24,
       "description": "$small: \"only screen and (max-width: 750px)\";",
-      "type": "spacing"
-    }
-  },
-  "container": {
-    "m-text": {
-      "value": 600,
-      "description": "Tablet paragraph / list / text",
-      "type": "spacing"
-    },
-    "l-text": {
-      "value": 832,
-      "description": "Desktop paragraph / list / textual content",
-      "type": "spacing"
-    },
-    "l-main": {
-      "value": 928,
-      "description": "Desktop main content",
-      "type": "spacing"
-    },
-    "l-cta": {
-      "value": 1040,
-      "description": "Desktop search / CTA",
-      "type": "spacing"
-    },
-    "xl-banner": {
-      "value": 1312,
-      "description": "Desktop homepage / banner",
-      "type": "spacing"
-    },
-    "xl-full_width": {
-      "value": 1440,
-      "description": "Desktop full width",
       "type": "spacing"
     }
   },
