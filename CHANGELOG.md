@@ -1,3 +1,10 @@
+# [5.39.0](https://github.com/UCLALibrary/design-tokens/compare/v5.38.0...v5.39.0) (2025-08-20)
+
+
+### Features
+
+* add desktop container token ([#146](https://github.com/UCLALibrary/design-tokens/issues/146)) ([b1b57df](https://github.com/UCLALibrary/design-tokens/commit/b1b57dfd2f86db7b76730dc101823333c346c2ea))
+
 # [5.38.0](https://github.com/UCLALibrary/design-tokens/compare/v5.37.2...v5.38.0) (2025-08-19)
 
 
