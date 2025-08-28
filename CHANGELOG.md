@@ -1,3 +1,10 @@
+# [5.42.0](https://github.com/UCLALibrary/design-tokens/compare/v5.41.0...v5.42.0) (2025-08-28)
+
+
+### Features
+
+* add icon-right-carat ([#150](https://github.com/UCLALibrary/design-tokens/issues/150)) ([e6d7a73](https://github.com/UCLALibrary/design-tokens/commit/e6d7a737f1376d2bbd3f26df57e6eb1d0a8bf0a0))
+
 # [5.41.0](https://github.com/UCLALibrary/design-tokens/compare/v5.40.0...v5.41.0) (2025-08-20)
 
 
