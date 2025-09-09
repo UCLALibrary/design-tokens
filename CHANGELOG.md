@@ -1,3 +1,10 @@
+# [5.43.0](https://github.com/UCLALibrary/design-tokens/compare/v5.42.0...v5.43.0) (2025-09-09)
+
+
+### Features
+
+* add icon-down-carat ([#151](https://github.com/UCLALibrary/design-tokens/issues/151)) ([caab810](https://github.com/UCLALibrary/design-tokens/commit/caab8101bdeca84d29afdd8ca4df4ade6e0ed3f9))
+
 # [5.42.0](https://github.com/UCLALibrary/design-tokens/compare/v5.41.0...v5.42.0) (2025-08-28)
 
 
