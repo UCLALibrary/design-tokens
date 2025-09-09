@@ -1,3 +1,10 @@
+## [5.43.1](https://github.com/UCLALibrary/design-tokens/compare/v5.43.0...v5.43.1) (2025-09-09)
+
+
+### Bug Fixes
+
+* update ftva no signal svg ([#152](https://github.com/UCLALibrary/design-tokens/issues/152)) ([e0d87d4](https://github.com/UCLALibrary/design-tokens/commit/e0d87d46df2f541efecaa481cbbd7bc2f6143f7e))
+
 # [5.43.0](https://github.com/UCLALibrary/design-tokens/compare/v5.42.0...v5.43.0) (2025-09-09)
 
 
