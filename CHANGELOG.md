@@ -1,3 +1,10 @@
+# [5.45.0](https://github.com/UCLALibrary/design-tokens/compare/v5.44.0...v5.45.0) (2025-09-23)
+
+
+### Features
+
+* add dlp logo ([#154](https://github.com/UCLALibrary/design-tokens/issues/154)) ([ecd7ebb](https://github.com/UCLALibrary/design-tokens/commit/ecd7ebb09a8e1e5a276083ef22f77390f7962942))
+
 # [5.44.0](https://github.com/UCLALibrary/design-tokens/compare/v5.43.1...v5.44.0) (2025-09-17)
 
 
