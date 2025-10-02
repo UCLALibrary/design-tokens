@@ -35,18 +35,18 @@
 }
 
 @mixin card-horizontal-hover {
-    transform: $transform-zoom-hover;
-    @include shadow-state-change;
+  transform: $transform-zoom-hover;
+  @include shadow-state-change;
 }
 
 @mixin card-vertical-hover {
-    transform: $transform-zoom-hover-l;
-    @include shadow-state-change;
+  transform: $transform-zoom-hover-l;
+  @include shadow-state-change;
 }
 
-@mixin  animate-normal {
-    transition-duration: $transition-timing-normal;
-    transition-timing-function: $transition-easing;
+@mixin animate-normal {
+  transition-duration: $transition-timing-normal;
+  transition-timing-function: $transition-easing;
 }
 
 @mixin visually-hidden {
@@ -86,12 +86,12 @@
 }
 
 @mixin overline {
-    font-family: $font-primary;
-    font-size: var(--step--1);
-    font-weight: $font-weight-medium;
-    line-height: $line-height--2;
-    letter-spacing: $letter-spacing-2;
-    text-transform: uppercase;
+  font-family: $font-primary;
+  font-size: var(--step--1);
+  font-weight: $font-weight-medium;
+  line-height: $line-height--2;
+  letter-spacing: $letter-spacing-2;
+  text-transform: uppercase;
 }
 
 @mixin step--1 {
@@ -187,6 +187,27 @@
   line-height: 110%;
 }
 
+@mixin ftva-fpb-rich-text-h3 {
+  font-family: $font-primary;
+  font-size: 36px;
+  font-weight: $font-weight-regular;
+  line-height: 110%;
+}
+
+@mixin ftva-fpb-rich-text-h4 {
+  font-family: $font-primary;
+  font-size: 28px;
+  font-weight: $font-weight-medium;
+  line-height: 110%;
+}
+
+@mixin ftva-fpb-rich-text-h5 {
+  font-family: $font-primary;
+  font-size: 28px;
+  font-weight: $font-weight-regular;
+  line-height: 110%;
+}
+
 @mixin ftva-card-title-1 {
   font-family: $font-primary;
   font-size: 30px;
@@ -230,14 +251,14 @@
   font-family: $font-secondary;
   font-size: 18px;
   font-weight: $font-weight-regular;
-  line-height: 150%; 
+  line-height: 150%;
 }
 
 @mixin ftva-body-2 {
   font-family: $font-secondary;
   font-size: 16px;
   font-weight: $font-weight-regular;
-  line-height: 150%; 
+  line-height: 150%;
 }
 
 @mixin button {
@@ -305,7 +326,7 @@
   font-family: $font-primary;
   font-size: 16px;
   font-weight: $font-weight-regular;
-  line-height: 140%; 
+  line-height: 140%;
   letter-spacing: 0.64px;
   text-transform: uppercase;
 }
@@ -344,8 +365,8 @@
 }
 
 @mixin truncate($lines: 2) {
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: $lines;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $lines;
 }
