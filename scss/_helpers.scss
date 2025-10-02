@@ -187,28 +187,6 @@
   line-height: 110%;
 }
 
-// Flexible Page Block RichText Headings
-@mixin ftva-fpb-rich-text-h3 {
-  font-family: $font-primary;
-  font-size: 36px;
-  font-weight: $font-weight-regular;
-  line-height: 110%;
-}
-
-@mixin ftva-fpb-rich-text-h4 {
-  font-family: $font-primary;
-  font-size: 28px;
-  font-weight: $font-weight-medium;
-  line-height: 110%;
-}
-
-@mixin ftva-fpb-rich-text-h5 {
-  font-family: $font-primary;
-  font-size: 28px;
-  font-weight: $font-weight-regular;
-  line-height: 110%;
-}
-
 @mixin ftva-card-title-1 {
   font-family: $font-primary;
   font-size: 30px;
@@ -370,4 +348,26 @@
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: $lines;
+}
+
+// Flexible Page Block RichText Headings
+@mixin ftva-fpb-rich-text-h3 {
+  font-family: $font-primary;
+  font-size: 36px;
+  font-weight: $font-weight-regular;
+  line-height: 110%;
+}
+
+@mixin ftva-fpb-rich-text-h4 {
+  font-family: $font-primary;
+  font-size: 28px;
+  font-weight: $font-weight-medium;
+  line-height: 110%;
+}
+
+@mixin ftva-fpb-rich-text-h5 {
+  font-family: $font-primary;
+  font-size: 28px;
+  font-weight: $font-weight-regular;
+  line-height: 110%;
 }
