@@ -1,3 +1,10 @@
+# [5.47.0](https://github.com/UCLALibrary/design-tokens/compare/v5.46.0...v5.47.0) (2025-10-03)
+
+
+### Features
+
+* update headings sizes and styling for fpb richtext ([#158](https://github.com/UCLALibrary/design-tokens/issues/158)) ([f09183e](https://github.com/UCLALibrary/design-tokens/commit/f09183eea640f06917cd4b178aabd9435c44f3be))
+
 # [5.45.0](https://github.com/UCLALibrary/design-tokens/compare/v5.44.0...v5.45.0) (2025-09-23)
 
 
