@@ -1,3 +1,10 @@
+# [5.48.0](https://github.com/UCLALibrary/design-tokens/compare/v5.47.0...v5.48.0) (2025-10-10)
+
+
+### Features
+
+* add mixin for ftva fpb rich-text ul & ol ([#159](https://github.com/UCLALibrary/design-tokens/issues/159)) ([873afcd](https://github.com/UCLALibrary/design-tokens/commit/873afcd767bd4f22928d656e9048334c985d9f6a))
+
 # [5.47.0](https://github.com/UCLALibrary/design-tokens/compare/v5.46.0...v5.47.0) (2025-10-03)
 
 
