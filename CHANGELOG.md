@@ -1,3 +1,10 @@
+# [5.49.0](https://github.com/UCLALibrary/design-tokens/compare/v5.48.0...v5.49.0) (2025-10-10)
+
+
+### Features
+
+* refactored list mixins ([#160](https://github.com/UCLALibrary/design-tokens/issues/160)) ([dae2cbc](https://github.com/UCLALibrary/design-tokens/commit/dae2cbc64a8706129bd7d1d0f18dc8ba79d95dc8))
+
 # [5.48.0](https://github.com/UCLALibrary/design-tokens/compare/v5.47.0...v5.48.0) (2025-10-10)
 
 
