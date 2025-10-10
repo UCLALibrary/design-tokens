@@ -209,6 +209,28 @@
   line-height: 110%;
 }
 
+@mixin ftva-fpb-rich-text-ul {
+  ul {
+    padding: 0;
+
+    li {
+      position: relative;
+      padding-left: calc(1rem + 22px);
+
+      &::before {
+        position: absolute;
+        margin-left: calc(-1rem - 22px);
+      }
+    }
+  }
+}
+
+@mixin ftva-fpb-rich-text-ol {
+  ol {
+    padding: 0;
+  }
+}
+
 @mixin ftva-card-title-1 {
   font-family: $font-primary;
   font-size: 30px;
