@@ -209,25 +209,14 @@
   line-height: 110%;
 }
 
-@mixin ftva-fpb-rich-text-ul {
-  ul {
-    padding: 0;
+// ordered & unordered list items
+@mixin ftva-fpb-rich-text-li {
+  position: relative;
+  padding-left: calc(1rem + 22px);
 
-    li {
-      position: relative;
-      padding-left: calc(1rem + 22px);
-
-      &::before {
-        position: absolute;
-        margin-left: calc(-1rem - 22px);
-      }
-    }
-  }
-}
-
-@mixin ftva-fpb-rich-text-ol {
-  ol {
-    padding: 0;
+  &::before {
+    position: absolute;
+    margin-left: calc(-1rem - 22px);
   }
 }
 
