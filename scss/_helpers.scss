@@ -382,3 +382,9 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: $lines;
 }
+ @mixin ftva-wrapper-title {
+    color: $heading-grey;
+    font-size: var(--step-4);
+    font-family: $font-primary;
+    font-weight: 400;
+ }
