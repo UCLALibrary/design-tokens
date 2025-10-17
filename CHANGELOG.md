@@ -1,3 +1,10 @@
+# [5.50.0](https://github.com/UCLALibrary/design-tokens/compare/v5.49.0...v5.50.0) (2025-10-17)
+
+
+### Features
+
+* add title mixin for H1 titles related to SectionWrapper component ([#161](https://github.com/UCLALibrary/design-tokens/issues/161)) ([4d37f33](https://github.com/UCLALibrary/design-tokens/commit/4d37f333ce536f67a079586bb0b1b0b892e392c9))
+
 # [5.49.0](https://github.com/UCLALibrary/design-tokens/compare/v5.48.0...v5.49.0) (2025-10-10)
 
 
