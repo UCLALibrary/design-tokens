@@ -1,3 +1,10 @@
+# [5.51.0](https://github.com/UCLALibrary/design-tokens/compare/v5.50.0...v5.51.0) (2025-10-22)
+
+
+### Features
+
+* add social icons ([#162](https://github.com/UCLALibrary/design-tokens/issues/162)) ([d41f6b3](https://github.com/UCLALibrary/design-tokens/commit/d41f6b3ec606f1fd8bc66a63f19ecd3d13456b83))
+
 # [5.50.0](https://github.com/UCLALibrary/design-tokens/compare/v5.49.0...v5.50.0) (2025-10-17)
 
 
