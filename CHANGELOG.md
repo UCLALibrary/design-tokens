@@ -1,3 +1,10 @@
+## [5.51.1](https://github.com/UCLALibrary/design-tokens/compare/v5.51.0...v5.51.1) (2025-11-07)
+
+
+### Bug Fixes
+
+* add title to svg social icons ([#164](https://github.com/UCLALibrary/design-tokens/issues/164)) ([985b894](https://github.com/UCLALibrary/design-tokens/commit/985b894b5e541c80e987cfa863855103ba48b316))
+
 # [5.51.0](https://github.com/UCLALibrary/design-tokens/compare/v5.50.0...v5.51.0) (2025-10-22)
 
 
