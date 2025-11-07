@@ -1,4 +1,5 @@
-<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-ftva-footer_fb">
+<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-ftva-footer_fb" role="img">
+<title>Facebook</title>
 <rect y="0.625" width="31" height="31" rx="15.5" fill="#115DAF"/>
 <path d="M16.6526 16.7389V23.125H13.9194V16.7389H11.6338V14.2501H13.9194V12.4147C13.9194 10.2848 15.3028 9.125 17.3235 9.125C18.2914 9.125 19.1234 9.19275 19.3658 9.22307V11.4491L17.9641 11.4496C16.8654 11.4496 16.6526 11.9407 16.6526 12.6612V14.2501H19.2735L18.9323 16.7389H16.6526Z" fill="white"/>
 </svg>
