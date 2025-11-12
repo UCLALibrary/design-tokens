@@ -1,3 +1,10 @@
+# [5.52.0](https://github.com/UCLALibrary/design-tokens/compare/v5.51.1...v5.52.0) (2025-11-12)
+
+
+### Features
+
+* add icon-tiny-close ([#165](https://github.com/UCLALibrary/design-tokens/issues/165)) ([b6f1ab2](https://github.com/UCLALibrary/design-tokens/commit/b6f1ab2b58c23921946c750c0e5b5901038d20ac))
+
 ## [5.51.1](https://github.com/UCLALibrary/design-tokens/compare/v5.51.0...v5.51.1) (2025-11-07)
 
 
