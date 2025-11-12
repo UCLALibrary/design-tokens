@@ -1,4 +1,5 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-share-medium">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-share-medium" role="img">
+<title>Medium</title>
   <circle cx="16" cy="16" r="16" fill="#F2F2F2" class="svg__fill--secondary-grey-01" />
   <path
     d="M17.138 15.9999c0 2.7886-2.2452 5.0492-5.0134 5.0492-2.76821 0-5.01342-2.2623-5.01342-5.0492 0-2.787 2.24521-5.0492 5.01342-5.0492 2.7682 0 5.0134 2.2605 5.0134 5.0492Z"

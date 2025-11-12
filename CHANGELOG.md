@@ -1,3 +1,24 @@
+# [5.52.0](https://github.com/UCLALibrary/design-tokens/compare/v5.51.1...v5.52.0) (2025-11-12)
+
+
+### Features
+
+* add icon-tiny-close ([#165](https://github.com/UCLALibrary/design-tokens/issues/165)) ([b6f1ab2](https://github.com/UCLALibrary/design-tokens/commit/b6f1ab2b58c23921946c750c0e5b5901038d20ac))
+
+## [5.51.1](https://github.com/UCLALibrary/design-tokens/compare/v5.51.0...v5.51.1) (2025-11-07)
+
+
+### Bug Fixes
+
+* add title to svg social icons ([#164](https://github.com/UCLALibrary/design-tokens/issues/164)) ([985b894](https://github.com/UCLALibrary/design-tokens/commit/985b894b5e541c80e987cfa863855103ba48b316))
+
+# [5.51.0](https://github.com/UCLALibrary/design-tokens/compare/v5.50.0...v5.51.0) (2025-10-22)
+
+
+### Features
+
+* add social icons ([#162](https://github.com/UCLALibrary/design-tokens/issues/162)) ([d41f6b3](https://github.com/UCLALibrary/design-tokens/commit/d41f6b3ec606f1fd8bc66a63f19ecd3d13456b83))
+
 # [5.50.0](https://github.com/UCLALibrary/design-tokens/compare/v5.49.0...v5.50.0) (2025-10-17)
 
 

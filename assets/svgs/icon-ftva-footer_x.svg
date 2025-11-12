@@ -1,4 +1,5 @@
-<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-ftva-footer_x">
+<svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg__icon-ftva-footer_x" role="img">
+<title>X</title>
 <rect y="0.625" width="31" height="31" rx="15.5" fill="#115DAF"/>
 <path d="M16.7101 15.1296L21.4455 9.625H20.3234L16.2116 14.4046L12.9275 9.625H9.13965L14.1058 16.8526L9.13965 22.625H10.2619L14.6041 17.5776L18.0723 22.625H21.8601L16.7098 15.1296H16.7101ZM15.173 16.9162L14.6698 16.1965L10.6662 10.4698H12.3899L15.6209 15.0915L16.124 15.8112L20.3239 21.8186H18.6002L15.173 16.9165V16.9162Z" fill="white"/>
 </svg>
