@@ -1,3 +1,10 @@
+# [5.55.0](https://github.com/UCLALibrary/design-tokens/compare/v5.54.0...v5.55.0) (2025-11-14)
+
+
+### Features
+
+* update footer logo for ftva ([#168](https://github.com/UCLALibrary/design-tokens/issues/168)) ([0ebba24](https://github.com/UCLALibrary/design-tokens/commit/0ebba240cb160d7b6d4a3c387bc18aa753b1e788))
+
 # [5.54.0](https://github.com/UCLALibrary/design-tokens/compare/v5.53.0...v5.54.0) (2025-11-13)
 
 
