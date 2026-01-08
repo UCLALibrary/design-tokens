@@ -306,9 +306,8 @@
 }
 
 @mixin ftva-text-link-hover {
-  @include ftva-button-link;
   text-decoration: underline;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 3px;
   text-decoration-color: $bright-blue;
   text-underline-offset: 2px;
 }
@@ -382,9 +381,10 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: $lines;
 }
- @mixin ftva-wrapper-title {
-    color: $heading-grey;
-    font-size: var(--step-4);
-    font-family: $font-primary;
-    font-weight: 400;
- }
+
+@mixin ftva-wrapper-title {
+  color: $heading-grey;
+  font-size: var(--step-4);
+  font-family: $font-primary;
+  font-weight: 400;
+}
