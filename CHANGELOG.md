@@ -1,3 +1,10 @@
+# [5.56.0](https://github.com/UCLALibrary/design-tokens/compare/v5.55.0...v5.56.0) (2026-01-09)
+
+
+### Features
+
+* update styling for ftva-card-title-1 ([#169](https://github.com/UCLALibrary/design-tokens/issues/169)) ([937a556](https://github.com/UCLALibrary/design-tokens/commit/937a5560934b04b250b21a55bf9766e3861062f7))
+
 # [5.55.0](https://github.com/UCLALibrary/design-tokens/compare/v5.54.0...v5.55.0) (2025-11-14)
 
 
