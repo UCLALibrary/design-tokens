@@ -1,66 +1,70 @@
+@use "media-queries";
+@use "tokens";
+@use "tokens-excluded";
+
 :root {
-    --color-white: #{$white};
-    --color-black: #{$black};
+    --color-white: #{tokens.$white};
+    --color-black: #{tokens.$black};
 
     // Primary colors
-    --color-primary-yellow-01: #{$primary-yellow-01};
-    --color-primary-blue-01: #{$primary-blue-01};
-    --color-primary-blue-02: #{$primary-blue-02};
-    --color-primary-blue-03: #{$primary-blue-03};
-    --color-primary-blue-04: #{$primary-blue-04};
-    --color-primary-blue-05: #{$primary-blue-05};
+    --color-primary-yellow-01: #{tokens.$primary-yellow-01};
+    --color-primary-blue-01: #{tokens.$primary-blue-01};
+    --color-primary-blue-02: #{tokens.$primary-blue-02};
+    --color-primary-blue-03: #{tokens.$primary-blue-03};
+    --color-primary-blue-04: #{tokens.$primary-blue-04};
+    --color-primary-blue-05: #{tokens.$primary-blue-05};
 
     // Secondary colors
-    --color-secondary-yellow-01: #{$secondary-yellow-01};
-    --color-secondary-yellow-02: #{$secondary-yellow-02};
-    --color-secondary-yellow-03: #{$secondary-yellow-03};
+    --color-secondary-yellow-01: #{tokens.$secondary-yellow-01};
+    --color-secondary-yellow-02: #{tokens.$secondary-yellow-02};
+    --color-secondary-yellow-03: #{tokens.$secondary-yellow-03};
 
-    --color-secondary-blue-01: #{$secondary-blue-01};
-    --color-secondary-blue-02: #{$secondary-blue-02};
-    --color-secondary-blue-03: #{$secondary-blue-03};
+    --color-secondary-blue-01: #{tokens.$secondary-blue-01};
+    --color-secondary-blue-02: #{tokens.$secondary-blue-02};
+    --color-secondary-blue-03: #{tokens.$secondary-blue-03};
 
-    --color-secondary-grey-01: #{$secondary-grey-01};
-    --color-secondary-grey-02: #{$secondary-grey-02};
-    --color-secondary-grey-03: #{$secondary-grey-03};
-    --color-secondary-grey-04: #{$secondary-grey-04};
-    --color-secondary-grey-05: #{$secondary-grey-05};
+    --color-secondary-grey-01: #{tokens.$secondary-grey-01};
+    --color-secondary-grey-02: #{tokens.$secondary-grey-02};
+    --color-secondary-grey-03: #{tokens.$secondary-grey-03};
+    --color-secondary-grey-04: #{tokens.$secondary-grey-04};
+    --color-secondary-grey-05: #{tokens.$secondary-grey-05};
 
     // Way Finder - Tertiary colors
-    --color-default-cyan-01: #{$default-cyan-01};
-    --color-default-cyan-02: #{$default-cyan-02};
-    --color-default-cyan-03: #{$default-cyan-03};
+    --color-default-cyan-01: #{tokens.$default-cyan-01};
+    --color-default-cyan-02: #{tokens.$default-cyan-02};
+    --color-default-cyan-03: #{tokens.$default-cyan-03};
 
-    --color-help-green-01: #{$help-green-01};
-    --color-help-green-02: #{$help-green-02};
-    --color-help-green-03: #{$help-green-03};
+    --color-help-green-01: #{tokens.$help-green-01};
+    --color-help-green-02: #{tokens.$help-green-02};
+    --color-help-green-03: #{tokens.$help-green-03};
 
-    --color-visit-fushia-01: #{$visit-fushia-01};
-    --color-visit-fushia-02: #{$visit-fushia-02};
-    --color-visit-fushia-03: #{$visit-fushia-03};
+    --color-visit-fushia-01: #{tokens.$visit-fushia-01};
+    --color-visit-fushia-02: #{tokens.$visit-fushia-02};
+    --color-visit-fushia-03: #{tokens.$visit-fushia-03};
 
-    --color-about-purple-01: #{$about-purple-01};
-    --color-about-purple-02: #{$about-purple-02};
-    --color-about-purple-03: #{$about-purple-03};
+    --color-about-purple-01: #{tokens.$about-purple-01};
+    --color-about-purple-02: #{tokens.$about-purple-02};
+    --color-about-purple-03: #{tokens.$about-purple-03};
 
     // Status colors
-    --color-status-error-01: #{$status-error-01};
-    --color-status-error-02: #{$status-error-02};
+    --color-status-error-01: #{tokens.$status-error-01};
+    --color-status-error-02: #{tokens.$status-error-02};
 
-    --color-status-success-01: #{$status-success-01};
-    --color-status-success-02: #{$status-success-02};
+    --color-status-success-01: #{tokens.$status-success-01};
+    --color-status-success-02: #{tokens.$status-success-02};
 
     // Unit sizing and spacing
-    --unit-gutter: #{$whitespace-m-sides}px;
+    --unit-gutter: #{tokens.$whitespace-m-sides}px;
     --unit-vertical-gap: 100px;
     --unit-sticky-header-height: 96px;
     --unit-footer-height: 376px;
 
-    --unit-full-width: #{$container-xl-full-width}px;
-    --unit-banner-width: #{$container-xl-banner}px;
-    --unit-cta-width: #{$container-l-cta}px;
-    --unit-content-width: #{$container-l-main}px;
+    --unit-full-width: #{tokens.$container-xl-full-width}px;
+    --unit-banner-width: #{tokens.$container-xl-banner}px;
+    --unit-cta-width: #{tokens.$container-l-cta}px;
+    --unit-content-width: #{tokens.$container-l-main}px;
     --unit-center-column-max: var(--unit-content-width);
-    --unit-center-text-max: #{$container-l-text}px;
+    --unit-center-text-max: #{tokens.$container-l-text}px;
 
     // Component spacing
     // $component-09: 48;
@@ -87,12 +91,12 @@
     // $transform-flip-horizontally: scaleX(-1);
 
     // Fonts
-    --font-primary: #{$font-primary};
-    --font-secondary: #{$font-secondary};
+    --font-primary: #{tokens-excluded.$font-primary};
+    --font-secondary: #{tokens-excluded.$font-secondary};
 
     // Borders
-    --rounded-slightly-all: #{$rounded-slightly}px;
-    --rounded-slightly-top: #{$rounded-slightly}px #{$rounded-slightly}px 0 0;
+    --rounded-slightly-all: #{tokens.$rounded-slightly}px;
+    --rounded-slightly-top: #{tokens.$rounded-slightly}px #{tokens.$rounded-slightly}px 0 0;
 
     // Gradients
     // $overlays-overlay-01: linear-gradient(117.49deg, #0F0F0F 0%, #0f0f0f40 31.88%, #0f0f0f00 58.42%), linear-gradient(180deg, #0f0f0f00 0%, #0f0f0f40 67.57%, #0F0F0F 100%);
@@ -134,13 +138,13 @@
         rgba(15, 15, 15, 0) 58.42%
     );
 
-    --gradient-radial: #{$overlays-overlay-03};
+    --gradient-radial: #{tokens.$overlays-overlay-03};
 
-    @media #{$medium} {
-        --unit-gutter: #{$whitespace-m-sides}px;
-        --unit-center-text-max: #{$container-m-text}px;
+    @media #{media-queries.$medium} {
+        --unit-gutter: #{tokens.$whitespace-m-sides}px;
+        --unit-center-text-max: #{tokens.$container-m-text}px;
     }
-    @media #{$small} {
-        --unit-gutter: #{$whitespace-s-sides}px;
+    @media #{media-queries.$small} {
+        --unit-gutter: #{tokens.$whitespace-s-sides}px;
     }
 }
