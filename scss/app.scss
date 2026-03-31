@@ -1,5 +1,6 @@
 /* Include per component */
-@forward "_tokens.scss";
-@forward "_tokens-excluded.scss";
-@forward "_media-queries.scss";
-@forward "_helpers.scss";
+@forward './abstracts';  
+@forward "abstracts/_tokens.scss";
+@forward "abstracts/_tokens-excluded.scss";
+@forward "abstracts/_media-queries.scss";
+@forward "abstracts/_helpers.scss";
