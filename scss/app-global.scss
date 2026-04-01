@@ -1,6 +1,6 @@
 /* Include only once globally via build configs */
-@forward './abstracts';  
-@forward "abstracts/_typography.scss";
-@forward "abstracts/_spacing.scss";
-@use "abstracts/_tokens-css.scss";
-@use "abstracts/_reset.scss";
+
+@forward "_typography.scss";
+@forward "_spacing.scss";
+@use "_tokens-css.scss";
+@use "_reset.scss";

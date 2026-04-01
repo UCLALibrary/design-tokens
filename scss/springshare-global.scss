@@ -1,9 +1,8 @@
-@forward './abstracts';  
-@forward "abstracts/_tokens.scss";
-@forward "abstracts/_tokens-excluded.scss";
-@forward "abstracts/_media-queries.scss";
-@forward "abstracts/_helpers.scss";
-@forward "abstracts/_typography.scss";
-@forward "abstracts/_spacing.scss";
-@use "abstracts/_tokens-css.scss";
-@use "abstracts/_reset.scss";
+@forward "_tokens.scss";
+@forward "_tokens-excluded.scss";
+@forward "_media-queries.scss";
+@forward "_helpers.scss";
+@forward "_typography.scss";
+@forward "_spacing.scss";
+@use "_tokens-css.scss";
+@use "_reset.scss";
