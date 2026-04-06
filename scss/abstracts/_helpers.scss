@@ -1,5 +1,6 @@
 @use "tokens";
 @use "tokens-excluded";
+@use "ftva-tokens" as ftva-tokens;
 
 @mixin shadow-01 {
   box-shadow: 0px 6px 32px rgba(0, 0, 0, 0.08), 0px 1px 2px rgba(0, 0, 0, 0.04);
@@ -301,17 +302,17 @@
 
 @mixin ftva-text-link-default {
   @include ftva-button-link;
-  color: $medium-grey;
+  color: ftva-tokens.$medium-grey;
   text-decoration: underline;
   text-decoration-thickness: 2px;
-  text-decoration-color: $grey-blue;
+  text-decoration-color: ftva-tokens.$grey-blue;
   text-underline-offset: 2px;
 }
 
 @mixin ftva-text-link-hover {
   text-decoration: underline;
   text-decoration-thickness: 3px;
-  text-decoration-color: $bright-blue;
+  text-decoration-color: ftva-tokens.$bright-blue;
   text-underline-offset: 2px;
 }
 
@@ -358,11 +359,11 @@
   font-size: 16px;
   font-weight: tokens-excluded.$font-weight-regular;
   line-height: 150%;
-  color: $body-grey;
+  color: ftva-tokens.$body-grey;
 }
 
 @mixin ftva-date-muted {
-  color: $subtitle-grey;
+  color: ftva-tokens.$subtitle-grey;
   font-family: tokens-excluded.$font-secondary;
   font-size: 16px;
   font-style: normal;
@@ -386,7 +387,7 @@
 }
 
 @mixin ftva-wrapper-title {
-  color: $heading-grey;
+  color: ftva-tokens.$heading-grey;
   font-size: var(--step-4);
   font-family: tokens-excluded.$font-primary;
   font-weight: 400;
