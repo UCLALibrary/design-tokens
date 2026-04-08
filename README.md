@@ -79,6 +79,7 @@ Or, you can update the version number in the `package.json` file and run `npm in
 Helpful reminders to future selves:
 - Use the commit message conventions that trigger [semantic releases](https://semantic-release.gitbook.io/semantic-release/support/faq#how-can-i-change-the-type-of-commits-that-trigger-a-release)
   - feat: A new feature
+    - feat: A new feature with  \n\n BREAKING CHANGE: [new requirement]
   - fix: A bug fix
   - docs: Documentation only changes
   - style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
