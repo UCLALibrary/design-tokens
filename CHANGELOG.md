@@ -1,3 +1,17 @@
+# [6.0.0](https://github.com/UCLALibrary/design-tokens/compare/v5.57.0...v6.0.0) (2026-04-08)
+
+
+### Features
+
+* upgraded sass ([#173](https://github.com/UCLALibrary/design-tokens/issues/173)) ([98a49f0](https://github.com/UCLALibrary/design-tokens/commit/98a49f087d2a8c507792ca3df794c5d57a337c22))
+
+
+### BREAKING CHANGES
+
+* upgraded sass in https://github.com/UCLALibrary/design-tokens/pull/171
+
+this is attempting to trigger the release of the v6.0.0
+
 # [5.57.0](https://github.com/UCLALibrary/design-tokens/compare/v5.56.0...v5.57.0) (2026-04-08)
 
 
