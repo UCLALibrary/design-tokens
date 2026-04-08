@@ -1,3 +1,10 @@
+# [5.57.0](https://github.com/UCLALibrary/design-tokens/compare/v5.56.0...v5.57.0) (2026-04-08)
+
+
+### Features
+
+* trigger release of major version /n/n BREAKING CHANGE: upgraded sass ([#172](https://github.com/UCLALibrary/design-tokens/issues/172)) ([f730ea4](https://github.com/UCLALibrary/design-tokens/commit/f730ea40eb9909420f2bde6a90c24782b94ccb91))
+
 # [5.56.0](https://github.com/UCLALibrary/design-tokens/compare/v5.55.0...v5.56.0) (2026-01-09)
 
 
