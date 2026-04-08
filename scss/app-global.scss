@@ -1,5 +1,5 @@
-/* Include only once globally via build configs */
-@import "_typography.scss";
-@import "_spacing.scss";
-@import "_tokens-css.scss";
-@import "_reset.scss";
+@forward './abstracts'; 
+// @forward "_typography.scss";
+// @forward "_spacing.scss";
+// @use "_tokens-css.scss";
+// @use "_reset.scss";

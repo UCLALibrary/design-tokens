@@ -1,3 +1,5 @@
+@use "_tokens-dlc" as *;
+
 :root {
     --color-dark-grey: #{$dark-grey};
     --color-button-iiif-red: #{$buton-iiif-red};

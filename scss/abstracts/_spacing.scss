@@ -1,3 +1,5 @@
+@use "typography";
+
 @use "sass:math";
 
 $multipliers: (
@@ -28,21 +30,21 @@ $multipliers: (
 --fc-s-max: calc(var(--f-0-max, #{$max-size}));
 }
 
-$min-width: 375;
-$min-size: 8;
+typography.$min-width: 375;
+typography.$min-size: 8;
 
-$max-width: 1440;
-$max-size: 16;
+typography.$max-width: 1440;
+typography.$max-size: 16;
 
 $space-prefix: "space";
 
-$var-minw: --#{$space-prefix}-min-width;
-$var-maxw: --#{$space-prefix}-max-width;
-$var-bp: --#{$space-prefix}-bp;
+typography.$var-minw: --#{$space-prefix}-min-width;
+typography.$var-maxw: --#{$space-prefix}-max-width;
+typography.$var-bp: --#{$space-prefix}-bp;
 
 :root {
-  #{$var-minw}: #{$min-width};
-  #{$var-maxw}: #{$max-width};
+  #{typography.$var-minw}: #{typography.$min-width};
+  #{typography.$var-maxw}: #{typography.$max-width};
 
   --space-screen: 100vw;
   --space-bp: calc(
@@ -51,12 +53,12 @@ $var-bp: --#{$space-prefix}-bp;
   );
 }
 
-@media screen and (min-width: #{$max-width}px) {
+@media screen and (min-width: #{typography.$max-width}px) {
   :root {
     --space-screen: calc(var(--space-max-width) * 1px);
   }
 }
 
 :root {
-  @include process-spaces($min-size, $max-size, $var-bp, $space-prefix);
+  @include process-spaces(typography.$min-size, typography.$max-size, typography.$var-bp, $space-prefix);
 }
