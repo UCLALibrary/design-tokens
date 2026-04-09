@@ -3,7 +3,7 @@
   "version": "0.0.0-development",
   "description": "Design tokens for UCLA Library",
   "files": [
-    "scss/*.scss",
+    "scss/**/*.scss",
     "assets/*"
   ],
   "scripts": {
