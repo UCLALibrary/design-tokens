@@ -71,7 +71,7 @@ Or, you can update the version number in the `package.json` file and run `npm in
 
 - `data/tokens.json` - Syncs with Figma Tokens plugin
 - `data/transformed-tokens.json` - Tokens transformed to be usable by Style Dictionary
-- `scss/*` - Tokens usable by developers
+- `scss/abstracts/*` - Tokens usable by developers
 - `assets/*` - Assets usable by developers
 
 ## Best Practices
