@@ -1,3 +1,10 @@
+## [6.0.1](https://github.com/UCLALibrary/design-tokens/compare/v6.0.0...v6.0.1) (2026-04-10)
+
+
+### Bug Fixes
+
+* update file config ([#174](https://github.com/UCLALibrary/design-tokens/issues/174)) ([c621600](https://github.com/UCLALibrary/design-tokens/commit/c6216002fdcfc54b4f14704487d47d475d0daa4e))
+
 # [6.0.0](https://github.com/UCLALibrary/design-tokens/compare/v5.57.0...v6.0.0) (2026-04-08)
 
 
