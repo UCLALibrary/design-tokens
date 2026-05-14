@@ -5,7 +5,7 @@
       "transformGroup": "scss",
       "files": [
         {
-          "destination": "scss/abstracts/_tokens.scss",
+          "destination": "scss/_tokens.scss",
           "format": "scss/variables",
           "options": {
             "outputReferences": true
