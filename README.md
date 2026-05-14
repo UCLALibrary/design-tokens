@@ -2,7 +2,7 @@
 
 Design tokens for UCLA Library.
 
-The **Design Tokens** repository stores and syncs design tokens from the UCLA Library Design System using the [Figma Tokens plugin](https://docs.tokens.studio/) and GitHub Actions to generate Sass variables for use. 
+The **Design Tokens** repository stores and syncs design tokens from the UCLA Library Design System using the [Figma Tokens plugin](https://docs.tokens.studio/) and GitHub Actions to generate Sass variables for use as an [NPM package](https://www.npmjs.com/package/ucla-library-design-tokens).
 
 ## What are Design Tokens?
 
