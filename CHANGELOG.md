@@ -1,3 +1,10 @@
+## [6.0.2](https://github.com/UCLALibrary/design-tokens/compare/v6.0.1...v6.0.2) (2026-05-14)
+
+
+### Bug Fixes
+
+* Change Figma Tokens plugin to Token Studio ([#177](https://github.com/UCLALibrary/design-tokens/issues/177)) ([16cfa97](https://github.com/UCLALibrary/design-tokens/commit/16cfa975f9a2f73daaddb0e60f9e600b7d86ba80))
+
 ## [6.0.1](https://github.com/UCLALibrary/design-tokens/compare/v6.0.0...v6.0.1) (2026-04-10)
 
 
