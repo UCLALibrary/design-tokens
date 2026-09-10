@@ -392,5 +392,23 @@
   "round": {
     "value": 60,
     "type": "borderRadius"
+  },
+  "viewport": {
+    "small": {
+      "value": 375,
+      "type": "spacing"
+    },
+    "medium": {
+      "value": 768,
+      "type": "spacing"
+    },
+    "large": {
+      "value": 1440,
+      "type": "spacing"
+    },
+    "extra-large": {
+      "value": 1920,
+      "type": "spacing"
+    }
   }
 }

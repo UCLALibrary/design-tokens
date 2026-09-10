@@ -257,7 +257,7 @@
     "description": "Border Radius for rounded tagged corners"
   },
   "darker-blue": {
-    "value": "#054A94",
+    "value": "#940435",
     "type": "color"
   },
   "bright-blue": {
@@ -770,5 +770,23 @@
   "round": {
     "value": 60,
     "type": "borderRadius"
+  },
+  "viewport": {
+    "small": {
+      "value": 375,
+      "type": "spacing"
+    },
+    "medium": {
+      "value": 768,
+      "type": "spacing"
+    },
+    "large": {
+      "value": 1440,
+      "type": "spacing"
+    },
+    "extra-large": {
+      "value": 1920,
+      "type": "spacing"
+    }
   }
 }
